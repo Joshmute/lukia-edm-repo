@@ -1,0 +1,17 @@
+Activity,Accountable,Responsible,Consulted,Informed
+Customer record creation,Customer-service manager,Cashier / customer-service officer,"DPO, IT",Store manager
+Product master approval,Procurement manager,Product steward,"COO, Finance","IT, stores"
+Supplier change approval,Procurement manager,Procurement officer,Finance,IT
+Customer merge/unmerge,Customer-service manager,Customer steward,DPO,"IT, affected service team"
+New shared attribute,COO,Domain owner,"DPO, IT, CFO",Council
+Access request approval,Data owner,IT administrator,"DPO, line manager",Requester
+Access revocation,IT manager,IT administrator,HR,Data owner
+Quality exception triage,Domain owner,Domain steward,IT,COO
+Financial reconciliation,CFO,Finance officer,"IT, store manager",COO
+Breach declaration/escalation,DPO,IT incident lead,"CEO, affected owner",Council
+Regulatory notification,DPO,DPO,"Counsel, CEO",Board
+Retention schedule approval,DPO,Domain owner,"Counsel, CFO",IT
+Retention execution,IT manager,IT administrator,"DPO, owner",Council
+KPI definition approval,CFO,BI/finance analyst,"COO, domain owner",Board
+Backup restore test,IT manager,IT administrator,DPO,COO
+EU launch gate,CEO,COO,"DPO, counsel, IT",Board

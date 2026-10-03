@@ -1,0 +1,6 @@
+Board question,"Sources, preparation and method",Output and decision
+Who is becoming inactive?,Linked purchases and loyalty; fixed as-of date; 90-day no-purchase cohort among previously active members,Cohort heatmap and at-risk count; test a consented retention offer. Six months limits seasonal inference.
+Which segments are growing?,Customer crosswalk + sales; stable segment definitions; compare like periods,Monthly distinct buyers and net sales trend by segment. Do not sum distinct counts.
+Where should stock move?,"Sales, stock snapshots, lead times; align units and freshness",Days-of-cover exceptions by store/product; review transfer costs and service levels. Sales alone cannot prove stock-outs.
+Which payments need investigation?,"Orders, provider events, settlements; join on provider/reference",Unmatched value and review queue; flags are not confirmed fraud.
+Where should expansion be tested?,"Store economics, catchment/footfall, costs and market data",Comparable-store contribution and scenario analysis. Sales extracts alone cannot justify Kenya/Rwanda entry.

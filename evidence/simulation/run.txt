@@ -1,0 +1,56 @@
+{
+  "simulation": true,
+  "seed": 40008,
+  "sales": {
+    "input_rows": 60000,
+    "loaded": 60000,
+    "replayed": 0,
+    "quarantined": 0,
+    "errors": []
+  },
+  "replay": {
+    "input_rows": 60000,
+    "loaded": 0,
+    "replayed": 60000,
+    "quarantined": 0,
+    "errors": []
+  },
+  "net_sales_by_currency": {
+    "UGX": "704629100.00",
+    "KES": "220563.00",
+    "RWF": "2345520.00"
+  },
+  "unmatched_electronic": {
+    "UGX": {
+      "count": 322,
+      "net_value": "3886000.00"
+    },
+    "KES": {
+      "count": 1,
+      "net_value": "492"
+    },
+    "RWF": {
+      "count": 4,
+      "net_value": "33845.00"
+    }
+  },
+  "inactivity": {
+    "as_of": "2026-08-01",
+    "eligible_members": 3477,
+    "inactive_90_days": 484,
+    "inactive_pct": 13.92
+  },
+  "footfall": {
+    "input_events": 847,
+    "unique_events": 840,
+    "duplicate_events": 7
+  },
+  "enriched_attributes": 1177,
+  "returned_lines": 1824,
+  "rows": {
+    "customer_input": 5000,
+    "customer_output": 4060,
+    "product_input": 1200,
+    "product_output": 1080
+  }
+}

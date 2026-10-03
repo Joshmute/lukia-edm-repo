@@ -1,0 +1,13 @@
+Risk,L x I = initial,Control / owner,Residual
+R01 Unmanaged export theft,5 x 5 =25,Managed encryption + export gate / IT,2 x 5 =10
+R02 Phishing/account takeover,4 x 5 =20,"MFA, least privilege, training / IT",2 x 4 =8
+R03 Insider payroll access,3 x 5 =15,HR isolation and access review / HR,1 x 5 =5
+R04 Late incident reporting,5 x 4 =20,Duty route + exercises / DPO,2 x 4 =8
+R05 Ransomware and failed restore,4 x 5 =20,Separate backup + tested recovery / IT,2 x 5 =10
+R06 Lost offline queue,4 x 4 =16,"Durable writes, disk checks, reconciliation / IT",2 x 4 =8
+R07 Harmful identity merge,4 x 5 =20,"Verified review, reversible ledger / Customer owner",2 x 5 =10
+R08 Misconfigured cloud sharing,3 x 5 =15,Private default + config checks / IT,2 x 4 =8
+R09 Unsupported overseas transfer,3 x 4 =12,Processor/transfer assessment / DPO,2 x 4 =8
+R10 Payment replay/fraud,4 x 4 =16,Idempotency and settlement matching / CFO,2 x 4 =8
+R11 Excess retention,4 x 4 =16,Expiry + deletion ledger / DPO,2 x 3 =6
+R12 Sensitive public dashboard,3 x 5 =15,Aggregate release review / CFO + DPO,1 x 5 =5

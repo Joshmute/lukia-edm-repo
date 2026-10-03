@@ -1,0 +1,16 @@
+ID,Assumption / uncertainty,Consequence and validation owner
+A01,"COO, CFO, procurement, HR, customer-service and compliance titles exist",CEO confirms duties and conflicts before charter approval.
+A02,Entire 18-month plan should fit 480M despite annual wording,Conservative 468M cap; CFO confirms budget interpretation.
+A03,Two SQL staff can each reserve one day/week,IT manager validates workload; slow rollout if unavailable.
+A04,POS can persist a durable outbox on UPS-backed hardware,IT tests disk/clock/recovery and vendor constraints in pilot.
+A05,Only the assignment PDF was supplied,Use labelled simulation contracts; remap and validate before any real deployment.
+A06,Four demo districts are not a national reference list,Customer owner supplies complete approved list before metrics.
+A07,Existing verified identity fields can support review,Customer owner checks availability; otherwise no auto-merge.
+A08,90-day inactivity is a useful starting definition,Marketing validates purchase cycles and seasonality.
+A09,One active loyalty account per customer,Owner confirms programme rules; preserve historical accounts.
+A10,"Prices, tax and volumes fit planning allowances",CFO obtains quotes and maintains forecast-to-complete.
+A11,GDPR-equivalent partner expectations are contractual unless direct scope applies,DPO assesses EU targeting/establishment and transfer roles.
+A12,Retention periods in P3 are proposed operating choices,DPO and counsel approve record-specific statutory schedules.
+A13,Reflection explores a possible data/BI-to-governance career,"Career discussion is an intended pathway, not a claim of employment experience."
+A14,Footfall sample contains no persistent personal identifier,Inspect actual schema and revise DPIA if false.
+A15,8.4% variance and 23% duplicates are scenario estimates,Recompute denominators and baselines; do not treat them as test outputs.

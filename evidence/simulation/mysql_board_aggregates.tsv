@@ -1,0 +1,835 @@
+Month	District	Category	Channel	Currency	NetSales	NetUnits	ActiveCustomers
+2026-02-01	Gulu	Cleaning	ecommerce	KES	519.00	3.000	1
+2026-02-01	Gulu	Cleaning	ecommerce	UGX	1111200.00	162.000	71
+2026-02-01	Gulu	Cleaning	loyalty_app	RWF	8165.00	3.000	2
+2026-02-01	Gulu	Cleaning	loyalty_app	UGX	653900.00	94.000	40
+2026-02-01	Gulu	Cleaning	pos	KES	1012.00	4.000	1
+2026-02-01	Gulu	Cleaning	pos	UGX	1387450.00	212.000	96
+2026-02-01	Gulu	Dairy & Eggs	ecommerce	UGX	669900.00	126.000	54
+2026-02-01	Gulu	Dairy & Eggs	loyalty_app	KES	228.00	1.000	1
+2026-02-01	Gulu	Dairy & Eggs	loyalty_app	RWF	3777.00	3.000	1
+2026-02-01	Gulu	Dairy & Eggs	loyalty_app	UGX	472500.00	90.000	37
+2026-02-01	Gulu	Dairy & Eggs	pos	KES	282.00	1.000	1
+2026-02-01	Gulu	Dairy & Eggs	pos	RWF	1537.00	1.000	1
+2026-02-01	Gulu	Dairy & Eggs	pos	UGX	1140200.00	218.000	103
+2026-02-01	Gulu	Drinks	ecommerce	KES	170.00	2.000	1
+2026-02-01	Gulu	Drinks	ecommerce	UGX	534450.00	113.000	47
+2026-02-01	Gulu	Drinks	loyalty_app	UGX	484500.00	105.000	42
+2026-02-01	Gulu	Drinks	pos	KES	166.00	1.000	1
+2026-02-01	Gulu	Drinks	pos	UGX	942000.00	220.000	90
+2026-02-01	Gulu	Fresh Food	ecommerce	KES	450.00	2.000	0
+2026-02-01	Gulu	Fresh Food	ecommerce	UGX	541350.00	132.000	53
+2026-02-01	Gulu	Fresh Food	loyalty_app	UGX	491850.00	107.000	46
+2026-02-01	Gulu	Fresh Food	pos	KES	351.00	3.000	1
+2026-02-01	Gulu	Fresh Food	pos	RWF	9000.00	6.000	1
+2026-02-01	Gulu	Fresh Food	pos	UGX	1041600.00	232.000	108
+2026-02-01	Gulu	Personal Care	ecommerce	RWF	11480.00	4.000	1
+2026-02-01	Gulu	Personal Care	ecommerce	UGX	738750.00	111.000	56
+2026-02-01	Gulu	Personal Care	loyalty_app	UGX	793750.00	118.000	46
+2026-02-01	Gulu	Personal Care	pos	RWF	3425.00	1.000	1
+2026-02-01	Gulu	Personal Care	pos	UGX	1403000.00	212.000	90
+2026-02-01	Jinja	Cleaning	ecommerce	KES	2344.00	8.000	2
+2026-02-01	Jinja	Cleaning	ecommerce	RWF	2629.00	1.000	1
+2026-02-01	Jinja	Cleaning	ecommerce	UGX	1479400.00	224.000	106
+2026-02-01	Jinja	Cleaning	loyalty_app	RWF	9961.00	4.000	2
+2026-02-01	Jinja	Cleaning	loyalty_app	UGX	802500.00	120.000	57
+2026-02-01	Jinja	Cleaning	pos	RWF	7184.00	4.000	0
+2026-02-01	Jinja	Cleaning	pos	UGX	2884950.00	432.000	171
+2026-02-01	Jinja	Dairy & Eggs	ecommerce	RWF	13514.00	5.000	2
+2026-02-01	Jinja	Dairy & Eggs	ecommerce	UGX	1378150.00	271.000	107
+2026-02-01	Jinja	Dairy & Eggs	loyalty_app	KES	524.00	3.000	2
+2026-02-01	Jinja	Dairy & Eggs	loyalty_app	UGX	458350.00	94.000	47
+2026-02-01	Jinja	Dairy & Eggs	pos	KES	242.00	2.000	1
+2026-02-01	Jinja	Dairy & Eggs	pos	RWF	10592.00	4.000	1
+2026-02-01	Jinja	Dairy & Eggs	pos	UGX	2059300.00	382.000	156
+2026-02-01	Jinja	Drinks	ecommerce	KES	1368.00	6.000	2
+2026-02-01	Jinja	Drinks	ecommerce	RWF	2332.00	2.000	1
+2026-02-01	Jinja	Drinks	ecommerce	UGX	931650.00	211.000	86
+2026-02-01	Jinja	Drinks	loyalty_app	UGX	682050.00	157.000	66
+2026-02-01	Jinja	Drinks	pos	KES	1228.00	10.000	2
+2026-02-01	Jinja	Drinks	pos	RWF	10665.00	7.000	3
+2026-02-01	Jinja	Drinks	pos	UGX	1522350.00	374.000	146
+2026-02-01	Jinja	Fresh Food	ecommerce	RWF	15719.00	9.000	3
+2026-02-01	Jinja	Fresh Food	ecommerce	UGX	1064250.00	245.000	92
+2026-02-01	Jinja	Fresh Food	loyalty_app	KES	495.00	4.000	2
+2026-02-01	Jinja	Fresh Food	loyalty_app	UGX	693150.00	148.000	63
+2026-02-01	Jinja	Fresh Food	pos	KES	684.00	4.000	1
+2026-02-01	Jinja	Fresh Food	pos	RWF	12330.00	6.000	2
+2026-02-01	Jinja	Fresh Food	pos	UGX	1567200.00	364.000	161
+2026-02-01	Jinja	Personal Care	ecommerce	RWF	1481.00	1.000	1
+2026-02-01	Jinja	Personal Care	ecommerce	UGX	1404500.00	221.000	89
+2026-02-01	Jinja	Personal Care	loyalty_app	KES	1247.00	5.000	2
+2026-02-01	Jinja	Personal Care	loyalty_app	RWF	2870.00	1.000	1
+2026-02-01	Jinja	Personal Care	loyalty_app	UGX	871750.00	136.000	59
+2026-02-01	Jinja	Personal Care	pos	RWF	3148.00	1.000	1
+2026-02-01	Jinja	Personal Care	pos	UGX	2583000.00	396.000	160
+2026-02-01	Kampala	Cleaning	ecommerce	KES	2227.00	9.000	3
+2026-02-01	Kampala	Cleaning	ecommerce	UGX	3486750.00	525.000	235
+2026-02-01	Kampala	Cleaning	loyalty_app	KES	146.00	1.000	1
+2026-02-01	Kampala	Cleaning	loyalty_app	RWF	1518.00	1.000	1
+2026-02-01	Kampala	Cleaning	loyalty_app	UGX	2610750.00	390.000	177
+2026-02-01	Kampala	Cleaning	pos	KES	1904.00	7.000	3
+2026-02-01	Kampala	Cleaning	pos	RWF	27531.00	11.000	4
+2026-02-01	Kampala	Cleaning	pos	UGX	6208400.00	934.000	382
+2026-02-01	Kampala	Dairy & Eggs	ecommerce	KES	282.00	3.000	2
+2026-02-01	Kampala	Dairy & Eggs	ecommerce	RWF	15754.00	7.000	3
+2026-02-01	Kampala	Dairy & Eggs	ecommerce	UGX	3353500.00	640.000	247
+2026-02-01	Kampala	Dairy & Eggs	loyalty_app	RWF	4184.00	2.000	1
+2026-02-01	Kampala	Dairy & Eggs	loyalty_app	UGX	2223900.00	426.000	159
+2026-02-01	Kampala	Dairy & Eggs	pos	KES	2253.00	10.000	5
+2026-02-01	Kampala	Dairy & Eggs	pos	RWF	16312.00	7.000	4
+2026-02-01	Kampala	Dairy & Eggs	pos	UGX	5650850.00	1019.000	399
+2026-02-01	Kampala	Drinks	ecommerce	KES	556.00	4.000	2
+2026-02-01	Kampala	Drinks	ecommerce	RWF	12606.00	7.000	2
+2026-02-01	Kampala	Drinks	ecommerce	UGX	2271900.00	566.000	231
+2026-02-01	Kampala	Drinks	loyalty_app	KES	775.00	5.000	2
+2026-02-01	Kampala	Drinks	loyalty_app	RWF	10332.00	6.000	1
+2026-02-01	Kampala	Drinks	loyalty_app	UGX	1930650.00	436.000	191
+2026-02-01	Kampala	Drinks	pos	KES	769.00	4.000	4
+2026-02-01	Kampala	Drinks	pos	RWF	10883.00	11.000	5
+2026-02-01	Kampala	Drinks	pos	UGX	3882600.00	929.000	387
+2026-02-01	Kampala	Fresh Food	ecommerce	KES	1366.00	8.000	2
+2026-02-01	Kampala	Fresh Food	ecommerce	RWF	11776.00	6.000	2
+2026-02-01	Kampala	Fresh Food	ecommerce	UGX	2444850.00	532.000	214
+2026-02-01	Kampala	Fresh Food	loyalty_app	KES	352.00	3.000	2
+2026-02-01	Kampala	Fresh Food	loyalty_app	RWF	5609.00	3.000	2
+2026-02-01	Kampala	Fresh Food	loyalty_app	UGX	1992450.00	444.000	195
+2026-02-01	Kampala	Fresh Food	pos	KES	1644.00	14.000	5
+2026-02-01	Kampala	Fresh Food	pos	RWF	3000.00	2.000	1
+2026-02-01	Kampala	Fresh Food	pos	UGX	4580250.00	1020.000	392
+2026-02-01	Kampala	Personal Care	ecommerce	KES	1053.00	4.000	3
+2026-02-01	Kampala	Personal Care	ecommerce	RWF	15924.00	7.000	4
+2026-02-01	Kampala	Personal Care	ecommerce	UGX	3814500.00	588.000	252
+2026-02-01	Kampala	Personal Care	loyalty_app	KES	909.00	3.000	1
+2026-02-01	Kampala	Personal Care	loyalty_app	RWF	13884.00	6.000	1
+2026-02-01	Kampala	Personal Care	loyalty_app	UGX	3002500.00	445.000	185
+2026-02-01	Kampala	Personal Care	pos	KES	1223.00	5.000	3
+2026-02-01	Kampala	Personal Care	pos	RWF	3518.00	2.000	2
+2026-02-01	Kampala	Personal Care	pos	UGX	6977500.00	1063.000	401
+2026-02-01	Mbarara	Cleaning	ecommerce	RWF	12737.00	4.000	2
+2026-02-01	Mbarara	Cleaning	ecommerce	UGX	1272800.00	208.000	96
+2026-02-01	Mbarara	Cleaning	loyalty_app	UGX	498000.00	75.000	36
+2026-02-01	Mbarara	Cleaning	pos	KES	611.00	4.000	2
+2026-02-01	Mbarara	Cleaning	pos	UGX	1826350.00	266.000	113
+2026-02-01	Mbarara	Dairy & Eggs	ecommerce	KES	282.00	1.000	1
+2026-02-01	Mbarara	Dairy & Eggs	ecommerce	UGX	793050.00	162.000	71
+2026-02-01	Mbarara	Dairy & Eggs	loyalty_app	UGX	571350.00	114.000	51
+2026-02-01	Mbarara	Dairy & Eggs	pos	KES	578.00	5.000	2
+2026-02-01	Mbarara	Dairy & Eggs	pos	UGX	1386650.00	251.000	113
+2026-02-01	Mbarara	Drinks	ecommerce	KES	246.00	1.000	1
+2026-02-01	Mbarara	Drinks	ecommerce	RWF	2555.00	1.000	1
+2026-02-01	Mbarara	Drinks	ecommerce	UGX	893550.00	207.000	81
+2026-02-01	Mbarara	Drinks	loyalty_app	UGX	476700.00	118.000	54
+2026-02-01	Mbarara	Drinks	pos	KES	510.00	6.000	1
+2026-02-01	Mbarara	Drinks	pos	RWF	4943.00	4.000	3
+2026-02-01	Mbarara	Drinks	pos	UGX	1321500.00	315.000	130
+2026-02-01	Mbarara	Fresh Food	ecommerce	UGX	752400.00	178.000	77
+2026-02-01	Mbarara	Fresh Food	loyalty_app	RWF	2832.00	3.000	1
+2026-02-01	Mbarara	Fresh Food	loyalty_app	UGX	409200.00	89.000	32
+2026-02-01	Mbarara	Fresh Food	pos	KES	744.00	7.000	2
+2026-02-01	Mbarara	Fresh Food	pos	RWF	5496.00	7.000	2
+2026-02-01	Mbarara	Fresh Food	pos	UGX	1321200.00	304.000	133
+2026-02-01	Mbarara	Personal Care	ecommerce	KES	338.00	2.000	1
+2026-02-01	Mbarara	Personal Care	ecommerce	RWF	6942.00	3.000	1
+2026-02-01	Mbarara	Personal Care	ecommerce	UGX	1168250.00	182.000	78
+2026-02-01	Mbarara	Personal Care	loyalty_app	UGX	612500.00	92.000	34
+2026-02-01	Mbarara	Personal Care	pos	KES	223.00	1.000	1
+2026-02-01	Mbarara	Personal Care	pos	RWF	17311.00	7.000	3
+2026-02-01	Mbarara	Personal Care	pos	UGX	1789750.00	277.000	112
+2026-03-01	Gulu	Cleaning	ecommerce	KES	280.00	1.000	1
+2026-03-01	Gulu	Cleaning	ecommerce	UGX	837000.00	120.000	50
+2026-03-01	Gulu	Cleaning	loyalty_app	KES	346.00	2.000	1
+2026-03-01	Gulu	Cleaning	loyalty_app	UGX	588550.00	83.000	34
+2026-03-01	Gulu	Cleaning	pos	KES	319.00	2.000	2
+2026-03-01	Gulu	Cleaning	pos	RWF	10776.00	6.000	3
+2026-03-01	Gulu	Cleaning	pos	UGX	1709700.00	252.000	106
+2026-03-01	Gulu	Dairy & Eggs	ecommerce	UGX	588950.00	113.000	54
+2026-03-01	Gulu	Dairy & Eggs	loyalty_app	UGX	715000.00	130.000	44
+2026-03-01	Gulu	Dairy & Eggs	pos	KES	282.00	1.000	1
+2026-03-01	Gulu	Dairy & Eggs	pos	RWF	5036.00	4.000	2
+2026-03-01	Gulu	Dairy & Eggs	pos	UGX	1288150.00	241.000	100
+2026-03-01	Gulu	Drinks	ecommerce	KES	492.00	2.000	1
+2026-03-01	Gulu	Drinks	ecommerce	UGX	622800.00	162.000	75
+2026-03-01	Gulu	Drinks	loyalty_app	RWF	2332.00	2.000	1
+2026-03-01	Gulu	Drinks	loyalty_app	UGX	457950.00	103.000	38
+2026-03-01	Gulu	Drinks	pos	RWF	2332.00	2.000	1
+2026-03-01	Gulu	Drinks	pos	UGX	1154550.00	257.000	105
+2026-03-01	Gulu	Fresh Food	ecommerce	KES	337.00	4.000	2
+2026-03-01	Gulu	Fresh Food	ecommerce	RWF	2664.00	4.000	1
+2026-03-01	Gulu	Fresh Food	ecommerce	UGX	729600.00	157.000	62
+2026-03-01	Gulu	Fresh Food	loyalty_app	UGX	533850.00	112.000	46
+2026-03-01	Gulu	Fresh Food	pos	KES	988.00	5.000	3
+2026-03-01	Gulu	Fresh Food	pos	RWF	5609.00	3.000	1
+2026-03-01	Gulu	Fresh Food	pos	UGX	1273500.00	265.000	99
+2026-03-01	Gulu	Personal Care	ecommerce	UGX	1157250.00	171.000	70
+2026-03-01	Gulu	Personal Care	loyalty_app	KES	284.00	2.000	1
+2026-03-01	Gulu	Personal Care	loyalty_app	RWF	2870.00	1.000	1
+2026-03-01	Gulu	Personal Care	loyalty_app	UGX	589250.00	89.000	39
+2026-03-01	Gulu	Personal Care	pos	KES	1657.00	6.000	3
+2026-03-01	Gulu	Personal Care	pos	RWF	5832.00	3.000	2
+2026-03-01	Gulu	Personal Care	pos	UGX	1218000.00	186.000	81
+2026-03-01	Jinja	Cleaning	ecommerce	KES	1842.00	6.000	1
+2026-03-01	Jinja	Cleaning	ecommerce	UGX	1518400.00	224.000	95
+2026-03-01	Jinja	Cleaning	loyalty_app	RWF	4702.00	2.000	1
+2026-03-01	Jinja	Cleaning	loyalty_app	UGX	1163000.00	175.000	74
+2026-03-01	Jinja	Cleaning	pos	KES	1425.00	7.000	3
+2026-03-01	Jinja	Cleaning	pos	RWF	7053.00	3.000	1
+2026-03-01	Jinja	Cleaning	pos	UGX	3177650.00	454.000	174
+2026-03-01	Jinja	Dairy & Eggs	ecommerce	RWF	1259.00	1.000	1
+2026-03-01	Jinja	Dairy & Eggs	ecommerce	UGX	1210050.00	207.000	90
+2026-03-01	Jinja	Dairy & Eggs	loyalty_app	KES	402.00	2.000	1
+2026-03-01	Jinja	Dairy & Eggs	loyalty_app	RWF	5296.00	2.000	1
+2026-03-01	Jinja	Dairy & Eggs	loyalty_app	UGX	743050.00	142.000	53
+2026-03-01	Jinja	Dairy & Eggs	pos	KES	242.00	2.000	1
+2026-03-01	Jinja	Dairy & Eggs	pos	RWF	15888.00	6.000	1
+2026-03-01	Jinja	Dairy & Eggs	pos	UGX	1829750.00	350.000	151
+2026-03-01	Jinja	Drinks	ecommerce	UGX	1152750.00	265.000	113
+2026-03-01	Jinja	Drinks	loyalty_app	UGX	678450.00	158.000	66
+2026-03-01	Jinja	Drinks	pos	KES	429.00	6.000	2
+2026-03-01	Jinja	Drinks	pos	UGX	1640850.00	384.000	169
+2026-03-01	Jinja	Fresh Food	ecommerce	KES	320.00	5.000	2
+2026-03-01	Jinja	Fresh Food	ecommerce	UGX	1162350.00	277.000	121
+2026-03-01	Jinja	Fresh Food	loyalty_app	KES	792.00	4.000	1
+2026-03-01	Jinja	Fresh Food	loyalty_app	UGX	575250.00	135.000	61
+2026-03-01	Jinja	Fresh Food	pos	KES	792.00	4.000	1
+2026-03-01	Jinja	Fresh Food	pos	RWF	6165.00	3.000	1
+2026-03-01	Jinja	Fresh Food	pos	UGX	1597800.00	376.000	167
+2026-03-01	Jinja	Personal Care	ecommerce	UGX	1852250.00	278.000	122
+2026-03-01	Jinja	Personal Care	loyalty_app	RWF	2037.00	1.000	1
+2026-03-01	Jinja	Personal Care	loyalty_app	UGX	955250.00	158.000	79
+2026-03-01	Jinja	Personal Care	pos	KES	990.00	3.000	1
+2026-03-01	Jinja	Personal Care	pos	UGX	2842250.00	434.000	177
+2026-03-01	Kampala	Cleaning	ecommerce	RWF	29197.00	11.000	4
+2026-03-01	Kampala	Cleaning	ecommerce	UGX	5351700.00	792.000	309
+2026-03-01	Kampala	Cleaning	loyalty_app	KES	692.00	4.000	2
+2026-03-01	Kampala	Cleaning	loyalty_app	RWF	11480.00	5.000	2
+2026-03-01	Kampala	Cleaning	loyalty_app	UGX	2634950.00	397.000	175
+2026-03-01	Kampala	Cleaning	pos	KES	1570.00	6.000	3
+2026-03-01	Kampala	Cleaning	pos	RWF	16202.00	5.000	2
+2026-03-01	Kampala	Cleaning	pos	UGX	7366000.00	1115.000	433
+2026-03-01	Kampala	Dairy & Eggs	ecommerce	KES	1812.00	7.000	3
+2026-03-01	Kampala	Dairy & Eggs	ecommerce	RWF	-2092.00	-1.000	0
+2026-03-01	Kampala	Dairy & Eggs	ecommerce	UGX	3429900.00	651.000	296
+2026-03-01	Kampala	Dairy & Eggs	loyalty_app	KES	94.00	1.000	0
+2026-03-01	Kampala	Dairy & Eggs	loyalty_app	RWF	24699.00	13.000	5
+2026-03-01	Kampala	Dairy & Eggs	loyalty_app	UGX	2114850.00	399.000	165
+2026-03-01	Kampala	Dairy & Eggs	pos	KES	658.00	3.000	3
+2026-03-01	Kampala	Dairy & Eggs	pos	RWF	5999.00	3.000	2
+2026-03-01	Kampala	Dairy & Eggs	pos	UGX	5609300.00	1052.000	433
+2026-03-01	Kampala	Drinks	ecommerce	KES	443.00	3.000	2
+2026-03-01	Kampala	Drinks	ecommerce	RWF	40712.00	23.000	5
+2026-03-01	Kampala	Drinks	ecommerce	UGX	2528550.00	607.000	264
+2026-03-01	Kampala	Drinks	loyalty_app	KES	1074.00	6.000	3
+2026-03-01	Kampala	Drinks	loyalty_app	RWF	7665.00	3.000	2
+2026-03-01	Kampala	Drinks	loyalty_app	UGX	1894650.00	426.000	182
+2026-03-01	Kampala	Drinks	pos	KES	779.00	6.000	2
+2026-03-01	Kampala	Drinks	pos	RWF	22876.00	17.000	4
+2026-03-01	Kampala	Drinks	pos	UGX	4627500.00	1065.000	419
+2026-03-01	Kampala	Fresh Food	ecommerce	KES	812.00	6.000	3
+2026-03-01	Kampala	Fresh Food	ecommerce	RWF	2721.00	2.000	2
+2026-03-01	Kampala	Fresh Food	ecommerce	UGX	3097500.00	665.000	274
+2026-03-01	Kampala	Fresh Food	loyalty_app	KES	939.00	8.000	4
+2026-03-01	Kampala	Fresh Food	loyalty_app	UGX	1740900.00	383.000	164
+2026-03-01	Kampala	Fresh Food	pos	KES	1268.00	9.000	4
+2026-03-01	Kampala	Fresh Food	pos	RWF	24215.00	13.000	6
+2026-03-01	Kampala	Fresh Food	pos	UGX	4916550.00	1086.000	427
+2026-03-01	Kampala	Personal Care	ecommerce	KES	2298.00	9.000	4
+2026-03-01	Kampala	Personal Care	ecommerce	RWF	13237.00	5.000	2
+2026-03-01	Kampala	Personal Care	ecommerce	UGX	4097750.00	632.000	263
+2026-03-01	Kampala	Personal Care	loyalty_app	KES	1256.00	6.000	3
+2026-03-01	Kampala	Personal Care	loyalty_app	RWF	19810.00	7.000	4
+2026-03-01	Kampala	Personal Care	loyalty_app	UGX	2762500.00	418.000	188
+2026-03-01	Kampala	Personal Care	pos	KES	2423.00	11.000	3
+2026-03-01	Kampala	Personal Care	pos	RWF	21849.00	8.000	5
+2026-03-01	Kampala	Personal Care	pos	UGX	6535000.00	994.000	396
+2026-03-01	Mbarara	Cleaning	ecommerce	KES	519.00	3.000	1
+2026-03-01	Mbarara	Cleaning	ecommerce	UGX	1233200.00	187.000	80
+2026-03-01	Mbarara	Cleaning	loyalty_app	KES	146.00	1.000	1
+2026-03-01	Mbarara	Cleaning	loyalty_app	UGX	993600.00	141.000	49
+2026-03-01	Mbarara	Cleaning	pos	UGX	2290850.00	331.000	122
+2026-03-01	Mbarara	Dairy & Eggs	ecommerce	UGX	971600.00	179.000	70
+2026-03-01	Mbarara	Dairy & Eggs	loyalty_app	UGX	572950.00	103.000	45
+2026-03-01	Mbarara	Dairy & Eggs	pos	RWF	6295.00	5.000	2
+2026-03-01	Mbarara	Dairy & Eggs	pos	UGX	1471500.00	285.000	129
+2026-03-01	Mbarara	Drinks	ecommerce	KES	768.00	4.000	1
+2026-03-01	Mbarara	Drinks	ecommerce	UGX	836550.00	202.000	76
+2026-03-01	Mbarara	Drinks	loyalty_app	UGX	364650.00	86.000	41
+2026-03-01	Mbarara	Drinks	pos	KES	139.00	1.000	1
+2026-03-01	Mbarara	Drinks	pos	UGX	1163700.00	278.000	116
+2026-03-01	Mbarara	Fresh Food	ecommerce	RWF	1998.00	3.000	1
+2026-03-01	Mbarara	Fresh Food	ecommerce	UGX	684900.00	168.000	67
+2026-03-01	Mbarara	Fresh Food	loyalty_app	UGX	657150.00	148.000	60
+2026-03-01	Mbarara	Fresh Food	pos	KES	432.00	3.000	1
+2026-03-01	Mbarara	Fresh Food	pos	RWF	18554.00	12.000	3
+2026-03-01	Mbarara	Fresh Food	pos	UGX	1360650.00	308.000	131
+2026-03-01	Mbarara	Personal Care	ecommerce	KES	1534.00	7.000	2
+2026-03-01	Mbarara	Personal Care	ecommerce	RWF	9072.00	5.000	2
+2026-03-01	Mbarara	Personal Care	ecommerce	UGX	1061500.00	166.000	62
+2026-03-01	Mbarara	Personal Care	loyalty_app	UGX	487750.00	82.000	35
+2026-03-01	Mbarara	Personal Care	pos	KES	909.00	3.000	1
+2026-03-01	Mbarara	Personal Care	pos	RWF	5924.00	4.000	1
+2026-03-01	Mbarara	Personal Care	pos	UGX	2208000.00	327.000	135
+2026-04-01	Gulu	Cleaning	ecommerce	UGX	914150.00	139.000	63
+2026-04-01	Gulu	Cleaning	loyalty_app	RWF	5388.00	3.000	1
+2026-04-01	Gulu	Cleaning	loyalty_app	UGX	800700.00	117.000	53
+2026-04-01	Gulu	Cleaning	pos	KES	999.00	3.000	1
+2026-04-01	Gulu	Cleaning	pos	UGX	1668350.00	256.000	107
+2026-04-01	Gulu	Dairy & Eggs	ecommerce	KES	350.00	2.000	1
+2026-04-01	Gulu	Dairy & Eggs	ecommerce	UGX	919550.00	167.000	71
+2026-04-01	Gulu	Dairy & Eggs	loyalty_app	RWF	9222.00	6.000	1
+2026-04-01	Gulu	Dairy & Eggs	loyalty_app	UGX	533050.00	97.000	44
+2026-04-01	Gulu	Dairy & Eggs	pos	RWF	6554.00	3.000	3
+2026-04-01	Gulu	Dairy & Eggs	pos	UGX	1211150.00	236.000	101
+2026-04-01	Gulu	Drinks	ecommerce	KES	614.00	5.000	2
+2026-04-01	Gulu	Drinks	ecommerce	UGX	587250.00	130.000	67
+2026-04-01	Gulu	Drinks	loyalty_app	UGX	392850.00	99.000	42
+2026-04-01	Gulu	Drinks	pos	RWF	5110.00	2.000	1
+2026-04-01	Gulu	Drinks	pos	UGX	1046700.00	248.000	98
+2026-04-01	Gulu	Fresh Food	ecommerce	UGX	610350.00	147.000	66
+2026-04-01	Gulu	Fresh Food	loyalty_app	KES	144.00	1.000	1
+2026-04-01	Gulu	Fresh Food	loyalty_app	UGX	359400.00	83.000	39
+2026-04-01	Gulu	Fresh Food	pos	RWF	1222.00	1.000	1
+2026-04-01	Gulu	Fresh Food	pos	UGX	1456950.00	324.000	130
+2026-04-01	Gulu	Personal Care	ecommerce	KES	811.00	4.000	2
+2026-04-01	Gulu	Personal Care	ecommerce	UGX	1038750.00	147.000	71
+2026-04-01	Gulu	Personal Care	loyalty_app	RWF	14072.00	5.000	2
+2026-04-01	Gulu	Personal Care	loyalty_app	UGX	497250.00	78.000	39
+2026-04-01	Gulu	Personal Care	pos	RWF	15552.00	6.000	1
+2026-04-01	Gulu	Personal Care	pos	UGX	1765250.00	254.000	112
+2026-04-01	Jinja	Cleaning	ecommerce	KES	876.00	6.000	1
+2026-04-01	Jinja	Cleaning	ecommerce	RWF	2351.00	1.000	1
+2026-04-01	Jinja	Cleaning	ecommerce	UGX	1999350.00	306.000	126
+2026-04-01	Jinja	Cleaning	loyalty_app	KES	1842.00	6.000	1
+2026-04-01	Jinja	Cleaning	loyalty_app	RWF	1796.00	1.000	1
+2026-04-01	Jinja	Cleaning	loyalty_app	UGX	1324650.00	204.000	88
+2026-04-01	Jinja	Cleaning	pos	KES	173.00	1.000	1
+2026-04-01	Jinja	Cleaning	pos	RWF	17442.00	6.000	1
+2026-04-01	Jinja	Cleaning	pos	UGX	2780850.00	426.000	180
+2026-04-01	Jinja	Dairy & Eggs	ecommerce	KES	804.00	4.000	1
+2026-04-01	Jinja	Dairy & Eggs	ecommerce	RWF	10592.00	4.000	1
+2026-04-01	Jinja	Dairy & Eggs	ecommerce	UGX	1226900.00	236.000	98
+2026-04-01	Jinja	Dairy & Eggs	loyalty_app	UGX	1168200.00	213.000	85
+2026-04-01	Jinja	Dairy & Eggs	pos	KES	1692.00	6.000	1
+2026-04-01	Jinja	Dairy & Eggs	pos	RWF	2518.00	2.000	1
+2026-04-01	Jinja	Dairy & Eggs	pos	UGX	1941500.00	380.000	166
+2026-04-01	Jinja	Drinks	ecommerce	KES	192.00	1.000	1
+2026-04-01	Jinja	Drinks	ecommerce	RWF	5776.00	4.000	1
+2026-04-01	Jinja	Drinks	ecommerce	UGX	1067250.00	260.000	114
+2026-04-01	Jinja	Drinks	loyalty_app	RWF	27385.00	13.000	5
+2026-04-01	Jinja	Drinks	loyalty_app	UGX	574650.00	151.000	69
+2026-04-01	Jinja	Drinks	pos	KES	854.00	5.000	3
+2026-04-01	Jinja	Drinks	pos	RWF	3444.00	2.000	1
+2026-04-01	Jinja	Drinks	pos	UGX	2231550.00	532.000	215
+2026-04-01	Jinja	Fresh Food	ecommerce	KES	64.00	1.000	1
+2026-04-01	Jinja	Fresh Food	ecommerce	UGX	1206600.00	282.000	105
+2026-04-01	Jinja	Fresh Food	loyalty_app	RWF	4777.00	3.000	2
+2026-04-01	Jinja	Fresh Food	loyalty_app	UGX	968100.00	212.000	92
+2026-04-01	Jinja	Fresh Food	pos	UGX	1999650.00	453.000	198
+2026-04-01	Jinja	Personal Care	ecommerce	RWF	10924.00	4.000	1
+2026-04-01	Jinja	Personal Care	ecommerce	UGX	2066250.00	297.000	124
+2026-04-01	Jinja	Personal Care	loyalty_app	KES	568.00	4.000	1
+2026-04-01	Jinja	Personal Care	loyalty_app	UGX	1412500.00	202.000	75
+2026-04-01	Jinja	Personal Care	pos	KES	0.00	0.000	1
+2026-04-01	Jinja	Personal Care	pos	UGX	3234750.00	480.000	184
+2026-04-01	Kampala	Cleaning	ecommerce	KES	1544.00	8.000	3
+2026-04-01	Kampala	Cleaning	ecommerce	RWF	39865.00	14.000	6
+2026-04-01	Kampala	Cleaning	ecommerce	UGX	4936800.00	753.000	304
+2026-04-01	Kampala	Cleaning	loyalty_app	KES	614.00	2.000	1
+2026-04-01	Kampala	Cleaning	loyalty_app	UGX	2889400.00	419.000	186
+2026-04-01	Kampala	Cleaning	pos	KES	1064.00	6.000	3
+2026-04-01	Kampala	Cleaning	pos	RWF	26830.00	12.000	5
+2026-04-01	Kampala	Cleaning	pos	UGX	8526300.00	1263.000	499
+2026-04-01	Kampala	Dairy & Eggs	ecommerce	KES	1330.00	7.000	3
+2026-04-01	Kampala	Dairy & Eggs	ecommerce	RWF	4333.00	3.000	2
+2026-04-01	Kampala	Dairy & Eggs	ecommerce	UGX	3986700.00	738.000	283
+2026-04-01	Kampala	Dairy & Eggs	loyalty_app	KES	820.00	5.000	2
+2026-04-01	Kampala	Dairy & Eggs	loyalty_app	UGX	3095650.00	586.000	211
+2026-04-01	Kampala	Dairy & Eggs	pos	KES	1275.00	5.000	3
+2026-04-01	Kampala	Dairy & Eggs	pos	RWF	16457.00	8.000	4
+2026-04-01	Kampala	Dairy & Eggs	pos	UGX	6544350.00	1239.000	507
+2026-04-01	Kampala	Drinks	ecommerce	KES	1754.00	8.000	5
+2026-04-01	Kampala	Drinks	ecommerce	RWF	8608.00	5.000	3
+2026-04-01	Kampala	Drinks	ecommerce	UGX	2441550.00	572.000	257
+2026-04-01	Kampala	Drinks	loyalty_app	KES	246.00	1.000	1
+2026-04-01	Kampala	Drinks	loyalty_app	RWF	7108.00	8.000	4
+2026-04-01	Kampala	Drinks	loyalty_app	UGX	2487450.00	548.000	224
+2026-04-01	Kampala	Drinks	pos	KES	2717.00	14.000	6
+2026-04-01	Kampala	Drinks	pos	RWF	25827.00	15.000	6
+2026-04-01	Kampala	Drinks	pos	UGX	5485650.00	1286.000	510
+2026-04-01	Kampala	Fresh Food	ecommerce	KES	1314.00	8.000	2
+2026-04-01	Kampala	Fresh Food	ecommerce	RWF	6109.00	5.000	3
+2026-04-01	Kampala	Fresh Food	ecommerce	UGX	3272700.00	709.000	291
+2026-04-01	Kampala	Fresh Food	loyalty_app	KES	673.00	3.000	2
+2026-04-01	Kampala	Fresh Food	loyalty_app	RWF	16164.00	13.000	3
+2026-04-01	Kampala	Fresh Food	loyalty_app	UGX	1938600.00	447.000	209
+2026-04-01	Kampala	Fresh Food	pos	KES	1844.00	15.000	8
+2026-04-01	Kampala	Fresh Food	pos	RWF	7833.00	3.000	2
+2026-04-01	Kampala	Fresh Food	pos	UGX	5169600.00	1182.000	485
+2026-04-01	Kampala	Personal Care	ecommerce	KES	1169.00	5.000	2
+2026-04-01	Kampala	Personal Care	ecommerce	RWF	10924.00	4.000	3
+2026-04-01	Kampala	Personal Care	ecommerce	UGX	5216750.00	776.000	294
+2026-04-01	Kampala	Personal Care	loyalty_app	KES	142.00	1.000	0
+2026-04-01	Kampala	Personal Care	loyalty_app	RWF	7222.00	3.000	2
+2026-04-01	Kampala	Personal Care	loyalty_app	UGX	2904750.00	435.000	174
+2026-04-01	Kampala	Personal Care	pos	KES	1436.00	5.000	5
+2026-04-01	Kampala	Personal Care	pos	RWF	11016.00	5.000	3
+2026-04-01	Kampala	Personal Care	pos	UGX	8558500.00	1276.000	499
+2026-04-01	Mbarara	Cleaning	ecommerce	UGX	1413650.00	214.000	91
+2026-04-01	Mbarara	Cleaning	loyalty_app	UGX	963750.00	150.000	56
+2026-04-01	Mbarara	Cleaning	pos	KES	307.00	1.000	1
+2026-04-01	Mbarara	Cleaning	pos	RWF	1796.00	1.000	1
+2026-04-01	Mbarara	Cleaning	pos	UGX	2041750.00	305.000	119
+2026-04-01	Mbarara	Dairy & Eggs	ecommerce	KES	1692.00	6.000	1
+2026-04-01	Mbarara	Dairy & Eggs	ecommerce	UGX	979900.00	181.000	85
+2026-04-01	Mbarara	Dairy & Eggs	loyalty_app	UGX	898700.00	173.000	71
+2026-04-01	Mbarara	Dairy & Eggs	pos	KES	1680.00	11.000	3
+2026-04-01	Mbarara	Dairy & Eggs	pos	RWF	5721.00	3.000	3
+2026-04-01	Mbarara	Dairy & Eggs	pos	UGX	1783350.00	339.000	145
+2026-04-01	Mbarara	Drinks	ecommerce	KES	1376.00	8.000	2
+2026-04-01	Mbarara	Drinks	ecommerce	RWF	2778.00	0.000	1
+2026-04-01	Mbarara	Drinks	ecommerce	UGX	695550.00	157.000	82
+2026-04-01	Mbarara	Drinks	loyalty_app	RWF	12607.00	7.000	2
+2026-04-01	Mbarara	Drinks	loyalty_app	UGX	486300.00	112.000	52
+2026-04-01	Mbarara	Drinks	pos	KES	537.00	6.000	2
+2026-04-01	Mbarara	Drinks	pos	RWF	4000.00	2.000	1
+2026-04-01	Mbarara	Drinks	pos	UGX	1287450.00	298.000	119
+2026-04-01	Mbarara	Fresh Food	ecommerce	KES	792.00	4.000	1
+2026-04-01	Mbarara	Fresh Food	ecommerce	UGX	1034400.00	248.000	96
+2026-04-01	Mbarara	Fresh Food	loyalty_app	RWF	666.00	1.000	1
+2026-04-01	Mbarara	Fresh Food	loyalty_app	UGX	676050.00	151.000	67
+2026-04-01	Mbarara	Fresh Food	pos	KES	364.00	4.000	1
+2026-04-01	Mbarara	Fresh Food	pos	RWF	6555.00	4.000	1
+2026-04-01	Mbarara	Fresh Food	pos	UGX	1452150.00	338.000	143
+2026-04-01	Mbarara	Personal Care	ecommerce	KES	446.00	2.000	2
+2026-04-01	Mbarara	Personal Care	ecommerce	RWF	1481.00	1.000	1
+2026-04-01	Mbarara	Personal Care	ecommerce	UGX	1271750.00	182.000	73
+2026-04-01	Mbarara	Personal Care	loyalty_app	KES	1713.00	6.000	3
+2026-04-01	Mbarara	Personal Care	loyalty_app	RWF	2962.00	2.000	1
+2026-04-01	Mbarara	Personal Care	loyalty_app	UGX	587750.00	98.000	52
+2026-04-01	Mbarara	Personal Care	pos	KES	-660.00	-2.000	0
+2026-04-01	Mbarara	Personal Care	pos	UGX	2284000.00	349.000	144
+2026-05-01	Gulu	Cleaning	ecommerce	KES	921.00	3.000	1
+2026-05-01	Gulu	Cleaning	ecommerce	RWF	2907.00	1.000	1
+2026-05-01	Gulu	Cleaning	ecommerce	UGX	957050.00	148.000	58
+2026-05-01	Gulu	Cleaning	loyalty_app	KES	600.00	3.000	1
+2026-05-01	Gulu	Cleaning	loyalty_app	UGX	745800.00	123.000	45
+2026-05-01	Gulu	Cleaning	pos	KES	506.00	2.000	1
+2026-05-01	Gulu	Cleaning	pos	RWF	5258.00	2.000	1
+2026-05-01	Gulu	Cleaning	pos	UGX	1566150.00	234.000	106
+2026-05-01	Gulu	Dairy & Eggs	ecommerce	UGX	684400.00	136.000	61
+2026-05-01	Gulu	Dairy & Eggs	loyalty_app	UGX	563300.00	107.000	39
+2026-05-01	Gulu	Dairy & Eggs	pos	KES	711.00	3.000	2
+2026-05-01	Gulu	Dairy & Eggs	pos	RWF	2370.00	1.000	1
+2026-05-01	Gulu	Dairy & Eggs	pos	UGX	1064450.00	203.000	91
+2026-05-01	Gulu	Drinks	ecommerce	RWF	10220.00	4.000	1
+2026-05-01	Gulu	Drinks	ecommerce	UGX	488700.00	118.000	57
+2026-05-01	Gulu	Drinks	loyalty_app	UGX	313950.00	78.000	37
+2026-05-01	Gulu	Drinks	pos	UGX	1146450.00	258.000	108
+2026-05-01	Gulu	Fresh Food	ecommerce	RWF	2444.00	2.000	1
+2026-05-01	Gulu	Fresh Food	ecommerce	UGX	700650.00	163.000	67
+2026-05-01	Gulu	Fresh Food	loyalty_app	UGX	497850.00	117.000	41
+2026-05-01	Gulu	Fresh Food	pos	KES	1017.00	5.000	2
+2026-05-01	Gulu	Fresh Food	pos	RWF	2333.00	1.000	1
+2026-05-01	Gulu	Fresh Food	pos	UGX	1360200.00	294.000	122
+2026-05-01	Gulu	Personal Care	ecommerce	KES	303.00	1.000	1
+2026-05-01	Gulu	Personal Care	ecommerce	RWF	1759.00	1.000	1
+2026-05-01	Gulu	Personal Care	ecommerce	UGX	1161250.00	169.000	60
+2026-05-01	Gulu	Personal Care	loyalty_app	KES	1212.00	4.000	1
+2026-05-01	Gulu	Personal Care	loyalty_app	RWF	2037.00	1.000	1
+2026-05-01	Gulu	Personal Care	loyalty_app	UGX	693250.00	94.000	37
+2026-05-01	Gulu	Personal Care	pos	KES	552.00	2.000	1
+2026-05-01	Gulu	Personal Care	pos	UGX	1873750.00	286.000	113
+2026-05-01	Jinja	Cleaning	ecommerce	KES	173.00	1.000	1
+2026-05-01	Jinja	Cleaning	ecommerce	RWF	7055.00	3.000	2
+2026-05-01	Jinja	Cleaning	ecommerce	UGX	1537000.00	215.000	91
+2026-05-01	Jinja	Cleaning	loyalty_app	KES	506.00	2.000	2
+2026-05-01	Jinja	Cleaning	loyalty_app	RWF	4981.00	2.000	2
+2026-05-01	Jinja	Cleaning	loyalty_app	UGX	1068300.00	153.000	69
+2026-05-01	Jinja	Cleaning	pos	KES	2573.00	11.000	3
+2026-05-01	Jinja	Cleaning	pos	RWF	20904.00	7.000	2
+2026-05-01	Jinja	Cleaning	pos	UGX	2985850.00	446.000	184
+2026-05-01	Jinja	Dairy & Eggs	ecommerce	KES	242.00	2.000	2
+2026-05-01	Jinja	Dairy & Eggs	ecommerce	UGX	1199600.00	239.000	104
+2026-05-01	Jinja	Dairy & Eggs	loyalty_app	KES	1249.00	5.000	2
+2026-05-01	Jinja	Dairy & Eggs	loyalty_app	UGX	906450.00	168.000	67
+2026-05-01	Jinja	Dairy & Eggs	pos	KES	94.00	1.000	1
+2026-05-01	Jinja	Dairy & Eggs	pos	RWF	8924.00	4.000	2
+2026-05-01	Jinja	Dairy & Eggs	pos	UGX	1992800.00	377.000	171
+2026-05-01	Jinja	Drinks	ecommerce	UGX	1246200.00	288.000	123
+2026-05-01	Jinja	Drinks	loyalty_app	KES	112.00	1.000	1
+2026-05-01	Jinja	Drinks	loyalty_app	UGX	541950.00	138.000	61
+2026-05-01	Jinja	Drinks	pos	KES	479.00	5.000	3
+2026-05-01	Jinja	Drinks	pos	RWF	7665.00	3.000	1
+2026-05-01	Jinja	Drinks	pos	UGX	1832400.00	426.000	184
+2026-05-01	Jinja	Fresh Food	ecommerce	RWF	2611.00	1.000	1
+2026-05-01	Jinja	Fresh Food	ecommerce	UGX	1044150.00	233.000	100
+2026-05-01	Jinja	Fresh Food	loyalty_app	RWF	5331.00	3.000	1
+2026-05-01	Jinja	Fresh Food	loyalty_app	UGX	601800.00	146.000	73
+2026-05-01	Jinja	Fresh Food	pos	KES	251.00	1.000	1
+2026-05-01	Jinja	Fresh Food	pos	RWF	6277.00	4.000	1
+2026-05-01	Jinja	Fresh Food	pos	UGX	1773900.00	398.000	178
+2026-05-01	Jinja	Personal Care	ecommerce	KES	446.00	2.000	1
+2026-05-01	Jinja	Personal Care	ecommerce	RWF	2592.00	1.000	1
+2026-05-01	Jinja	Personal Care	ecommerce	UGX	1845000.00	276.000	103
+2026-05-01	Jinja	Personal Care	loyalty_app	KES	250.00	1.000	1
+2026-05-01	Jinja	Personal Care	loyalty_app	RWF	5832.00	3.000	2
+2026-05-01	Jinja	Personal Care	loyalty_app	UGX	999000.00	162.000	74
+2026-05-01	Jinja	Personal Care	pos	KES	276.00	1.000	1
+2026-05-01	Jinja	Personal Care	pos	RWF	19534.00	7.000	3
+2026-05-01	Jinja	Personal Care	pos	UGX	2603000.00	407.000	175
+2026-05-01	Kampala	Cleaning	ecommerce	KES	1691.00	7.000	3
+2026-05-01	Kampala	Cleaning	ecommerce	RWF	32902.00	16.000	5
+2026-05-01	Kampala	Cleaning	ecommerce	UGX	4563400.00	659.000	267
+2026-05-01	Kampala	Cleaning	loyalty_app	KES	173.00	1.000	1
+2026-05-01	Kampala	Cleaning	loyalty_app	RWF	19218.00	9.000	3
+2026-05-01	Kampala	Cleaning	loyalty_app	UGX	2683200.00	402.000	174
+2026-05-01	Kampala	Cleaning	pos	KES	4065.00	17.000	5
+2026-05-01	Kampala	Cleaning	pos	RWF	12182.00	4.000	2
+2026-05-01	Kampala	Cleaning	pos	UGX	7279650.00	1104.000	428
+2026-05-01	Kampala	Dairy & Eggs	ecommerce	KES	510.00	2.000	1
+2026-05-01	Kampala	Dairy & Eggs	ecommerce	RWF	12459.00	11.000	3
+2026-05-01	Kampala	Dairy & Eggs	ecommerce	UGX	3755800.00	697.000	281
+2026-05-01	Kampala	Dairy & Eggs	loyalty_app	KES	228.00	1.000	1
+2026-05-01	Kampala	Dairy & Eggs	loyalty_app	RWF	2092.00	1.000	1
+2026-05-01	Kampala	Dairy & Eggs	loyalty_app	UGX	2207500.00	400.000	177
+2026-05-01	Kampala	Dairy & Eggs	pos	KES	982.00	7.000	2
+2026-05-01	Kampala	Dairy & Eggs	pos	UGX	5769650.00	1076.000	411
+2026-05-01	Kampala	Drinks	ecommerce	KES	246.00	1.000	1
+2026-05-01	Kampala	Drinks	ecommerce	RWF	13218.00	8.000	2
+2026-05-01	Kampala	Drinks	ecommerce	UGX	2948700.00	678.000	272
+2026-05-01	Kampala	Drinks	loyalty_app	KES	576.00	3.000	1
+2026-05-01	Kampala	Drinks	loyalty_app	RWF	4554.00	2.000	1
+2026-05-01	Kampala	Drinks	loyalty_app	UGX	1758300.00	432.000	187
+2026-05-01	Kampala	Drinks	pos	KES	1838.00	9.000	3
+2026-05-01	Kampala	Drinks	pos	RWF	21877.00	19.000	7
+2026-05-01	Kampala	Drinks	pos	UGX	4682550.00	1072.000	425
+2026-05-01	Kampala	Fresh Food	ecommerce	KES	839.00	6.000	3
+2026-05-01	Kampala	Fresh Food	ecommerce	RWF	13164.00	6.000	3
+2026-05-01	Kampala	Fresh Food	ecommerce	UGX	2984850.00	667.000	273
+2026-05-01	Kampala	Fresh Food	loyalty_app	KES	567.00	3.000	1
+2026-05-01	Kampala	Fresh Food	loyalty_app	RWF	3445.00	1.000	1
+2026-05-01	Kampala	Fresh Food	loyalty_app	UGX	2185200.00	489.000	192
+2026-05-01	Kampala	Fresh Food	pos	KES	2359.00	16.000	8
+2026-05-01	Kampala	Fresh Food	pos	RWF	16887.00	12.000	6
+2026-05-01	Kampala	Fresh Food	pos	UGX	4593150.00	1043.000	426
+2026-05-01	Kampala	Personal Care	ecommerce	KES	446.00	2.000	1
+2026-05-01	Kampala	Personal Care	ecommerce	RWF	13703.00	7.000	2
+2026-05-01	Kampala	Personal Care	ecommerce	UGX	4253750.00	638.000	257
+2026-05-01	Kampala	Personal Care	loyalty_app	KES	622.00	4.000	3
+2026-05-01	Kampala	Personal Care	loyalty_app	RWF	26476.00	10.000	2
+2026-05-01	Kampala	Personal Care	loyalty_app	UGX	3091500.00	480.000	194
+2026-05-01	Kampala	Personal Care	pos	KES	2514.00	12.000	4
+2026-05-01	Kampala	Personal Care	pos	RWF	44898.00	17.000	2
+2026-05-01	Kampala	Personal Care	pos	UGX	7336250.00	1115.000	439
+2026-05-01	Mbarara	Cleaning	ecommerce	KES	146.00	1.000	1
+2026-05-01	Mbarara	Cleaning	ecommerce	UGX	1301100.00	186.000	86
+2026-05-01	Mbarara	Cleaning	loyalty_app	UGX	775000.00	110.000	49
+2026-05-01	Mbarara	Cleaning	pos	UGX	2065400.00	319.000	131
+2026-05-01	Mbarara	Dairy & Eggs	ecommerce	RWF	1537.00	1.000	1
+2026-05-01	Mbarara	Dairy & Eggs	ecommerce	UGX	1091350.00	199.000	85
+2026-05-01	Mbarara	Dairy & Eggs	loyalty_app	UGX	765650.00	146.000	60
+2026-05-01	Mbarara	Dairy & Eggs	pos	KES	875.00	5.000	2
+2026-05-01	Mbarara	Dairy & Eggs	pos	UGX	2012350.00	394.000	169
+2026-05-01	Mbarara	Drinks	ecommerce	KES	384.00	2.000	1
+2026-05-01	Mbarara	Drinks	ecommerce	UGX	717600.00	179.000	78
+2026-05-01	Mbarara	Drinks	loyalty_app	KES	85.00	1.000	1
+2026-05-01	Mbarara	Drinks	loyalty_app	UGX	483150.00	106.000	47
+2026-05-01	Mbarara	Drinks	pos	RWF	2944.00	3.000	2
+2026-05-01	Mbarara	Drinks	pos	UGX	1276800.00	297.000	119
+2026-05-01	Mbarara	Fresh Food	ecommerce	UGX	710100.00	172.000	78
+2026-05-01	Mbarara	Fresh Food	loyalty_app	UGX	441300.00	106.000	52
+2026-05-01	Mbarara	Fresh Food	pos	KES	450.00	2.000	1
+2026-05-01	Mbarara	Fresh Food	pos	RWF	6443.00	3.000	2
+2026-05-01	Mbarara	Fresh Food	pos	UGX	1647300.00	351.000	141
+2026-05-01	Mbarara	Personal Care	ecommerce	KES	223.00	1.000	1
+2026-05-01	Mbarara	Personal Care	ecommerce	RWF	5184.00	2.000	1
+2026-05-01	Mbarara	Personal Care	ecommerce	UGX	1155500.00	179.000	73
+2026-05-01	Mbarara	Personal Care	loyalty_app	KES	1014.00	6.000	1
+2026-05-01	Mbarara	Personal Care	loyalty_app	RWF	3795.00	2.000	2
+2026-05-01	Mbarara	Personal Care	loyalty_app	UGX	1119500.00	173.000	72
+2026-05-01	Mbarara	Personal Care	pos	KES	1550.00	6.000	2
+2026-05-01	Mbarara	Personal Care	pos	RWF	6850.00	2.000	1
+2026-05-01	Mbarara	Personal Care	pos	UGX	2363000.00	356.000	148
+2026-06-01	Gulu	Cleaning	ecommerce	UGX	898000.00	140.000	62
+2026-06-01	Gulu	Cleaning	loyalty_app	UGX	638150.00	94.000	40
+2026-06-01	Gulu	Cleaning	pos	KES	452.00	2.000	1
+2026-06-01	Gulu	Cleaning	pos	UGX	1835100.00	276.000	112
+2026-06-01	Gulu	Dairy & Eggs	ecommerce	RWF	7554.00	6.000	1
+2026-06-01	Gulu	Dairy & Eggs	ecommerce	UGX	901350.00	174.000	74
+2026-06-01	Gulu	Dairy & Eggs	loyalty_app	KES	175.00	1.000	1
+2026-06-01	Gulu	Dairy & Eggs	loyalty_app	UGX	387350.00	74.000	35
+2026-06-01	Gulu	Dairy & Eggs	pos	KES	1046.00	6.000	2
+2026-06-01	Gulu	Dairy & Eggs	pos	RWF	5036.00	4.000	1
+2026-06-01	Gulu	Dairy & Eggs	pos	UGX	1409150.00	251.000	116
+2026-06-01	Gulu	Drinks	ecommerce	KES	166.00	1.000	1
+2026-06-01	Gulu	Drinks	ecommerce	UGX	703800.00	162.000	68
+2026-06-01	Gulu	Drinks	loyalty_app	UGX	507600.00	109.000	49
+2026-06-01	Gulu	Drinks	pos	KES	116.00	2.000	1
+2026-06-01	Gulu	Drinks	pos	RWF	6277.00	3.000	3
+2026-06-01	Gulu	Drinks	pos	UGX	1237200.00	283.000	115
+2026-06-01	Gulu	Fresh Food	ecommerce	UGX	817650.00	173.000	64
+2026-06-01	Gulu	Fresh Food	loyalty_app	KES	117.00	1.000	1
+2026-06-01	Gulu	Fresh Food	loyalty_app	RWF	3554.00	2.000	1
+2026-06-01	Gulu	Fresh Food	loyalty_app	UGX	439050.00	91.000	42
+2026-06-01	Gulu	Fresh Food	pos	KES	384.00	6.000	1
+2026-06-01	Gulu	Fresh Food	pos	RWF	5332.00	3.000	2
+2026-06-01	Gulu	Fresh Food	pos	UGX	1166700.00	264.000	108
+2026-06-01	Gulu	Personal Care	ecommerce	KES	2318.00	8.000	2
+2026-06-01	Gulu	Personal Care	ecommerce	RWF	10275.00	3.000	1
+2026-06-01	Gulu	Personal Care	ecommerce	UGX	1009750.00	151.000	60
+2026-06-01	Gulu	Personal Care	loyalty_app	RWF	6850.00	2.000	1
+2026-06-01	Gulu	Personal Care	loyalty_app	UGX	654500.00	104.000	47
+2026-06-01	Gulu	Personal Care	pos	RWF	8886.00	6.000	1
+2026-06-01	Gulu	Personal Care	pos	UGX	1502500.00	226.000	96
+2026-06-01	Jinja	Cleaning	ecommerce	KES	400.00	2.000	1
+2026-06-01	Jinja	Cleaning	ecommerce	RWF	7740.00	4.000	1
+2026-06-01	Jinja	Cleaning	ecommerce	UGX	1890850.00	281.000	111
+2026-06-01	Jinja	Cleaning	loyalty_app	RWF	9555.00	3.000	1
+2026-06-01	Jinja	Cleaning	loyalty_app	UGX	1226950.00	182.000	75
+2026-06-01	Jinja	Cleaning	pos	KES	1168.00	8.000	2
+2026-06-01	Jinja	Cleaning	pos	RWF	6370.00	2.000	1
+2026-06-01	Jinja	Cleaning	pos	UGX	3190500.00	465.000	181
+2026-06-01	Jinja	Dairy & Eggs	ecommerce	KES	1276.00	5.000	2
+2026-06-01	Jinja	Dairy & Eggs	ecommerce	UGX	1467300.00	282.000	114
+2026-06-01	Jinja	Dairy & Eggs	loyalty_app	UGX	1003650.00	186.000	78
+2026-06-01	Jinja	Dairy & Eggs	pos	KES	632.00	5.000	2
+2026-06-01	Jinja	Dairy & Eggs	pos	RWF	12554.00	6.000	2
+2026-06-01	Jinja	Dairy & Eggs	pos	UGX	2229250.00	415.000	178
+2026-06-01	Jinja	Drinks	ecommerce	UGX	1268250.00	285.000	114
+2026-06-01	Jinja	Drinks	loyalty_app	RWF	10220.00	4.000	1
+2026-06-01	Jinja	Drinks	loyalty_app	UGX	816000.00	190.000	85
+2026-06-01	Jinja	Drinks	pos	KES	232.00	4.000	1
+2026-06-01	Jinja	Drinks	pos	UGX	2051700.00	453.000	196
+2026-06-01	Jinja	Fresh Food	ecommerce	KES	117.00	1.000	1
+2026-06-01	Jinja	Fresh Food	ecommerce	RWF	3776.00	4.000	1
+2026-06-01	Jinja	Fresh Food	ecommerce	UGX	1223250.00	265.000	111
+2026-06-01	Jinja	Fresh Food	loyalty_app	RWF	3000.00	2.000	1
+2026-06-01	Jinja	Fresh Food	loyalty_app	UGX	617100.00	152.000	64
+2026-06-01	Jinja	Fresh Food	pos	RWF	11940.00	10.000	4
+2026-06-01	Jinja	Fresh Food	pos	UGX	2058150.00	453.000	172
+2026-06-01	Jinja	Personal Care	ecommerce	RWF	1759.00	1.000	1
+2026-06-01	Jinja	Personal Care	ecommerce	UGX	1298000.00	197.000	85
+2026-06-01	Jinja	Personal Care	loyalty_app	KES	1000.00	4.000	1
+2026-06-01	Jinja	Personal Care	loyalty_app	UGX	1202000.00	191.000	76
+2026-06-01	Jinja	Personal Care	pos	KES	2862.00	9.000	3
+2026-06-01	Jinja	Personal Care	pos	RWF	22216.00	12.000	3
+2026-06-01	Jinja	Personal Care	pos	UGX	2598250.00	400.000	158
+2026-06-01	Kampala	Cleaning	ecommerce	KES	599.00	3.000	2
+2026-06-01	Kampala	Cleaning	ecommerce	RWF	6370.00	2.000	1
+2026-06-01	Kampala	Cleaning	ecommerce	UGX	4202950.00	617.000	265
+2026-06-01	Kampala	Cleaning	loyalty_app	KES	-666.00	-2.000	0
+2026-06-01	Kampala	Cleaning	loyalty_app	RWF	25609.00	9.000	3
+2026-06-01	Kampala	Cleaning	loyalty_app	UGX	3032950.00	452.000	185
+2026-06-01	Kampala	Cleaning	pos	KES	5181.00	19.000	9
+2026-06-01	Kampala	Cleaning	pos	RWF	24884.00	12.000	6
+2026-06-01	Kampala	Cleaning	pos	UGX	7915650.00	1194.000	496
+2026-06-01	Kampala	Dairy & Eggs	ecommerce	KES	1101.00	4.000	2
+2026-06-01	Kampala	Dairy & Eggs	ecommerce	UGX	3658000.00	685.000	278
+2026-06-01	Kampala	Dairy & Eggs	loyalty_app	KES	349.00	2.000	2
+2026-06-01	Kampala	Dairy & Eggs	loyalty_app	RWF	3628.00	2.000	1
+2026-06-01	Kampala	Dairy & Eggs	loyalty_app	UGX	2935650.00	531.000	214
+2026-06-01	Kampala	Dairy & Eggs	pos	KES	2445.00	12.000	3
+2026-06-01	Kampala	Dairy & Eggs	pos	RWF	22642.00	16.000	5
+2026-06-01	Kampala	Dairy & Eggs	pos	UGX	6512100.00	1254.000	465
+2026-06-01	Kampala	Drinks	ecommerce	KES	1646.00	8.000	2
+2026-06-01	Kampala	Drinks	ecommerce	RWF	6888.00	4.000	2
+2026-06-01	Kampala	Drinks	ecommerce	UGX	3510900.00	816.000	323
+2026-06-01	Kampala	Drinks	loyalty_app	RWF	12000.00	6.000	1
+2026-06-01	Kampala	Drinks	loyalty_app	UGX	1767300.00	432.000	189
+2026-06-01	Kampala	Drinks	pos	KES	903.00	4.000	3
+2026-06-01	Kampala	Drinks	pos	RWF	26217.00	17.000	6
+2026-06-01	Kampala	Drinks	pos	UGX	5470500.00	1225.000	494
+2026-06-01	Kampala	Fresh Food	ecommerce	KES	-91.00	-1.000	0
+2026-06-01	Kampala	Fresh Food	ecommerce	UGX	3150000.00	705.000	281
+2026-06-01	Kampala	Fresh Food	loyalty_app	KES	144.00	1.000	0
+2026-06-01	Kampala	Fresh Food	loyalty_app	RWF	26110.00	10.000	3
+2026-06-01	Kampala	Fresh Food	loyalty_app	UGX	2129550.00	511.000	207
+2026-06-01	Kampala	Fresh Food	pos	KES	3543.00	19.000	6
+2026-06-01	Kampala	Fresh Food	pos	RWF	24937.00	17.000	5
+2026-06-01	Kampala	Fresh Food	pos	UGX	5229450.00	1159.000	488
+2026-06-01	Kampala	Personal Care	ecommerce	KES	1641.00	7.000	4
+2026-06-01	Kampala	Personal Care	ecommerce	RWF	49440.00	18.000	6
+2026-06-01	Kampala	Personal Care	ecommerce	UGX	4121500.00	634.000	279
+2026-06-01	Kampala	Personal Care	loyalty_app	KES	446.00	2.000	2
+2026-06-01	Kampala	Personal Care	loyalty_app	RWF	22123.00	11.000	5
+2026-06-01	Kampala	Personal Care	loyalty_app	UGX	3270000.00	486.000	212
+2026-06-01	Kampala	Personal Care	pos	KES	2440.00	10.000	3
+2026-06-01	Kampala	Personal Care	pos	RWF	13700.00	7.000	3
+2026-06-01	Kampala	Personal Care	pos	UGX	7437000.00	1155.000	467
+2026-06-01	Mbarara	Cleaning	ecommerce	KES	560.00	2.000	2
+2026-06-01	Mbarara	Cleaning	ecommerce	UGX	1352850.00	201.000	87
+2026-06-01	Mbarara	Cleaning	loyalty_app	KES	452.00	2.000	2
+2026-06-01	Mbarara	Cleaning	loyalty_app	RWF	9555.00	3.000	1
+2026-06-01	Mbarara	Cleaning	loyalty_app	UGX	830150.00	124.000	55
+2026-06-01	Mbarara	Cleaning	pos	KES	280.00	1.000	1
+2026-06-01	Mbarara	Cleaning	pos	UGX	2336700.00	342.000	147
+2026-06-01	Mbarara	Dairy & Eggs	ecommerce	KES	898.00	5.000	2
+2026-06-01	Mbarara	Dairy & Eggs	ecommerce	UGX	1069200.00	198.000	87
+2026-06-01	Mbarara	Dairy & Eggs	loyalty_app	KES	484.00	4.000	2
+2026-06-01	Mbarara	Dairy & Eggs	loyalty_app	RWF	556.00	0.000	1
+2026-06-01	Mbarara	Dairy & Eggs	loyalty_app	UGX	594150.00	111.000	60
+2026-06-01	Mbarara	Dairy & Eggs	pos	KES	1422.00	6.000	2
+2026-06-01	Mbarara	Dairy & Eggs	pos	UGX	1956100.00	364.000	155
+2026-06-01	Mbarara	Drinks	ecommerce	KES	1722.00	7.000	2
+2026-06-01	Mbarara	Drinks	ecommerce	UGX	962550.00	212.000	85
+2026-06-01	Mbarara	Drinks	loyalty_app	UGX	550200.00	128.000	43
+2026-06-01	Mbarara	Drinks	pos	KES	738.00	3.000	2
+2026-06-01	Mbarara	Drinks	pos	RWF	1444.00	1.000	1
+2026-06-01	Mbarara	Drinks	pos	UGX	1638450.00	373.000	149
+2026-06-01	Mbarara	Fresh Food	ecommerce	KES	288.00	2.000	1
+2026-06-01	Mbarara	Fresh Food	ecommerce	RWF	3776.00	4.000	1
+2026-06-01	Mbarara	Fresh Food	ecommerce	UGX	927600.00	207.000	93
+2026-06-01	Mbarara	Fresh Food	loyalty_app	KES	369.00	2.000	1
+2026-06-01	Mbarara	Fresh Food	loyalty_app	RWF	7108.00	4.000	1
+2026-06-01	Mbarara	Fresh Food	loyalty_app	UGX	572550.00	136.000	53
+2026-06-01	Mbarara	Fresh Food	pos	KES	117.00	1.000	1
+2026-06-01	Mbarara	Fresh Food	pos	UGX	1628100.00	357.000	151
+2026-06-01	Mbarara	Personal Care	ecommerce	UGX	1377750.00	213.000	83
+2026-06-01	Mbarara	Personal Care	loyalty_app	UGX	942500.00	143.000	59
+2026-06-01	Mbarara	Personal Care	pos	KES	1338.00	6.000	2
+2026-06-01	Mbarara	Personal Care	pos	RWF	13607.00	6.000	3
+2026-06-01	Mbarara	Personal Care	pos	UGX	1899000.00	288.000	125
+2026-07-01	Gulu	Cleaning	ecommerce	RWF	3462.00	1.000	1
+2026-07-01	Gulu	Cleaning	ecommerce	UGX	1248250.00	185.000	81
+2026-07-01	Gulu	Cleaning	loyalty_app	KES	280.00	1.000	1
+2026-07-01	Gulu	Cleaning	loyalty_app	RWF	9535.00	5.000	2
+2026-07-01	Gulu	Cleaning	loyalty_app	UGX	980900.00	139.000	55
+2026-07-01	Gulu	Cleaning	pos	UGX	1828950.00	267.000	117
+2026-07-01	Gulu	Dairy & Eggs	ecommerce	KES	564.00	6.000	1
+2026-07-01	Gulu	Dairy & Eggs	ecommerce	RWF	-1962.00	-2.000	0
+2026-07-01	Gulu	Dairy & Eggs	ecommerce	UGX	880300.00	157.000	66
+2026-07-01	Gulu	Dairy & Eggs	loyalty_app	KES	363.00	3.000	3
+2026-07-01	Gulu	Dairy & Eggs	loyalty_app	UGX	794950.00	148.000	49
+2026-07-01	Gulu	Dairy & Eggs	pos	KES	350.00	2.000	1
+2026-07-01	Gulu	Dairy & Eggs	pos	RWF	5296.00	2.000	1
+2026-07-01	Gulu	Dairy & Eggs	pos	UGX	1398450.00	273.000	115
+2026-07-01	Gulu	Drinks	ecommerce	RWF	1722.00	1.000	1
+2026-07-01	Gulu	Drinks	ecommerce	UGX	713250.00	150.000	66
+2026-07-01	Gulu	Drinks	loyalty_app	UGX	436500.00	105.000	41
+2026-07-01	Gulu	Drinks	pos	KES	1314.00	6.000	1
+2026-07-01	Gulu	Drinks	pos	RWF	8886.00	5.000	2
+2026-07-01	Gulu	Drinks	pos	UGX	1113300.00	272.000	104
+2026-07-01	Gulu	Fresh Food	ecommerce	KES	245.00	3.000	2
+2026-07-01	Gulu	Fresh Food	ecommerce	UGX	712050.00	151.000	62
+2026-07-01	Gulu	Fresh Food	loyalty_app	KES	64.00	1.000	1
+2026-07-01	Gulu	Fresh Food	loyalty_app	UGX	368700.00	89.000	44
+2026-07-01	Gulu	Fresh Food	pos	KES	155.00	2.000	2
+2026-07-01	Gulu	Fresh Food	pos	RWF	9218.00	8.000	2
+2026-07-01	Gulu	Fresh Food	pos	UGX	1314000.00	295.000	123
+2026-07-01	Gulu	Personal Care	ecommerce	UGX	1183250.00	182.000	85
+2026-07-01	Gulu	Personal Care	loyalty_app	RWF	7036.00	4.000	1
+2026-07-01	Gulu	Personal Care	loyalty_app	UGX	822500.00	137.000	48
+2026-07-01	Gulu	Personal Care	pos	KES	828.00	3.000	1
+2026-07-01	Gulu	Personal Care	pos	RWF	22402.00	8.000	2
+2026-07-01	Gulu	Personal Care	pos	UGX	1905500.00	293.000	114
+2026-07-01	Jinja	Cleaning	ecommerce	KES	840.00	3.000	1
+2026-07-01	Jinja	Cleaning	ecommerce	RWF	3462.00	1.000	1
+2026-07-01	Jinja	Cleaning	ecommerce	UGX	1650450.00	252.000	107
+2026-07-01	Jinja	Cleaning	loyalty_app	UGX	1298000.00	190.000	79
+2026-07-01	Jinja	Cleaning	pos	KES	146.00	1.000	1
+2026-07-01	Jinja	Cleaning	pos	RWF	4554.00	3.000	0
+2026-07-01	Jinja	Cleaning	pos	UGX	2936200.00	437.000	190
+2026-07-01	Jinja	Dairy & Eggs	ecommerce	RWF	5850.00	2.000	1
+2026-07-01	Jinja	Dairy & Eggs	ecommerce	UGX	1369000.00	280.000	119
+2026-07-01	Jinja	Dairy & Eggs	loyalty_app	KES	295.00	2.000	2
+2026-07-01	Jinja	Dairy & Eggs	loyalty_app	UGX	852300.00	177.000	84
+2026-07-01	Jinja	Dairy & Eggs	pos	KES	618.00	4.000	3
+2026-07-01	Jinja	Dairy & Eggs	pos	RWF	7388.00	3.000	2
+2026-07-01	Jinja	Dairy & Eggs	pos	UGX	2242700.00	428.000	191
+2026-07-01	Jinja	Drinks	ecommerce	KES	672.00	6.000	1
+2026-07-01	Jinja	Drinks	ecommerce	UGX	1312350.00	299.000	135
+2026-07-01	Jinja	Drinks	loyalty_app	RWF	16326.00	9.000	2
+2026-07-01	Jinja	Drinks	loyalty_app	UGX	770850.00	169.000	81
+2026-07-01	Jinja	Drinks	pos	KES	438.00	2.000	1
+2026-07-01	Jinja	Drinks	pos	RWF	8553.00	4.000	2
+2026-07-01	Jinja	Drinks	pos	UGX	2206500.00	505.000	223
+2026-07-01	Jinja	Fresh Food	ecommerce	KES	1302.00	7.000	2
+2026-07-01	Jinja	Fresh Food	ecommerce	UGX	1276500.00	265.000	115
+2026-07-01	Jinja	Fresh Food	loyalty_app	RWF	5222.00	2.000	1
+2026-07-01	Jinja	Fresh Food	loyalty_app	UGX	949800.00	226.000	96
+2026-07-01	Jinja	Fresh Food	pos	UGX	2239050.00	501.000	192
+2026-07-01	Jinja	Personal Care	ecommerce	KES	606.00	2.000	1
+2026-07-01	Jinja	Personal Care	ecommerce	UGX	1727000.00	254.000	102
+2026-07-01	Jinja	Personal Care	loyalty_app	UGX	1564250.00	230.000	89
+2026-07-01	Jinja	Personal Care	pos	KES	2176.00	10.000	2
+2026-07-01	Jinja	Personal Care	pos	RWF	7776.00	3.000	2
+2026-07-01	Jinja	Personal Care	pos	UGX	3065500.00	478.000	198
+2026-07-01	Kampala	Cleaning	ecommerce	KES	1691.00	7.000	2
+2026-07-01	Kampala	Cleaning	ecommerce	RWF	35550.00	15.000	6
+2026-07-01	Kampala	Cleaning	ecommerce	UGX	4506150.00	669.000	277
+2026-07-01	Kampala	Cleaning	loyalty_app	KES	1842.00	6.000	2
+2026-07-01	Kampala	Cleaning	loyalty_app	RWF	7184.00	4.000	1
+2026-07-01	Kampala	Cleaning	loyalty_app	UGX	3216450.00	477.000	209
+2026-07-01	Kampala	Cleaning	pos	KES	4648.00	19.000	7
+2026-07-01	Kampala	Cleaning	pos	RWF	30844.00	13.000	7
+2026-07-01	Kampala	Cleaning	pos	UGX	9359650.00	1379.000	520
+2026-07-01	Kampala	Dairy & Eggs	ecommerce	KES	1140.00	7.000	3
+2026-07-01	Kampala	Dairy & Eggs	ecommerce	RWF	26918.00	13.000	4
+2026-07-01	Kampala	Dairy & Eggs	ecommerce	UGX	3709650.00	696.000	280
+2026-07-01	Kampala	Dairy & Eggs	loyalty_app	UGX	2568000.00	495.000	205
+2026-07-01	Kampala	Dairy & Eggs	pos	KES	3370.00	13.000	3
+2026-07-01	Kampala	Dairy & Eggs	pos	RWF	32643.00	16.000	6
+2026-07-01	Kampala	Dairy & Eggs	pos	UGX	6891500.00	1310.000	532
+2026-07-01	Kampala	Drinks	ecommerce	KES	1925.00	16.000	6
+2026-07-01	Kampala	Drinks	ecommerce	RWF	7665.00	3.000	1
+2026-07-01	Kampala	Drinks	ecommerce	UGX	3016950.00	733.000	288
+2026-07-01	Kampala	Drinks	loyalty_app	KES	657.00	3.000	1
+2026-07-01	Kampala	Drinks	loyalty_app	RWF	9108.00	4.000	1
+2026-07-01	Kampala	Drinks	loyalty_app	UGX	2286000.00	540.000	214
+2026-07-01	Kampala	Drinks	pos	KES	2471.00	24.000	7
+2026-07-01	Kampala	Drinks	pos	RWF	12272.00	11.000	8
+2026-07-01	Kampala	Drinks	pos	UGX	5576700.00	1303.000	521
+2026-07-01	Kampala	Fresh Food	ecommerce	KES	1506.00	6.000	1
+2026-07-01	Kampala	Fresh Food	ecommerce	RWF	16549.00	9.000	3
+2026-07-01	Kampala	Fresh Food	ecommerce	UGX	3266100.00	732.000	303
+2026-07-01	Kampala	Fresh Food	loyalty_app	KES	685.00	4.000	2
+2026-07-01	Kampala	Fresh Food	loyalty_app	RWF	13721.00	6.000	3
+2026-07-01	Kampala	Fresh Food	loyalty_app	UGX	2416500.00	530.000	226
+2026-07-01	Kampala	Fresh Food	pos	KES	887.00	8.000	3
+2026-07-01	Kampala	Fresh Food	pos	RWF	15161.00	9.000	4
+2026-07-01	Kampala	Fresh Food	pos	UGX	5811000.00	1325.000	507
+2026-07-01	Kampala	Personal Care	ecommerce	KES	999.00	4.000	2
+2026-07-01	Kampala	Personal Care	ecommerce	RWF	2314.00	1.000	1
+2026-07-01	Kampala	Personal Care	ecommerce	UGX	4993250.00	740.000	319
+2026-07-01	Kampala	Personal Care	loyalty_app	KES	2085.00	9.000	2
+2026-07-01	Kampala	Personal Care	loyalty_app	UGX	3785750.00	575.000	233
+2026-07-01	Kampala	Personal Care	pos	KES	1282.00	6.000	4
+2026-07-01	Kampala	Personal Care	pos	RWF	44342.00	17.000	6
+2026-07-01	Kampala	Personal Care	pos	UGX	8838500.00	1313.000	531
+2026-07-01	Mbarara	Cleaning	ecommerce	KES	1825.00	7.000	2
+2026-07-01	Mbarara	Cleaning	ecommerce	RWF	10644.00	5.000	1
+2026-07-01	Mbarara	Cleaning	ecommerce	UGX	1622600.00	241.000	95
+2026-07-01	Mbarara	Cleaning	loyalty_app	KES	280.00	1.000	1
+2026-07-01	Mbarara	Cleaning	loyalty_app	UGX	1038950.00	157.000	61
+2026-07-01	Mbarara	Cleaning	pos	KES	1356.00	6.000	1
+2026-07-01	Mbarara	Cleaning	pos	RWF	8721.00	3.000	2
+2026-07-01	Mbarara	Cleaning	pos	UGX	2435850.00	351.000	153
+2026-07-01	Mbarara	Dairy & Eggs	ecommerce	KES	94.00	1.000	1
+2026-07-01	Mbarara	Dairy & Eggs	ecommerce	RWF	22998.00	9.000	2
+2026-07-01	Mbarara	Dairy & Eggs	ecommerce	UGX	1179950.00	233.000	97
+2026-07-01	Mbarara	Dairy & Eggs	loyalty_app	KES	456.00	2.000	1
+2026-07-01	Mbarara	Dairy & Eggs	loyalty_app	UGX	1029200.00	203.000	75
+2026-07-01	Mbarara	Dairy & Eggs	pos	RWF	4610.00	3.000	2
+2026-07-01	Mbarara	Dairy & Eggs	pos	UGX	1890500.00	365.000	150
+2026-07-01	Mbarara	Drinks	ecommerce	KES	672.00	6.000	1
+2026-07-01	Mbarara	Drinks	ecommerce	RWF	13108.00	6.000	2
+2026-07-01	Mbarara	Drinks	ecommerce	UGX	985200.00	243.000	101
+2026-07-01	Mbarara	Drinks	loyalty_app	KES	192.00	1.000	1
+2026-07-01	Mbarara	Drinks	loyalty_app	RWF	5166.00	3.000	1
+2026-07-01	Mbarara	Drinks	loyalty_app	UGX	447450.00	113.000	42
+2026-07-01	Mbarara	Drinks	pos	KES	834.00	6.000	1
+2026-07-01	Mbarara	Drinks	pos	RWF	5830.00	5.000	2
+2026-07-01	Mbarara	Drinks	pos	UGX	1839150.00	411.000	164
+2026-07-01	Mbarara	Fresh Food	ecommerce	UGX	980100.00	242.000	97
+2026-07-01	Mbarara	Fresh Food	loyalty_app	UGX	503250.00	110.000	55
+2026-07-01	Mbarara	Fresh Food	pos	KES	405.00	3.000	2
+2026-07-01	Mbarara	Fresh Food	pos	RWF	944.00	1.000	1
+2026-07-01	Mbarara	Fresh Food	pos	UGX	1933800.00	411.000	171
+2026-07-01	Mbarara	Personal Care	ecommerce	KES	1872.00	6.000	2
+2026-07-01	Mbarara	Personal Care	ecommerce	UGX	1303000.00	202.000	84
+2026-07-01	Mbarara	Personal Care	loyalty_app	KES	568.00	4.000	1
+2026-07-01	Mbarara	Personal Care	loyalty_app	RWF	1759.00	1.000	1
+2026-07-01	Mbarara	Personal Care	loyalty_app	UGX	1066000.00	157.000	72
+2026-07-01	Mbarara	Personal Care	pos	KES	642.00	3.000	2
+2026-07-01	Mbarara	Personal Care	pos	RWF	-2314.00	-1.000	0
+2026-07-01	Mbarara	Personal Care	pos	UGX	2468500.00	388.000	159

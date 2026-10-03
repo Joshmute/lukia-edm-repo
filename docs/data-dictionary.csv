@@ -1,0 +1,37 @@
+Element / SQL type,Business meaning and source,Owner; rule; tags
+dim_date.date_key / date,Business date from order event in Kampala timezone,CFO; valid date; sales/internal/certified
+dim_date.month_start / date,First day of the business month,CFO; derived from date_key; sales/internal/certified
+dim_date.year / integer,Calendar year of business date,CFO; matches date_key; sales/internal/certified
+dim_customer.customer_key / bigint,"Warehouse surrogate, generated after approved crosswalk",Customer owner; unique; customer/restricted/provisional
+dim_customer.customer_token / text,HMAC of golden ID; no direct identifier,"Customer owner; unique, protected secret; customer/restricted/provisional"
+dim_customer.segment / text,Versioned business segment label from agreed rules,Customer owner; controlled label; customer/confidential/provisional
+dim_product.product_key / bigint,Surrogate for one historical product version,Procurement; unique; product/internal/certified
+dim_product.product_id / text,Canonical product ID via source crosswalk,Procurement; Q08; product/internal/certified
+dim_product.name / text,Approved product description,Procurement; not blank; product/internal/certified
+dim_product.category / text,Category effective during version interval,Procurement; controlled list; product/internal/certified
+dim_product.unit / text,Base quantity unit; not supplier pack size,Procurement; Q09; product/internal/certified
+dim_product.valid_from / datetime(6) UTC,Inclusive business-effective start,Procurement; Q14; product/internal/certified
+dim_product.valid_to / datetime(6) UTC,Exclusive end; null denotes current,Procurement; Q14; product/internal/certified
+dim_store.store_key / bigint,Surrogate for one historical store version,COO; unique; store/internal/certified
+dim_store.store_id / text,Stable store or virtual-channel ID,COO; source mapping; store/internal/certified
+dim_store.district / text,Approved store district at event time,COO; Q04; store/internal/certified
+dim_store.valid_from / datetime(6) UTC,Inclusive business-effective start,COO; Q14; store/internal/certified
+dim_store.valid_to / datetime(6) UTC,Exclusive end; null denotes current,COO; Q14; store/internal/certified
+fact_sales.source / text,Originating source family from manifest,CFO; Q01; sales/confidential/certified
+fact_sales.source_order_id / text,"Source order identifier, unique within source",CFO; Q01 with line_no; sales/confidential/certified
+fact_sales.line_no / integer,Line occurrence within order,CFO; positive; sales/confidential/certified
+fact_sales.date_key / date,"Sale business date, lookup dim_date",CFO; FK and Q05; sales/confidential/certified
+fact_sales.customer_key / bigint,"Resolved customer, null for anonymous",Customer owner; Q13; customer/restricted/provisional
+fact_sales.product_key / bigint,Product version at event time,Procurement; interval lookup; sales/confidential/certified
+fact_sales.store_key / bigint,Store version at event time,COO; interval lookup; sales/confidential/certified
+"fact_sales.quantity / decimal(14,3)",Signed sold quantity; returns negative,COO; Q10; sales/confidential/certified
+"fact_sales.net_amount / decimal(18,2)",Signed quantity x actual unit price,CFO; currency-specific reconciliation; sales/confidential/certified
+fact_sales.currency / char(3),Transaction currency; no implicit conversion,CFO; Q11; sales/confidential/certified
+fact_payment.provider_ref / text,Provider-scoped payment event reference,CFO; Q12; payments/restricted/certified
+fact_payment.occurred_at / datetime(6) UTC,Provider event timestamp,CFO; parse timezone; payments/confidential/certified
+"fact_payment.amount / decimal(18,2)",Payment/refund amount in stated currency,CFO; reconcile to settlement; payments/confidential/certified
+fact_payment.status / text,Provider's mapped state,CFO; approved transition map; payments/confidential/certified
+fact_inventory_snapshot.snapshot_at / datetime(6) UTC,"Time stock was measured, not ingestion time",COO; freshness threshold; inventory/internal/provisional
+"fact_inventory_snapshot.on_hand / decimal(14,3)",Book quantity at that snapshot,COO; compare physical count; inventory/confidential/provisional
+analytics.monthly_sales.net_sales / numeric,Sum signed sales within a currency and group,CFO; equal facts; sales/confidential/certified
+analytics.monthly_sales.active_customers / bigint,Distinct resolved purchasers with positive lines,Customer owner; non-additive; customer/confidential/provisional

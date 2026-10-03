@@ -1,0 +1,4 @@
+SIMULATED FAILURE FIXTURE - not an instructor log
+2026-07-30T01:14:07Z ERROR batch=LK-117 source=pos row=2 date=14/02/2026 conversion failed: ISO date expected
+2026-07-30T01:14:08Z ERROR batch=LK-117 row=9 sku=lk-p0008 lookup failed: case-sensitive dictionary
+2026-07-30T01:16:41Z ERROR retry=1 batch=LK-117 duplicate business key source/order/line; previous rows were committed

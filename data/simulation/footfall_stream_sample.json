@@ -1,0 +1,7625 @@
+[
+  {
+    "event_id": "LK-F00001",
+    "store_id": "LK-S01",
+    "device_id": "LK-D00",
+    "event_time_utc": "2026-07-29T07:00:00Z",
+    "count_delta": -1,
+    "sequence": 0,
+    "schema_version": 2
+  },
+  {
+    "event_id": "LK-F00002",
+    "store_id": "LK-S02",
+    "device_id": "LK-D01",
+    "event_time_utc": "2026-07-29T07:01:13Z",
+    "count_delta": 1,
+    "sequence": 1,
+    "schema_version": 2
+  },
+  {
+    "event_id": "LK-F00003",
+    "store_id": "LK-S03",
+    "device_id": "LK-D02",
+    "event_time_utc": "2026-07-29T07:02:26Z",
+    "count_delta": 1,
+    "sequence": 2,
+    "schema_version": 2
+  },
+  {
+    "event_id": "LK-F00004",
+    "store_id": "LK-S04",
+    "device_id": "LK-D03",
+    "event_time_utc": "2026-07-29T07:03:39Z",
+    "count_delta": 1,
+    "sequence": 3,
+    "schema_version": 2
+  },
+  {
+    "event_id": "LK-F00005",
+    "store_id": "LK-S05",
+    "device_id": "LK-D04",
+    "event_time_utc": "2026-07-29T07:04:52Z",
+    "count_delta": 1,
+    "sequence": 4,
+    "schema_version": 2
+  },
+  {
+    "event_id": "LK-F00006",
+    "store_id": "LK-S06",
+    "device_id": "LK-D05",
+    "event_time_utc": "2026-07-29T07:05:05Z",
+    "count_delta": 1,
+    "sequence": 5,
+    "schema_version": 2
+  },
+  {
+    "event_id": "LK-F00007",
+    "store_id": "LK-S07",
+    "device_id": "LK-D06",
+    "event_time_utc": "2026-07-29T07:06:18Z",
+    "count_delta": 1,
+    "sequence": 6,
+    "schema_version": 2
+  },
+  {
+    "event_id": "LK-F00008",
+    "store_id": "LK-S08",
+    "device_id": "LK-D07",
+    "event_time_utc": "2026-07-29T07:07:31Z",
+    "count_delta": 1,
+    "sequence": 7,
+    "schema_version": 2
+  },
+  {
+    "event_id": "LK-F00009",
+    "store_id": "LK-S09",
+    "device_id": "LK-D08",
+    "event_time_utc": "2026-07-29T07:08:44Z",
+    "count_delta": 1,
+    "sequence": 8,
+    "schema_version": 2
+  },
+  {
+    "event_id": "LK-F00010",
+    "store_id": "LK-S10",
+    "device_id": "LK-D09",
+    "event_time_utc": "2026-07-29T07:09:57Z",
+    "count_delta": -1,
+    "sequence": 9,
+    "schema_version": 2
+  },
+  {
+    "event_id": "LK-F00011",
+    "store_id": "LK-S11",
+    "device_id": "LK-D10",
+    "event_time_utc": "2026-07-29T07:10:10Z",
+    "count_delta": 1,
+    "sequence": 10,
+    "schema_version": 2
+  },
+  {
+    "event_id": "LK-F00012",
+    "store_id": "LK-S12",
+    "device_id": "LK-D11",
+    "event_time_utc": "2026-07-29T07:11:23Z",
+    "count_delta": 1,
+    "sequence": 11,
+    "schema_version": 2
+  },
+  {
+    "event_id": "LK-F00013",
+    "store_id": "LK-S13",
+    "device_id": "LK-D12",
+    "event_time_utc": "2026-07-29T07:12:36Z",
+    "count_delta": 1,
+    "sequence": 12,
+    "schema_version": 2
+  },
+  {
+    "event_id": "LK-F00014",
+    "store_id": "LK-S14",
+    "device_id": "LK-D13",
+    "event_time_utc": "2026-07-29T07:13:49Z",
+    "count_delta": 1,
+    "sequence": 13,
+    "schema_version": 2
+  },
+  {
+    "event_id": "LK-F00015",
+    "store_id": "LK-S15",
+    "device_id": "LK-D14",
+    "event_time_utc": "2026-07-29T07:14:02Z",
+    "count_delta": 1,
+    "sequence": 14,
+    "schema_version": 2
+  },
+  {
+    "event_id": "LK-F00016",
+    "store_id": "LK-S16",
+    "device_id": "LK-D15",
+    "event_time_utc": "2026-07-29T07:15:15Z",
+    "count_delta": 1,
+    "sequence": 15,
+    "schema_version": 2
+  },
+  {
+    "event_id": "LK-F00017",
+    "store_id": "LK-S17",
+    "device_id": "LK-D16",
+    "event_time_utc": "2026-07-29T07:16:28Z",
+    "count_delta": 1,
+    "sequence": 16,
+    "schema_version": 2
+  },
+  {
+    "event_id": "LK-F00018",
+    "store_id": "LK-S18",
+    "device_id": "LK-D17",
+    "event_time_utc": "2026-07-29T07:17:41Z",
+    "count_delta": 1,
+    "sequence": 17,
+    "schema_version": 2
+  },
+  {
+    "event_id": "LK-F00019",
+    "store_id": "LK-S19",
+    "device_id": "LK-D18",
+    "event_time_utc": "2026-07-29T07:18:54Z",
+    "count_delta": -1,
+    "sequence": 18,
+    "schema_version": 2
+  },
+  {
+    "event_id": "LK-F00020",
+    "store_id": "LK-S20",
+    "device_id": "LK-D19",
+    "event_time_utc": "2026-07-29T07:19:07Z",
+    "count_delta": 1,
+    "sequence": 19,
+    "schema_version": 2
+  },
+  {
+    "event_id": "LK-F00021",
+    "store_id": "LK-S21",
+    "device_id": "LK-D20",
+    "event_time_utc": "2026-07-29T07:20:20Z",
+    "count_delta": 1,
+    "sequence": 20,
+    "schema_version": 2
+  },
+  {
+    "event_id": "LK-F00022",
+    "store_id": "LK-S22",
+    "device_id": "LK-D21",
+    "event_time_utc": "2026-07-29T07:21:33Z",
+    "count_delta": 1,
+    "sequence": 21,
+    "schema_version": 2
+  },
+  {
+    "event_id": "LK-F00023",
+    "store_id": "LK-S23",
+    "device_id": "LK-D22",
+    "event_time_utc": "2026-07-29T07:22:46Z",
+    "count_delta": 1,
+    "sequence": 22,
+    "schema_version": 2
+  },
+  {
+    "event_id": "LK-F00024",
+    "store_id": "LK-S01",
+    "device_id": "LK-D00",
+    "event_time_utc": "2026-07-29T07:23:59Z",
+    "count_delta": 1,
+    "sequence": 23,
+    "schema_version": 2
+  },
+  {
+    "event_id": "LK-F00025",
+    "store_id": "LK-S02",
+    "device_id": "LK-D01",
+    "event_time_utc": "2026-07-29T07:24:12Z",
+    "count_delta": 1,
+    "sequence": 24,
+    "schema_version": 2
+  },
+  {
+    "event_id": "LK-F00026",
+    "store_id": "LK-S03",
+    "device_id": "LK-D02",
+    "event_time_utc": "2026-07-29T07:25:25Z",
+    "count_delta": 1,
+    "sequence": 25,
+    "schema_version": 2
+  },
+  {
+    "event_id": "LK-F00027",
+    "store_id": "LK-S04",
+    "device_id": "LK-D03",
+    "event_time_utc": "2026-07-29T07:26:38Z",
+    "count_delta": 1,
+    "sequence": 26,
+    "schema_version": 2
+  },
+  {
+    "event_id": "LK-F00028",
+    "store_id": "LK-S05",
+    "device_id": "LK-D04",
+    "event_time_utc": "2026-07-29T07:27:51Z",
+    "count_delta": -1,
+    "sequence": 27,
+    "schema_version": 2
+  },
+  {
+    "event_id": "LK-F00029",
+    "store_id": "LK-S06",
+    "device_id": "LK-D05",
+    "event_time_utc": "2026-07-29T07:28:04Z",
+    "count_delta": 1,
+    "sequence": 28,
+    "schema_version": 2
+  },
+  {
+    "event_id": "LK-F00030",
+    "store_id": "LK-S07",
+    "device_id": "LK-D06",
+    "event_time_utc": "2026-07-29T07:29:17Z",
+    "count_delta": 1,
+    "sequence": 29,
+    "schema_version": 2
+  },
+  {
+    "event_id": "LK-F00031",
+    "store_id": "LK-S08",
+    "device_id": "LK-D07",
+    "event_time_utc": "2026-07-29T07:30:30Z",
+    "count_delta": 1,
+    "sequence": 30,
+    "schema_version": 2
+  },
+  {
+    "event_id": "LK-F00032",
+    "store_id": "LK-S09",
+    "device_id": "LK-D08",
+    "event_time_utc": "2026-07-29T07:31:43Z",
+    "count_delta": 1,
+    "sequence": 31,
+    "schema_version": 2
+  },
+  {
+    "event_id": "LK-F00033",
+    "store_id": "LK-S10",
+    "device_id": "LK-D09",
+    "event_time_utc": "2026-07-29T07:32:56Z",
+    "count_delta": 1,
+    "sequence": 32,
+    "schema_version": 2
+  },
+  {
+    "event_id": "LK-F00034",
+    "store_id": "LK-S11",
+    "device_id": "LK-D10",
+    "event_time_utc": "2026-07-29T07:33:09Z",
+    "count_delta": 1,
+    "sequence": 33,
+    "schema_version": 2
+  },
+  {
+    "event_id": "LK-F00035",
+    "store_id": "LK-S12",
+    "device_id": "LK-D11",
+    "event_time_utc": "2026-07-29T07:34:22Z",
+    "count_delta": 1,
+    "sequence": 34,
+    "schema_version": 2
+  },
+  {
+    "event_id": "LK-F00036",
+    "store_id": "LK-S13",
+    "device_id": "LK-D12",
+    "event_time_utc": "2026-07-29T07:35:35Z",
+    "count_delta": 1,
+    "sequence": 35,
+    "schema_version": 2
+  },
+  {
+    "event_id": "LK-F00037",
+    "store_id": "LK-S14",
+    "device_id": "LK-D13",
+    "event_time_utc": "2026-07-29T07:36:48Z",
+    "count_delta": -1,
+    "sequence": 36,
+    "schema_version": 2
+  },
+  {
+    "event_id": "LK-F00038",
+    "store_id": "LK-S15",
+    "device_id": "LK-D14",
+    "event_time_utc": "2026-07-29T07:37:01Z",
+    "count_delta": 1,
+    "sequence": 37,
+    "schema_version": 2
+  },
+  {
+    "event_id": "LK-F00039",
+    "store_id": "LK-S16",
+    "device_id": "LK-D15",
+    "event_time_utc": "2026-07-29T07:38:14Z",
+    "count_delta": 1,
+    "sequence": 38,
+    "schema_version": 2
+  },
+  {
+    "event_id": "LK-F00040",
+    "store_id": "LK-S17",
+    "device_id": "LK-D16",
+    "event_time_utc": "2026-07-29T07:39:27Z",
+    "count_delta": 1,
+    "sequence": 39,
+    "schema_version": 2
+  },
+  {
+    "event_id": "LK-F00041",
+    "store_id": "LK-S18",
+    "device_id": "LK-D17",
+    "event_time_utc": "2026-07-29T07:40:40Z",
+    "count_delta": 1,
+    "sequence": 40,
+    "schema_version": 2
+  },
+  {
+    "event_id": "LK-F00042",
+    "store_id": "LK-S19",
+    "device_id": "LK-D18",
+    "event_time_utc": "2026-07-29T07:41:53Z",
+    "count_delta": 1,
+    "sequence": 41,
+    "schema_version": 2
+  },
+  {
+    "event_id": "LK-F00043",
+    "store_id": "LK-S20",
+    "device_id": "LK-D19",
+    "event_time_utc": "2026-07-29T07:42:06Z",
+    "count_delta": 1,
+    "sequence": 42,
+    "schema_version": 2
+  },
+  {
+    "event_id": "LK-F00044",
+    "store_id": "LK-S21",
+    "device_id": "LK-D20",
+    "event_time_utc": "2026-07-29T07:43:19Z",
+    "count_delta": 1,
+    "sequence": 43,
+    "schema_version": 2
+  },
+  {
+    "event_id": "LK-F00045",
+    "store_id": "LK-S22",
+    "device_id": "LK-D21",
+    "event_time_utc": "2026-07-29T07:44:32Z",
+    "count_delta": 1,
+    "sequence": 44,
+    "schema_version": 2
+  },
+  {
+    "event_id": "LK-F00046",
+    "store_id": "LK-S23",
+    "device_id": "LK-D22",
+    "event_time_utc": "2026-07-29T07:45:45Z",
+    "count_delta": -1,
+    "sequence": 45,
+    "schema_version": 2
+  },
+  {
+    "event_id": "LK-F00047",
+    "store_id": "LK-S01",
+    "device_id": "LK-D00",
+    "event_time_utc": "2026-07-29T07:46:58Z",
+    "count_delta": 1,
+    "sequence": 46,
+    "schema_version": 2
+  },
+  {
+    "event_id": "LK-F00048",
+    "store_id": "LK-S02",
+    "device_id": "LK-D01",
+    "event_time_utc": "2026-07-29T07:47:11Z",
+    "count_delta": 1,
+    "sequence": 47,
+    "schema_version": 2
+  },
+  {
+    "event_id": "LK-F00049",
+    "store_id": "LK-S03",
+    "device_id": "LK-D02",
+    "event_time_utc": "2026-07-29T07:48:24Z",
+    "count_delta": 1,
+    "sequence": 48,
+    "schema_version": 2
+  },
+  {
+    "event_id": "LK-F00050",
+    "store_id": "LK-S04",
+    "device_id": "LK-D03",
+    "event_time_utc": "2026-07-29T07:49:37Z",
+    "count_delta": 1,
+    "sequence": 49,
+    "schema_version": 2
+  },
+  {
+    "event_id": "LK-F00051",
+    "store_id": "LK-S05",
+    "device_id": "LK-D04",
+    "event_time_utc": "2026-07-29T07:50:50Z",
+    "count_delta": 1,
+    "sequence": 50,
+    "schema_version": 2
+  },
+  {
+    "event_id": "LK-F00052",
+    "store_id": "LK-S06",
+    "device_id": "LK-D05",
+    "event_time_utc": "2026-07-29T07:51:03Z",
+    "count_delta": 1,
+    "sequence": 51,
+    "schema_version": 2
+  },
+  {
+    "event_id": "LK-F00053",
+    "store_id": "LK-S07",
+    "device_id": "LK-D06",
+    "event_time_utc": "2026-07-29T07:52:16Z",
+    "count_delta": 1,
+    "sequence": 52,
+    "schema_version": 2
+  },
+  {
+    "event_id": "LK-F00054",
+    "store_id": "LK-S08",
+    "device_id": "LK-D07",
+    "event_time_utc": "2026-07-29T07:53:29Z",
+    "count_delta": 1,
+    "sequence": 53,
+    "schema_version": 2
+  },
+  {
+    "event_id": "LK-F00055",
+    "store_id": "LK-S09",
+    "device_id": "LK-D08",
+    "event_time_utc": "2026-07-29T07:54:42Z",
+    "count_delta": -1,
+    "sequence": 54,
+    "schema_version": 2
+  },
+  {
+    "event_id": "LK-F00056",
+    "store_id": "LK-S10",
+    "device_id": "LK-D09",
+    "event_time_utc": "2026-07-29T07:55:55Z",
+    "count_delta": 1,
+    "sequence": 55,
+    "schema_version": 2
+  },
+  {
+    "event_id": "LK-F00057",
+    "store_id": "LK-S11",
+    "device_id": "LK-D10",
+    "event_time_utc": "2026-07-29T07:56:08Z",
+    "count_delta": 1,
+    "sequence": 56,
+    "schema_version": 2
+  },
+  {
+    "event_id": "LK-F00058",
+    "store_id": "LK-S12",
+    "device_id": "LK-D11",
+    "event_time_utc": "2026-07-29T07:57:21Z",
+    "count_delta": 1,
+    "sequence": 57,
+    "schema_version": 2
+  },
+  {
+    "event_id": "LK-F00059",
+    "store_id": "LK-S13",
+    "device_id": "LK-D12",
+    "event_time_utc": "2026-07-29T07:58:34Z",
+    "count_delta": 1,
+    "sequence": 58,
+    "schema_version": 2
+  },
+  {
+    "event_id": "LK-F00060",
+    "store_id": "LK-S14",
+    "device_id": "LK-D13",
+    "event_time_utc": "2026-07-29T07:59:47Z",
+    "count_delta": 1,
+    "sequence": 59,
+    "schema_version": 2
+  },
+  {
+    "event_id": "LK-F00061",
+    "store_id": "LK-S15",
+    "device_id": "LK-D14",
+    "event_time_utc": "2026-07-29T07:00:00Z",
+    "count_delta": 1,
+    "sequence": 60,
+    "schema_version": 2
+  },
+  {
+    "event_id": "LK-F00062",
+    "store_id": "LK-S16",
+    "device_id": "LK-D15",
+    "event_time_utc": "2026-07-29T07:01:13Z",
+    "count_delta": 1,
+    "sequence": 61,
+    "schema_version": 2
+  },
+  {
+    "event_id": "LK-F00063",
+    "store_id": "LK-S17",
+    "device_id": "LK-D16",
+    "event_time_utc": "2026-07-29T07:02:26Z",
+    "count_delta": 1,
+    "sequence": 62,
+    "schema_version": 2
+  },
+  {
+    "event_id": "LK-F00064",
+    "store_id": "LK-S18",
+    "device_id": "LK-D17",
+    "event_time_utc": "2026-07-29T07:03:39Z",
+    "count_delta": -1,
+    "sequence": 63,
+    "schema_version": 2
+  },
+  {
+    "event_id": "LK-F00065",
+    "store_id": "LK-S19",
+    "device_id": "LK-D18",
+    "event_time_utc": "2026-07-29T07:04:52Z",
+    "count_delta": 1,
+    "sequence": 64,
+    "schema_version": 2
+  },
+  {
+    "event_id": "LK-F00066",
+    "store_id": "LK-S20",
+    "device_id": "LK-D19",
+    "event_time_utc": "2026-07-29T07:05:05Z",
+    "count_delta": 1,
+    "sequence": 65,
+    "schema_version": 2
+  },
+  {
+    "event_id": "LK-F00067",
+    "store_id": "LK-S21",
+    "device_id": "LK-D20",
+    "event_time_utc": "2026-07-29T07:06:18Z",
+    "count_delta": 1,
+    "sequence": 66,
+    "schema_version": 2
+  },
+  {
+    "event_id": "LK-F00068",
+    "store_id": "LK-S22",
+    "device_id": "LK-D21",
+    "event_time_utc": "2026-07-29T07:07:31Z",
+    "count_delta": 1,
+    "sequence": 67,
+    "schema_version": 2
+  },
+  {
+    "event_id": "LK-F00069",
+    "store_id": "LK-S23",
+    "device_id": "LK-D22",
+    "event_time_utc": "2026-07-29T07:08:44Z",
+    "count_delta": 1,
+    "sequence": 68,
+    "schema_version": 2
+  },
+  {
+    "event_id": "LK-F00070",
+    "store_id": "LK-S01",
+    "device_id": "LK-D00",
+    "event_time_utc": "2026-07-29T07:09:57Z",
+    "count_delta": 1,
+    "sequence": 69,
+    "schema_version": 2
+  },
+  {
+    "event_id": "LK-F00071",
+    "store_id": "LK-S02",
+    "device_id": "LK-D01",
+    "event_time_utc": "2026-07-29T08:10:10Z",
+    "count_delta": 1,
+    "sequence": 70,
+    "schema_version": 2
+  },
+  {
+    "event_id": "LK-F00072",
+    "store_id": "LK-S03",
+    "device_id": "LK-D02",
+    "event_time_utc": "2026-07-29T08:11:23Z",
+    "count_delta": 1,
+    "sequence": 71,
+    "schema_version": 2
+  },
+  {
+    "event_id": "LK-F00073",
+    "store_id": "LK-S04",
+    "device_id": "LK-D03",
+    "event_time_utc": "2026-07-29T08:12:36Z",
+    "count_delta": -1,
+    "sequence": 72,
+    "schema_version": 2
+  },
+  {
+    "event_id": "LK-F00074",
+    "store_id": "LK-S05",
+    "device_id": "LK-D04",
+    "event_time_utc": "2026-07-29T08:13:49Z",
+    "count_delta": 1,
+    "sequence": 73,
+    "schema_version": 2
+  },
+  {
+    "event_id": "LK-F00075",
+    "store_id": "LK-S06",
+    "device_id": "LK-D05",
+    "event_time_utc": "2026-07-29T08:14:02Z",
+    "count_delta": 1,
+    "sequence": 74,
+    "schema_version": 2
+  },
+  {
+    "event_id": "LK-F00076",
+    "store_id": "LK-S07",
+    "device_id": "LK-D06",
+    "event_time_utc": "2026-07-29T08:15:15Z",
+    "count_delta": 1,
+    "sequence": 75,
+    "schema_version": 2
+  },
+  {
+    "event_id": "LK-F00077",
+    "store_id": "LK-S08",
+    "device_id": "LK-D07",
+    "event_time_utc": "2026-07-29T08:16:28Z",
+    "count_delta": 1,
+    "sequence": 76,
+    "schema_version": 2
+  },
+  {
+    "event_id": "LK-F00078",
+    "store_id": "LK-S09",
+    "device_id": "LK-D08",
+    "event_time_utc": "2026-07-29T08:17:41Z",
+    "count_delta": 1,
+    "sequence": 77,
+    "schema_version": 2
+  },
+  {
+    "event_id": "LK-F00079",
+    "store_id": "LK-S10",
+    "device_id": "LK-D09",
+    "event_time_utc": "2026-07-29T08:18:54Z",
+    "count_delta": 1,
+    "sequence": 78,
+    "schema_version": 2
+  },
+  {
+    "event_id": "LK-F00080",
+    "store_id": "LK-S11",
+    "device_id": "LK-D10",
+    "event_time_utc": "2026-07-29T08:19:07Z",
+    "count_delta": 1,
+    "sequence": 79,
+    "schema_version": 2
+  },
+  {
+    "event_id": "LK-F00081",
+    "store_id": "LK-S12",
+    "device_id": "LK-D11",
+    "event_time_utc": "2026-07-29T08:20:20Z",
+    "count_delta": 1,
+    "sequence": 80,
+    "schema_version": 2
+  },
+  {
+    "event_id": "LK-F00082",
+    "store_id": "LK-S13",
+    "device_id": "LK-D12",
+    "event_time_utc": "2026-07-29T08:21:33Z",
+    "count_delta": -1,
+    "sequence": 81,
+    "schema_version": 2
+  },
+  {
+    "event_id": "LK-F00083",
+    "store_id": "LK-S14",
+    "device_id": "LK-D13",
+    "event_time_utc": "2026-07-29T08:22:46Z",
+    "count_delta": 1,
+    "sequence": 82,
+    "schema_version": 2
+  },
+  {
+    "event_id": "LK-F00084",
+    "store_id": "LK-S15",
+    "device_id": "LK-D14",
+    "event_time_utc": "2026-07-29T08:23:59Z",
+    "count_delta": 1,
+    "sequence": 83,
+    "schema_version": 2
+  },
+  {
+    "event_id": "LK-F00085",
+    "store_id": "LK-S16",
+    "device_id": "LK-D15",
+    "event_time_utc": "2026-07-29T08:24:12Z",
+    "count_delta": 1,
+    "sequence": 84,
+    "schema_version": 2
+  },
+  {
+    "event_id": "LK-F00086",
+    "store_id": "LK-S17",
+    "device_id": "LK-D16",
+    "event_time_utc": "2026-07-29T08:25:25Z",
+    "count_delta": 1,
+    "sequence": 85,
+    "schema_version": 2
+  },
+  {
+    "event_id": "LK-F00087",
+    "store_id": "LK-S18",
+    "device_id": "LK-D17",
+    "event_time_utc": "2026-07-29T08:26:38Z",
+    "count_delta": 1,
+    "sequence": 86,
+    "schema_version": 2
+  },
+  {
+    "event_id": "LK-F00088",
+    "store_id": "LK-S19",
+    "device_id": "LK-D18",
+    "event_time_utc": "2026-07-29T08:27:51Z",
+    "count_delta": 1,
+    "sequence": 87,
+    "schema_version": 2
+  },
+  {
+    "event_id": "LK-F00089",
+    "store_id": "LK-S20",
+    "device_id": "LK-D19",
+    "event_time_utc": "2026-07-29T08:28:04Z",
+    "count_delta": 1,
+    "sequence": 88,
+    "schema_version": 2
+  },
+  {
+    "event_id": "LK-F00090",
+    "store_id": "LK-S21",
+    "device_id": "LK-D20",
+    "event_time_utc": "2026-07-29T08:29:17Z",
+    "count_delta": 1,
+    "sequence": 89,
+    "schema_version": 2
+  },
+  {
+    "event_id": "LK-F00091",
+    "store_id": "LK-S22",
+    "device_id": "LK-D21",
+    "event_time_utc": "2026-07-29T08:30:30Z",
+    "count_delta": -1,
+    "sequence": 90,
+    "schema_version": 2
+  },
+  {
+    "event_id": "LK-F00092",
+    "store_id": "LK-S23",
+    "device_id": "LK-D22",
+    "event_time_utc": "2026-07-29T08:31:43Z",
+    "count_delta": 1,
+    "sequence": 91,
+    "schema_version": 2
+  },
+  {
+    "event_id": "LK-F00093",
+    "store_id": "LK-S01",
+    "device_id": "LK-D00",
+    "event_time_utc": "2026-07-29T08:32:56Z",
+    "count_delta": 1,
+    "sequence": 92,
+    "schema_version": 2
+  },
+  {
+    "event_id": "LK-F00094",
+    "store_id": "LK-S02",
+    "device_id": "LK-D01",
+    "event_time_utc": "2026-07-29T08:33:09Z",
+    "count_delta": 1,
+    "sequence": 93,
+    "schema_version": 2
+  },
+  {
+    "event_id": "LK-F00095",
+    "store_id": "LK-S03",
+    "device_id": "LK-D02",
+    "event_time_utc": "2026-07-29T08:34:22Z",
+    "count_delta": 1,
+    "sequence": 94,
+    "schema_version": 2
+  },
+  {
+    "event_id": "LK-F00096",
+    "store_id": "LK-S04",
+    "device_id": "LK-D03",
+    "event_time_utc": "2026-07-29T08:35:35Z",
+    "count_delta": 1,
+    "sequence": 95,
+    "schema_version": 2
+  },
+  {
+    "event_id": "LK-F00097",
+    "store_id": "LK-S05",
+    "device_id": "LK-D04",
+    "event_time_utc": "2026-07-29T08:36:48Z",
+    "count_delta": 1,
+    "sequence": 96,
+    "schema_version": 2
+  },
+  {
+    "event_id": "LK-F00098",
+    "store_id": "LK-S06",
+    "device_id": "LK-D05",
+    "event_time_utc": "2026-07-29T08:37:01Z",
+    "count_delta": 1,
+    "sequence": 97,
+    "schema_version": 2
+  },
+  {
+    "event_id": "LK-F00099",
+    "store_id": "LK-S07",
+    "device_id": "LK-D06",
+    "event_time_utc": "2026-07-29T08:38:14Z",
+    "count_delta": 1,
+    "sequence": 98,
+    "schema_version": 2
+  },
+  {
+    "event_id": "LK-F00100",
+    "store_id": "LK-S08",
+    "device_id": "LK-D07",
+    "event_time_utc": "2026-07-29T08:39:27Z",
+    "count_delta": -1,
+    "sequence": 99,
+    "schema_version": 2
+  },
+  {
+    "event_id": "LK-F00101",
+    "store_id": "LK-S09",
+    "device_id": "LK-D08",
+    "event_time_utc": "2026-07-29T08:40:40Z",
+    "count_delta": 1,
+    "sequence": 100,
+    "schema_version": 2
+  },
+  {
+    "event_id": "LK-F00102",
+    "store_id": "LK-S10",
+    "device_id": "LK-D09",
+    "event_time_utc": "2026-07-29T08:41:53Z",
+    "count_delta": 1,
+    "sequence": 101,
+    "schema_version": 2
+  },
+  {
+    "event_id": "LK-F00103",
+    "store_id": "LK-S11",
+    "device_id": "LK-D10",
+    "event_time_utc": "2026-07-29T08:42:06Z",
+    "count_delta": 1,
+    "sequence": 102,
+    "schema_version": 2
+  },
+  {
+    "event_id": "LK-F00104",
+    "store_id": "LK-S12",
+    "device_id": "LK-D11",
+    "event_time_utc": "2026-07-29T08:43:19Z",
+    "count_delta": 1,
+    "sequence": 103,
+    "schema_version": 2
+  },
+  {
+    "event_id": "LK-F00105",
+    "store_id": "LK-S13",
+    "device_id": "LK-D12",
+    "event_time_utc": "2026-07-29T08:44:32Z",
+    "count_delta": 1,
+    "sequence": 104,
+    "schema_version": 2
+  },
+  {
+    "event_id": "LK-F00106",
+    "store_id": "LK-S14",
+    "device_id": "LK-D13",
+    "event_time_utc": "2026-07-29T08:45:45Z",
+    "count_delta": 1,
+    "sequence": 105,
+    "schema_version": 2
+  },
+  {
+    "event_id": "LK-F00107",
+    "store_id": "LK-S15",
+    "device_id": "LK-D14",
+    "event_time_utc": "2026-07-29T08:46:58Z",
+    "count_delta": 1,
+    "sequence": 106,
+    "schema_version": 2
+  },
+  {
+    "event_id": "LK-F00108",
+    "store_id": "LK-S16",
+    "device_id": "LK-D15",
+    "event_time_utc": "2026-07-29T08:47:11Z",
+    "count_delta": 1,
+    "sequence": 107,
+    "schema_version": 2
+  },
+  {
+    "event_id": "LK-F00109",
+    "store_id": "LK-S17",
+    "device_id": "LK-D16",
+    "event_time_utc": "2026-07-29T08:48:24Z",
+    "count_delta": -1,
+    "sequence": 108,
+    "schema_version": 2
+  },
+  {
+    "event_id": "LK-F00110",
+    "store_id": "LK-S18",
+    "device_id": "LK-D17",
+    "event_time_utc": "2026-07-29T08:49:37Z",
+    "count_delta": 1,
+    "sequence": 109,
+    "schema_version": 2
+  },
+  {
+    "event_id": "LK-F00111",
+    "store_id": "LK-S19",
+    "device_id": "LK-D18",
+    "event_time_utc": "2026-07-29T08:50:50Z",
+    "count_delta": 1,
+    "sequence": 110,
+    "schema_version": 2
+  },
+  {
+    "event_id": "LK-F00112",
+    "store_id": "LK-S20",
+    "device_id": "LK-D19",
+    "event_time_utc": "2026-07-29T08:51:03Z",
+    "count_delta": 1,
+    "sequence": 111,
+    "schema_version": 2
+  },
+  {
+    "event_id": "LK-F00113",
+    "store_id": "LK-S21",
+    "device_id": "LK-D20",
+    "event_time_utc": "2026-07-29T08:52:16Z",
+    "count_delta": 1,
+    "sequence": 112,
+    "schema_version": 2
+  },
+  {
+    "event_id": "LK-F00114",
+    "store_id": "LK-S22",
+    "device_id": "LK-D21",
+    "event_time_utc": "2026-07-29T08:53:29Z",
+    "count_delta": 1,
+    "sequence": 113,
+    "schema_version": 2
+  },
+  {
+    "event_id": "LK-F00115",
+    "store_id": "LK-S23",
+    "device_id": "LK-D22",
+    "event_time_utc": "2026-07-29T08:54:42Z",
+    "count_delta": 1,
+    "sequence": 114,
+    "schema_version": 2
+  },
+  {
+    "event_id": "LK-F00116",
+    "store_id": "LK-S01",
+    "device_id": "LK-D00",
+    "event_time_utc": "2026-07-29T08:55:55Z",
+    "count_delta": 1,
+    "sequence": 115,
+    "schema_version": 2
+  },
+  {
+    "event_id": "LK-F00117",
+    "store_id": "LK-S02",
+    "device_id": "LK-D01",
+    "event_time_utc": "2026-07-29T08:56:08Z",
+    "count_delta": 1,
+    "sequence": 116,
+    "schema_version": 2
+  },
+  {
+    "event_id": "LK-F00118",
+    "store_id": "LK-S03",
+    "device_id": "LK-D02",
+    "event_time_utc": "2026-07-29T08:57:21Z",
+    "count_delta": -1,
+    "sequence": 117,
+    "schema_version": 2
+  },
+  {
+    "event_id": "LK-F00119",
+    "store_id": "LK-S04",
+    "device_id": "LK-D03",
+    "event_time_utc": "2026-07-29T08:58:34Z",
+    "count_delta": 1,
+    "sequence": 118,
+    "schema_version": 2
+  },
+  {
+    "event_id": "LK-F00120",
+    "store_id": "LK-S05",
+    "device_id": "LK-D04",
+    "event_time_utc": "2026-07-29T08:59:47Z",
+    "count_delta": 1,
+    "sequence": 119,
+    "schema_version": 2
+  },
+  {
+    "event_id": "LK-F00121",
+    "store_id": "LK-S06",
+    "device_id": "LK-D05",
+    "event_time_utc": "2026-07-29T08:00:00Z",
+    "count_delta": 1,
+    "sequence": 120,
+    "schema_version": 2
+  },
+  {
+    "event_id": "LK-F00122",
+    "store_id": "LK-S07",
+    "device_id": "LK-D06",
+    "event_time_utc": "2026-07-29T08:01:13Z",
+    "count_delta": 1,
+    "sequence": 121,
+    "schema_version": 2
+  },
+  {
+    "event_id": "LK-F00123",
+    "store_id": "LK-S08",
+    "device_id": "LK-D07",
+    "event_time_utc": "2026-07-29T08:02:26Z",
+    "count_delta": 1,
+    "sequence": 122,
+    "schema_version": 2
+  },
+  {
+    "event_id": "LK-F00124",
+    "store_id": "LK-S09",
+    "device_id": "LK-D08",
+    "event_time_utc": "2026-07-29T08:03:39Z",
+    "count_delta": 1,
+    "sequence": 123,
+    "schema_version": 2
+  },
+  {
+    "event_id": "LK-F00125",
+    "store_id": "LK-S10",
+    "device_id": "LK-D09",
+    "event_time_utc": "2026-07-29T08:04:52Z",
+    "count_delta": 1,
+    "sequence": 124,
+    "schema_version": 2
+  },
+  {
+    "event_id": "LK-F00126",
+    "store_id": "LK-S11",
+    "device_id": "LK-D10",
+    "event_time_utc": "2026-07-29T08:05:05Z",
+    "count_delta": 1,
+    "sequence": 125,
+    "schema_version": 2
+  },
+  {
+    "event_id": "LK-F00127",
+    "store_id": "LK-S12",
+    "device_id": "LK-D11",
+    "event_time_utc": "2026-07-29T08:06:18Z",
+    "count_delta": -1,
+    "sequence": 126,
+    "schema_version": 2
+  },
+  {
+    "event_id": "LK-F00128",
+    "store_id": "LK-S13",
+    "device_id": "LK-D12",
+    "event_time_utc": "2026-07-29T08:07:31Z",
+    "count_delta": 1,
+    "sequence": 127,
+    "schema_version": 2
+  },
+  {
+    "event_id": "LK-F00129",
+    "store_id": "LK-S14",
+    "device_id": "LK-D13",
+    "event_time_utc": "2026-07-29T08:08:44Z",
+    "count_delta": 1,
+    "sequence": 128,
+    "schema_version": 2
+  },
+  {
+    "event_id": "LK-F00130",
+    "store_id": "LK-S15",
+    "device_id": "LK-D14",
+    "event_time_utc": "2026-07-29T08:09:57Z",
+    "count_delta": 1,
+    "sequence": 129,
+    "schema_version": 2
+  },
+  {
+    "event_id": "LK-F00131",
+    "store_id": "LK-S16",
+    "device_id": "LK-D15",
+    "event_time_utc": "2026-07-29T08:10:10Z",
+    "count_delta": 1,
+    "sequence": 130,
+    "schema_version": 2
+  },
+  {
+    "event_id": "LK-F00132",
+    "store_id": "LK-S17",
+    "device_id": "LK-D16",
+    "event_time_utc": "2026-07-29T08:11:23Z",
+    "count_delta": 1,
+    "sequence": 131,
+    "schema_version": 2
+  },
+  {
+    "event_id": "LK-F00133",
+    "store_id": "LK-S18",
+    "device_id": "LK-D17",
+    "event_time_utc": "2026-07-29T08:12:36Z",
+    "count_delta": 1,
+    "sequence": 132,
+    "schema_version": 2
+  },
+  {
+    "event_id": "LK-F00134",
+    "store_id": "LK-S19",
+    "device_id": "LK-D18",
+    "event_time_utc": "2026-07-29T08:13:49Z",
+    "count_delta": 1,
+    "sequence": 133,
+    "schema_version": 2
+  },
+  {
+    "event_id": "LK-F00135",
+    "store_id": "LK-S20",
+    "device_id": "LK-D19",
+    "event_time_utc": "2026-07-29T08:14:02Z",
+    "count_delta": 1,
+    "sequence": 134,
+    "schema_version": 2
+  },
+  {
+    "event_id": "LK-F00136",
+    "store_id": "LK-S21",
+    "device_id": "LK-D20",
+    "event_time_utc": "2026-07-29T08:15:15Z",
+    "count_delta": -1,
+    "sequence": 135,
+    "schema_version": 2
+  },
+  {
+    "event_id": "LK-F00137",
+    "store_id": "LK-S22",
+    "device_id": "LK-D21",
+    "event_time_utc": "2026-07-29T08:16:28Z",
+    "count_delta": 1,
+    "sequence": 136,
+    "schema_version": 2
+  },
+  {
+    "event_id": "LK-F00138",
+    "store_id": "LK-S23",
+    "device_id": "LK-D22",
+    "event_time_utc": "2026-07-29T08:17:41Z",
+    "count_delta": 1,
+    "sequence": 137,
+    "schema_version": 2
+  },
+  {
+    "event_id": "LK-F00139",
+    "store_id": "LK-S01",
+    "device_id": "LK-D00",
+    "event_time_utc": "2026-07-29T08:18:54Z",
+    "count_delta": 1,
+    "sequence": 138,
+    "schema_version": 2
+  },
+  {
+    "event_id": "LK-F00140",
+    "store_id": "LK-S02",
+    "device_id": "LK-D01",
+    "event_time_utc": "2026-07-29T08:19:07Z",
+    "count_delta": 1,
+    "sequence": 139,
+    "schema_version": 2
+  },
+  {
+    "event_id": "LK-F00141",
+    "store_id": "LK-S03",
+    "device_id": "LK-D02",
+    "event_time_utc": "2026-07-29T09:20:20Z",
+    "count_delta": 1,
+    "sequence": 140,
+    "schema_version": 2
+  },
+  {
+    "event_id": "LK-F00142",
+    "store_id": "LK-S04",
+    "device_id": "LK-D03",
+    "event_time_utc": "2026-07-29T09:21:33Z",
+    "count_delta": 1,
+    "sequence": 141,
+    "schema_version": 2
+  },
+  {
+    "event_id": "LK-F00143",
+    "store_id": "LK-S05",
+    "device_id": "LK-D04",
+    "event_time_utc": "2026-07-29T09:22:46Z",
+    "count_delta": 1,
+    "sequence": 142,
+    "schema_version": 2
+  },
+  {
+    "event_id": "LK-F00144",
+    "store_id": "LK-S06",
+    "device_id": "LK-D05",
+    "event_time_utc": "2026-07-29T09:23:59Z",
+    "count_delta": 1,
+    "sequence": 143,
+    "schema_version": 2
+  },
+  {
+    "event_id": "LK-F00145",
+    "store_id": "LK-S07",
+    "device_id": "LK-D06",
+    "event_time_utc": "2026-07-29T09:24:12Z",
+    "count_delta": -1,
+    "sequence": 144,
+    "schema_version": 2
+  },
+  {
+    "event_id": "LK-F00146",
+    "store_id": "LK-S08",
+    "device_id": "LK-D07",
+    "event_time_utc": "2026-07-29T09:25:25Z",
+    "count_delta": 1,
+    "sequence": 145,
+    "schema_version": 2
+  },
+  {
+    "event_id": "LK-F00147",
+    "store_id": "LK-S09",
+    "device_id": "LK-D08",
+    "event_time_utc": "2026-07-29T09:26:38Z",
+    "count_delta": 1,
+    "sequence": 146,
+    "schema_version": 2
+  },
+  {
+    "event_id": "LK-F00148",
+    "store_id": "LK-S10",
+    "device_id": "LK-D09",
+    "event_time_utc": "2026-07-29T09:27:51Z",
+    "count_delta": 1,
+    "sequence": 147,
+    "schema_version": 2
+  },
+  {
+    "event_id": "LK-F00149",
+    "store_id": "LK-S11",
+    "device_id": "LK-D10",
+    "event_time_utc": "2026-07-29T09:28:04Z",
+    "count_delta": 1,
+    "sequence": 148,
+    "schema_version": 2
+  },
+  {
+    "event_id": "LK-F00150",
+    "store_id": "LK-S12",
+    "device_id": "LK-D11",
+    "event_time_utc": "2026-07-29T09:29:17Z",
+    "count_delta": 1,
+    "sequence": 149,
+    "schema_version": 2
+  },
+  {
+    "event_id": "LK-F00151",
+    "store_id": "LK-S13",
+    "device_id": "LK-D12",
+    "event_time_utc": "2026-07-29T09:30:30Z",
+    "count_delta": 1,
+    "sequence": 150,
+    "schema_version": 2
+  },
+  {
+    "event_id": "LK-F00152",
+    "store_id": "LK-S14",
+    "device_id": "LK-D13",
+    "event_time_utc": "2026-07-29T09:31:43Z",
+    "count_delta": 1,
+    "sequence": 151,
+    "schema_version": 2
+  },
+  {
+    "event_id": "LK-F00153",
+    "store_id": "LK-S15",
+    "device_id": "LK-D14",
+    "event_time_utc": "2026-07-29T09:32:56Z",
+    "count_delta": 1,
+    "sequence": 152,
+    "schema_version": 2
+  },
+  {
+    "event_id": "LK-F00154",
+    "store_id": "LK-S16",
+    "device_id": "LK-D15",
+    "event_time_utc": "2026-07-29T09:33:09Z",
+    "count_delta": -1,
+    "sequence": 153,
+    "schema_version": 2
+  },
+  {
+    "event_id": "LK-F00155",
+    "store_id": "LK-S17",
+    "device_id": "LK-D16",
+    "event_time_utc": "2026-07-29T09:34:22Z",
+    "count_delta": 1,
+    "sequence": 154,
+    "schema_version": 2
+  },
+  {
+    "event_id": "LK-F00156",
+    "store_id": "LK-S18",
+    "device_id": "LK-D17",
+    "event_time_utc": "2026-07-29T09:35:35Z",
+    "count_delta": 1,
+    "sequence": 155,
+    "schema_version": 2
+  },
+  {
+    "event_id": "LK-F00157",
+    "store_id": "LK-S19",
+    "device_id": "LK-D18",
+    "event_time_utc": "2026-07-29T09:36:48Z",
+    "count_delta": 1,
+    "sequence": 156,
+    "schema_version": 2
+  },
+  {
+    "event_id": "LK-F00158",
+    "store_id": "LK-S20",
+    "device_id": "LK-D19",
+    "event_time_utc": "2026-07-29T09:37:01Z",
+    "count_delta": 1,
+    "sequence": 157,
+    "schema_version": 2
+  },
+  {
+    "event_id": "LK-F00159",
+    "store_id": "LK-S21",
+    "device_id": "LK-D20",
+    "event_time_utc": "2026-07-29T09:38:14Z",
+    "count_delta": 1,
+    "sequence": 158,
+    "schema_version": 2
+  },
+  {
+    "event_id": "LK-F00160",
+    "store_id": "LK-S22",
+    "device_id": "LK-D21",
+    "event_time_utc": "2026-07-29T09:39:27Z",
+    "count_delta": 1,
+    "sequence": 159,
+    "schema_version": 2
+  },
+  {
+    "event_id": "LK-F00161",
+    "store_id": "LK-S23",
+    "device_id": "LK-D22",
+    "event_time_utc": "2026-07-29T09:40:40Z",
+    "count_delta": 1,
+    "sequence": 160,
+    "schema_version": 2
+  },
+  {
+    "event_id": "LK-F00162",
+    "store_id": "LK-S01",
+    "device_id": "LK-D00",
+    "event_time_utc": "2026-07-29T09:41:53Z",
+    "count_delta": 1,
+    "sequence": 161,
+    "schema_version": 2
+  },
+  {
+    "event_id": "LK-F00163",
+    "store_id": "LK-S02",
+    "device_id": "LK-D01",
+    "event_time_utc": "2026-07-29T09:42:06Z",
+    "count_delta": -1,
+    "sequence": 162,
+    "schema_version": 2
+  },
+  {
+    "event_id": "LK-F00164",
+    "store_id": "LK-S03",
+    "device_id": "LK-D02",
+    "event_time_utc": "2026-07-29T09:43:19Z",
+    "count_delta": 1,
+    "sequence": 163,
+    "schema_version": 2
+  },
+  {
+    "event_id": "LK-F00165",
+    "store_id": "LK-S04",
+    "device_id": "LK-D03",
+    "event_time_utc": "2026-07-29T09:44:32Z",
+    "count_delta": 1,
+    "sequence": 164,
+    "schema_version": 2
+  },
+  {
+    "event_id": "LK-F00166",
+    "store_id": "LK-S05",
+    "device_id": "LK-D04",
+    "event_time_utc": "2026-07-29T09:45:45Z",
+    "count_delta": 1,
+    "sequence": 165,
+    "schema_version": 2
+  },
+  {
+    "event_id": "LK-F00167",
+    "store_id": "LK-S06",
+    "device_id": "LK-D05",
+    "event_time_utc": "2026-07-29T09:46:58Z",
+    "count_delta": 1,
+    "sequence": 166,
+    "schema_version": 2
+  },
+  {
+    "event_id": "LK-F00168",
+    "store_id": "LK-S07",
+    "device_id": "LK-D06",
+    "event_time_utc": "2026-07-29T09:47:11Z",
+    "count_delta": 1,
+    "sequence": 167,
+    "schema_version": 2
+  },
+  {
+    "event_id": "LK-F00169",
+    "store_id": "LK-S08",
+    "device_id": "LK-D07",
+    "event_time_utc": "2026-07-29T09:48:24Z",
+    "count_delta": 1,
+    "sequence": 168,
+    "schema_version": 2
+  },
+  {
+    "event_id": "LK-F00170",
+    "store_id": "LK-S09",
+    "device_id": "LK-D08",
+    "event_time_utc": "2026-07-29T09:49:37Z",
+    "count_delta": 1,
+    "sequence": 169,
+    "schema_version": 2
+  },
+  {
+    "event_id": "LK-F00171",
+    "store_id": "LK-S10",
+    "device_id": "LK-D09",
+    "event_time_utc": "2026-07-29T09:50:50Z",
+    "count_delta": 1,
+    "sequence": 170,
+    "schema_version": 2
+  },
+  {
+    "event_id": "LK-F00172",
+    "store_id": "LK-S11",
+    "device_id": "LK-D10",
+    "event_time_utc": "2026-07-29T09:51:03Z",
+    "count_delta": -1,
+    "sequence": 171,
+    "schema_version": 2
+  },
+  {
+    "event_id": "LK-F00173",
+    "store_id": "LK-S12",
+    "device_id": "LK-D11",
+    "event_time_utc": "2026-07-29T09:52:16Z",
+    "count_delta": 1,
+    "sequence": 172,
+    "schema_version": 2
+  },
+  {
+    "event_id": "LK-F00174",
+    "store_id": "LK-S13",
+    "device_id": "LK-D12",
+    "event_time_utc": "2026-07-29T09:53:29Z",
+    "count_delta": 1,
+    "sequence": 173,
+    "schema_version": 2
+  },
+  {
+    "event_id": "LK-F00175",
+    "store_id": "LK-S14",
+    "device_id": "LK-D13",
+    "event_time_utc": "2026-07-29T09:54:42Z",
+    "count_delta": 1,
+    "sequence": 174,
+    "schema_version": 2
+  },
+  {
+    "event_id": "LK-F00176",
+    "store_id": "LK-S15",
+    "device_id": "LK-D14",
+    "event_time_utc": "2026-07-29T09:55:55Z",
+    "count_delta": 1,
+    "sequence": 175,
+    "schema_version": 2
+  },
+  {
+    "event_id": "LK-F00177",
+    "store_id": "LK-S16",
+    "device_id": "LK-D15",
+    "event_time_utc": "2026-07-29T09:56:08Z",
+    "count_delta": 1,
+    "sequence": 176,
+    "schema_version": 2
+  },
+  {
+    "event_id": "LK-F00178",
+    "store_id": "LK-S17",
+    "device_id": "LK-D16",
+    "event_time_utc": "2026-07-29T09:57:21Z",
+    "count_delta": 1,
+    "sequence": 177,
+    "schema_version": 2
+  },
+  {
+    "event_id": "LK-F00179",
+    "store_id": "LK-S18",
+    "device_id": "LK-D17",
+    "event_time_utc": "2026-07-29T09:58:34Z",
+    "count_delta": 1,
+    "sequence": 178,
+    "schema_version": 2
+  },
+  {
+    "event_id": "LK-F00180",
+    "store_id": "LK-S19",
+    "device_id": "LK-D18",
+    "event_time_utc": "2026-07-29T09:59:47Z",
+    "count_delta": 1,
+    "sequence": 179,
+    "schema_version": 2
+  },
+  {
+    "event_id": "LK-F00181",
+    "store_id": "LK-S20",
+    "device_id": "LK-D19",
+    "event_time_utc": "2026-07-29T09:00:00Z",
+    "count_delta": -1,
+    "sequence": 180,
+    "schema_version": 2
+  },
+  {
+    "event_id": "LK-F00182",
+    "store_id": "LK-S21",
+    "device_id": "LK-D20",
+    "event_time_utc": "2026-07-29T09:01:13Z",
+    "count_delta": 1,
+    "sequence": 181,
+    "schema_version": 2
+  },
+  {
+    "event_id": "LK-F00183",
+    "store_id": "LK-S22",
+    "device_id": "LK-D21",
+    "event_time_utc": "2026-07-29T09:02:26Z",
+    "count_delta": 1,
+    "sequence": 182,
+    "schema_version": 2
+  },
+  {
+    "event_id": "LK-F00184",
+    "store_id": "LK-S23",
+    "device_id": "LK-D22",
+    "event_time_utc": "2026-07-29T09:03:39Z",
+    "count_delta": 1,
+    "sequence": 183,
+    "schema_version": 2
+  },
+  {
+    "event_id": "LK-F00185",
+    "store_id": "LK-S01",
+    "device_id": "LK-D00",
+    "event_time_utc": "2026-07-29T09:04:52Z",
+    "count_delta": 1,
+    "sequence": 184,
+    "schema_version": 2
+  },
+  {
+    "event_id": "LK-F00186",
+    "store_id": "LK-S02",
+    "device_id": "LK-D01",
+    "event_time_utc": "2026-07-29T09:05:05Z",
+    "count_delta": 1,
+    "sequence": 185,
+    "schema_version": 2
+  },
+  {
+    "event_id": "LK-F00187",
+    "store_id": "LK-S03",
+    "device_id": "LK-D02",
+    "event_time_utc": "2026-07-29T09:06:18Z",
+    "count_delta": 1,
+    "sequence": 186,
+    "schema_version": 2
+  },
+  {
+    "event_id": "LK-F00188",
+    "store_id": "LK-S04",
+    "device_id": "LK-D03",
+    "event_time_utc": "2026-07-29T09:07:31Z",
+    "count_delta": 1,
+    "sequence": 187,
+    "schema_version": 2
+  },
+  {
+    "event_id": "LK-F00189",
+    "store_id": "LK-S05",
+    "device_id": "LK-D04",
+    "event_time_utc": "2026-07-29T09:08:44Z",
+    "count_delta": 1,
+    "sequence": 188,
+    "schema_version": 2
+  },
+  {
+    "event_id": "LK-F00190",
+    "store_id": "LK-S06",
+    "device_id": "LK-D05",
+    "event_time_utc": "2026-07-29T09:09:57Z",
+    "count_delta": -1,
+    "sequence": 189,
+    "schema_version": 2
+  },
+  {
+    "event_id": "LK-F00191",
+    "store_id": "LK-S07",
+    "device_id": "LK-D06",
+    "event_time_utc": "2026-07-29T09:10:10Z",
+    "count_delta": 1,
+    "sequence": 190,
+    "schema_version": 2
+  },
+  {
+    "event_id": "LK-F00192",
+    "store_id": "LK-S08",
+    "device_id": "LK-D07",
+    "event_time_utc": "2026-07-29T09:11:23Z",
+    "count_delta": 1,
+    "sequence": 191,
+    "schema_version": 2
+  },
+  {
+    "event_id": "LK-F00193",
+    "store_id": "LK-S09",
+    "device_id": "LK-D08",
+    "event_time_utc": "2026-07-29T09:12:36Z",
+    "count_delta": 1,
+    "sequence": 192,
+    "schema_version": 2
+  },
+  {
+    "event_id": "LK-F00194",
+    "store_id": "LK-S10",
+    "device_id": "LK-D09",
+    "event_time_utc": "2026-07-29T09:13:49Z",
+    "count_delta": 1,
+    "sequence": 193,
+    "schema_version": 2
+  },
+  {
+    "event_id": "LK-F00195",
+    "store_id": "LK-S11",
+    "device_id": "LK-D10",
+    "event_time_utc": "2026-07-29T09:14:02Z",
+    "count_delta": 1,
+    "sequence": 194,
+    "schema_version": 2
+  },
+  {
+    "event_id": "LK-F00196",
+    "store_id": "LK-S12",
+    "device_id": "LK-D11",
+    "event_time_utc": "2026-07-29T09:15:15Z",
+    "count_delta": 1,
+    "sequence": 195,
+    "schema_version": 2
+  },
+  {
+    "event_id": "LK-F00197",
+    "store_id": "LK-S13",
+    "device_id": "LK-D12",
+    "event_time_utc": "2026-07-29T09:16:28Z",
+    "count_delta": 1,
+    "sequence": 196,
+    "schema_version": 2
+  },
+  {
+    "event_id": "LK-F00198",
+    "store_id": "LK-S14",
+    "device_id": "LK-D13",
+    "event_time_utc": "2026-07-29T09:17:41Z",
+    "count_delta": 1,
+    "sequence": 197,
+    "schema_version": 2
+  },
+  {
+    "event_id": "LK-F00199",
+    "store_id": "LK-S15",
+    "device_id": "LK-D14",
+    "event_time_utc": "2026-07-29T09:18:54Z",
+    "count_delta": -1,
+    "sequence": 198,
+    "schema_version": 2
+  },
+  {
+    "event_id": "LK-F00200",
+    "store_id": "LK-S16",
+    "device_id": "LK-D15",
+    "event_time_utc": "2026-07-29T09:19:07Z",
+    "count_delta": 1,
+    "sequence": 199,
+    "schema_version": 2
+  },
+  {
+    "event_id": "LK-F00201",
+    "store_id": "LK-S17",
+    "device_id": "LK-D16",
+    "event_time_utc": "2026-07-29T09:20:20Z",
+    "count_delta": 1,
+    "sequence": 200,
+    "schema_version": 2
+  },
+  {
+    "event_id": "LK-F00202",
+    "store_id": "LK-S18",
+    "device_id": "LK-D17",
+    "event_time_utc": "2026-07-29T09:21:33Z",
+    "count_delta": 1,
+    "sequence": 201,
+    "schema_version": 2
+  },
+  {
+    "event_id": "LK-F00203",
+    "store_id": "LK-S19",
+    "device_id": "LK-D18",
+    "event_time_utc": "2026-07-29T09:22:46Z",
+    "count_delta": 1,
+    "sequence": 202,
+    "schema_version": 2
+  },
+  {
+    "event_id": "LK-F00204",
+    "store_id": "LK-S20",
+    "device_id": "LK-D19",
+    "event_time_utc": "2026-07-29T09:23:59Z",
+    "count_delta": 1,
+    "sequence": 203,
+    "schema_version": 2
+  },
+  {
+    "event_id": "LK-F00205",
+    "store_id": "LK-S21",
+    "device_id": "LK-D20",
+    "event_time_utc": "2026-07-29T09:24:12Z",
+    "count_delta": 1,
+    "sequence": 204,
+    "schema_version": 2
+  },
+  {
+    "event_id": "LK-F00206",
+    "store_id": "LK-S22",
+    "device_id": "LK-D21",
+    "event_time_utc": "2026-07-29T09:25:25Z",
+    "count_delta": 1,
+    "sequence": 205,
+    "schema_version": 2
+  },
+  {
+    "event_id": "LK-F00207",
+    "store_id": "LK-S23",
+    "device_id": "LK-D22",
+    "event_time_utc": "2026-07-29T09:26:38Z",
+    "count_delta": 1,
+    "sequence": 206,
+    "schema_version": 2
+  },
+  {
+    "event_id": "LK-F00208",
+    "store_id": "LK-S01",
+    "device_id": "LK-D00",
+    "event_time_utc": "2026-07-29T09:27:51Z",
+    "count_delta": -1,
+    "sequence": 207,
+    "schema_version": 2
+  },
+  {
+    "event_id": "LK-F00209",
+    "store_id": "LK-S02",
+    "device_id": "LK-D01",
+    "event_time_utc": "2026-07-29T09:28:04Z",
+    "count_delta": 1,
+    "sequence": 208,
+    "schema_version": 2
+  },
+  {
+    "event_id": "LK-F00210",
+    "store_id": "LK-S03",
+    "device_id": "LK-D02",
+    "event_time_utc": "2026-07-29T09:29:17Z",
+    "count_delta": 1,
+    "sequence": 209,
+    "schema_version": 2
+  },
+  {
+    "event_id": "LK-F00211",
+    "store_id": "LK-S04",
+    "device_id": "LK-D03",
+    "event_time_utc": "2026-07-29T10:30:30Z",
+    "count_delta": 1,
+    "sequence": 210,
+    "schema_version": 2
+  },
+  {
+    "event_id": "LK-F00212",
+    "store_id": "LK-S05",
+    "device_id": "LK-D04",
+    "event_time_utc": "2026-07-29T10:31:43Z",
+    "count_delta": 1,
+    "sequence": 211,
+    "schema_version": 2
+  },
+  {
+    "event_id": "LK-F00213",
+    "store_id": "LK-S06",
+    "device_id": "LK-D05",
+    "event_time_utc": "2026-07-29T10:32:56Z",
+    "count_delta": 1,
+    "sequence": 212,
+    "schema_version": 2
+  },
+  {
+    "event_id": "LK-F00214",
+    "store_id": "LK-S07",
+    "device_id": "LK-D06",
+    "event_time_utc": "2026-07-29T10:33:09Z",
+    "count_delta": 1,
+    "sequence": 213,
+    "schema_version": 2
+  },
+  {
+    "event_id": "LK-F00215",
+    "store_id": "LK-S08",
+    "device_id": "LK-D07",
+    "event_time_utc": "2026-07-29T10:34:22Z",
+    "count_delta": 1,
+    "sequence": 214,
+    "schema_version": 2
+  },
+  {
+    "event_id": "LK-F00216",
+    "store_id": "LK-S09",
+    "device_id": "LK-D08",
+    "event_time_utc": "2026-07-29T10:35:35Z",
+    "count_delta": 1,
+    "sequence": 215,
+    "schema_version": 2
+  },
+  {
+    "event_id": "LK-F00217",
+    "store_id": "LK-S10",
+    "device_id": "LK-D09",
+    "event_time_utc": "2026-07-29T10:36:48Z",
+    "count_delta": -1,
+    "sequence": 216,
+    "schema_version": 2
+  },
+  {
+    "event_id": "LK-F00218",
+    "store_id": "LK-S11",
+    "device_id": "LK-D10",
+    "event_time_utc": "2026-07-29T10:37:01Z",
+    "count_delta": 1,
+    "sequence": 217,
+    "schema_version": 2
+  },
+  {
+    "event_id": "LK-F00219",
+    "store_id": "LK-S12",
+    "device_id": "LK-D11",
+    "event_time_utc": "2026-07-29T10:38:14Z",
+    "count_delta": 1,
+    "sequence": 218,
+    "schema_version": 2
+  },
+  {
+    "event_id": "LK-F00220",
+    "store_id": "LK-S13",
+    "device_id": "LK-D12",
+    "event_time_utc": "2026-07-29T10:39:27Z",
+    "count_delta": 1,
+    "sequence": 219,
+    "schema_version": 2
+  },
+  {
+    "event_id": "LK-F00221",
+    "store_id": "LK-S14",
+    "device_id": "LK-D13",
+    "event_time_utc": "2026-07-29T10:40:40Z",
+    "count_delta": 1,
+    "sequence": 220,
+    "schema_version": 2
+  },
+  {
+    "event_id": "LK-F00222",
+    "store_id": "LK-S15",
+    "device_id": "LK-D14",
+    "event_time_utc": "2026-07-29T10:41:53Z",
+    "count_delta": 1,
+    "sequence": 221,
+    "schema_version": 2
+  },
+  {
+    "event_id": "LK-F00223",
+    "store_id": "LK-S16",
+    "device_id": "LK-D15",
+    "event_time_utc": "2026-07-29T10:42:06Z",
+    "count_delta": 1,
+    "sequence": 222,
+    "schema_version": 2
+  },
+  {
+    "event_id": "LK-F00224",
+    "store_id": "LK-S17",
+    "device_id": "LK-D16",
+    "event_time_utc": "2026-07-29T10:43:19Z",
+    "count_delta": 1,
+    "sequence": 223,
+    "schema_version": 2
+  },
+  {
+    "event_id": "LK-F00225",
+    "store_id": "LK-S18",
+    "device_id": "LK-D17",
+    "event_time_utc": "2026-07-29T10:44:32Z",
+    "count_delta": 1,
+    "sequence": 224,
+    "schema_version": 2
+  },
+  {
+    "event_id": "LK-F00226",
+    "store_id": "LK-S19",
+    "device_id": "LK-D18",
+    "event_time_utc": "2026-07-29T10:45:45Z",
+    "count_delta": -1,
+    "sequence": 225,
+    "schema_version": 2
+  },
+  {
+    "event_id": "LK-F00227",
+    "store_id": "LK-S20",
+    "device_id": "LK-D19",
+    "event_time_utc": "2026-07-29T10:46:58Z",
+    "count_delta": 1,
+    "sequence": 226,
+    "schema_version": 2
+  },
+  {
+    "event_id": "LK-F00228",
+    "store_id": "LK-S21",
+    "device_id": "LK-D20",
+    "event_time_utc": "2026-07-29T10:47:11Z",
+    "count_delta": 1,
+    "sequence": 227,
+    "schema_version": 2
+  },
+  {
+    "event_id": "LK-F00229",
+    "store_id": "LK-S22",
+    "device_id": "LK-D21",
+    "event_time_utc": "2026-07-29T10:48:24Z",
+    "count_delta": 1,
+    "sequence": 228,
+    "schema_version": 2
+  },
+  {
+    "event_id": "LK-F00230",
+    "store_id": "LK-S23",
+    "device_id": "LK-D22",
+    "event_time_utc": "2026-07-29T10:49:37Z",
+    "count_delta": 1,
+    "sequence": 229,
+    "schema_version": 2
+  },
+  {
+    "event_id": "LK-F00231",
+    "store_id": "LK-S01",
+    "device_id": "LK-D00",
+    "event_time_utc": "2026-07-29T10:50:50Z",
+    "count_delta": 1,
+    "sequence": 230,
+    "schema_version": 2
+  },
+  {
+    "event_id": "LK-F00232",
+    "store_id": "LK-S02",
+    "device_id": "LK-D01",
+    "event_time_utc": "2026-07-29T10:51:03Z",
+    "count_delta": 1,
+    "sequence": 231,
+    "schema_version": 2
+  },
+  {
+    "event_id": "LK-F00233",
+    "store_id": "LK-S03",
+    "device_id": "LK-D02",
+    "event_time_utc": "2026-07-29T10:52:16Z",
+    "count_delta": 1,
+    "sequence": 232,
+    "schema_version": 2
+  },
+  {
+    "event_id": "LK-F00234",
+    "store_id": "LK-S04",
+    "device_id": "LK-D03",
+    "event_time_utc": "2026-07-29T10:53:29Z",
+    "count_delta": 1,
+    "sequence": 233,
+    "schema_version": 2
+  },
+  {
+    "event_id": "LK-F00235",
+    "store_id": "LK-S05",
+    "device_id": "LK-D04",
+    "event_time_utc": "2026-07-29T10:54:42Z",
+    "count_delta": -1,
+    "sequence": 234,
+    "schema_version": 2
+  },
+  {
+    "event_id": "LK-F00236",
+    "store_id": "LK-S06",
+    "device_id": "LK-D05",
+    "event_time_utc": "2026-07-29T10:55:55Z",
+    "count_delta": 1,
+    "sequence": 235,
+    "schema_version": 2
+  },
+  {
+    "event_id": "LK-F00237",
+    "store_id": "LK-S07",
+    "device_id": "LK-D06",
+    "event_time_utc": "2026-07-29T10:56:08Z",
+    "count_delta": 1,
+    "sequence": 236,
+    "schema_version": 2
+  },
+  {
+    "event_id": "LK-F00238",
+    "store_id": "LK-S08",
+    "device_id": "LK-D07",
+    "event_time_utc": "2026-07-29T10:57:21Z",
+    "count_delta": 1,
+    "sequence": 237,
+    "schema_version": 2
+  },
+  {
+    "event_id": "LK-F00239",
+    "store_id": "LK-S09",
+    "device_id": "LK-D08",
+    "event_time_utc": "2026-07-29T10:58:34Z",
+    "count_delta": 1,
+    "sequence": 238,
+    "schema_version": 2
+  },
+  {
+    "event_id": "LK-F00240",
+    "store_id": "LK-S10",
+    "device_id": "LK-D09",
+    "event_time_utc": "2026-07-29T10:59:47Z",
+    "count_delta": 1,
+    "sequence": 239,
+    "schema_version": 2
+  },
+  {
+    "event_id": "LK-F00241",
+    "store_id": "LK-S11",
+    "device_id": "LK-D10",
+    "event_time_utc": "2026-07-29T10:00:00Z",
+    "count_delta": 1,
+    "sequence": 240,
+    "schema_version": 2
+  },
+  {
+    "event_id": "LK-F00242",
+    "store_id": "LK-S12",
+    "device_id": "LK-D11",
+    "event_time_utc": "2026-07-29T10:01:13Z",
+    "count_delta": 1,
+    "sequence": 241,
+    "schema_version": 2
+  },
+  {
+    "event_id": "LK-F00243",
+    "store_id": "LK-S13",
+    "device_id": "LK-D12",
+    "event_time_utc": "2026-07-29T10:02:26Z",
+    "count_delta": 1,
+    "sequence": 242,
+    "schema_version": 2
+  },
+  {
+    "event_id": "LK-F00244",
+    "store_id": "LK-S14",
+    "device_id": "LK-D13",
+    "event_time_utc": "2026-07-29T10:03:39Z",
+    "count_delta": -1,
+    "sequence": 243,
+    "schema_version": 2
+  },
+  {
+    "event_id": "LK-F00245",
+    "store_id": "LK-S15",
+    "device_id": "LK-D14",
+    "event_time_utc": "2026-07-29T10:04:52Z",
+    "count_delta": 1,
+    "sequence": 244,
+    "schema_version": 2
+  },
+  {
+    "event_id": "LK-F00246",
+    "store_id": "LK-S16",
+    "device_id": "LK-D15",
+    "event_time_utc": "2026-07-29T10:05:05Z",
+    "count_delta": 1,
+    "sequence": 245,
+    "schema_version": 2
+  },
+  {
+    "event_id": "LK-F00247",
+    "store_id": "LK-S17",
+    "device_id": "LK-D16",
+    "event_time_utc": "2026-07-29T10:06:18Z",
+    "count_delta": 1,
+    "sequence": 246,
+    "schema_version": 2
+  },
+  {
+    "event_id": "LK-F00248",
+    "store_id": "LK-S18",
+    "device_id": "LK-D17",
+    "event_time_utc": "2026-07-29T10:07:31Z",
+    "count_delta": 1,
+    "sequence": 247,
+    "schema_version": 2
+  },
+  {
+    "event_id": "LK-F00249",
+    "store_id": "LK-S19",
+    "device_id": "LK-D18",
+    "event_time_utc": "2026-07-29T10:08:44Z",
+    "count_delta": 1,
+    "sequence": 248,
+    "schema_version": 2
+  },
+  {
+    "event_id": "LK-F00250",
+    "store_id": "LK-S20",
+    "device_id": "LK-D19",
+    "event_time_utc": "2026-07-29T10:09:57Z",
+    "count_delta": 1,
+    "sequence": 249,
+    "schema_version": 2
+  },
+  {
+    "event_id": "LK-F00251",
+    "store_id": "LK-S21",
+    "device_id": "LK-D20",
+    "event_time_utc": "2026-07-29T10:10:10Z",
+    "count_delta": 1,
+    "sequence": 250,
+    "schema_version": 2
+  },
+  {
+    "event_id": "LK-F00252",
+    "store_id": "LK-S22",
+    "device_id": "LK-D21",
+    "event_time_utc": "2026-07-29T10:11:23Z",
+    "count_delta": 1,
+    "sequence": 251,
+    "schema_version": 2
+  },
+  {
+    "event_id": "LK-F00253",
+    "store_id": "LK-S23",
+    "device_id": "LK-D22",
+    "event_time_utc": "2026-07-29T10:12:36Z",
+    "count_delta": -1,
+    "sequence": 252,
+    "schema_version": 2
+  },
+  {
+    "event_id": "LK-F00254",
+    "store_id": "LK-S01",
+    "device_id": "LK-D00",
+    "event_time_utc": "2026-07-29T10:13:49Z",
+    "count_delta": 1,
+    "sequence": 253,
+    "schema_version": 2
+  },
+  {
+    "event_id": "LK-F00255",
+    "store_id": "LK-S02",
+    "device_id": "LK-D01",
+    "event_time_utc": "2026-07-29T10:14:02Z",
+    "count_delta": 1,
+    "sequence": 254,
+    "schema_version": 2
+  },
+  {
+    "event_id": "LK-F00256",
+    "store_id": "LK-S03",
+    "device_id": "LK-D02",
+    "event_time_utc": "2026-07-29T10:15:15Z",
+    "count_delta": 1,
+    "sequence": 255,
+    "schema_version": 2
+  },
+  {
+    "event_id": "LK-F00257",
+    "store_id": "LK-S04",
+    "device_id": "LK-D03",
+    "event_time_utc": "2026-07-29T10:16:28Z",
+    "count_delta": 1,
+    "sequence": 256,
+    "schema_version": 2
+  },
+  {
+    "event_id": "LK-F00258",
+    "store_id": "LK-S05",
+    "device_id": "LK-D04",
+    "event_time_utc": "2026-07-29T10:17:41Z",
+    "count_delta": 1,
+    "sequence": 257,
+    "schema_version": 2
+  },
+  {
+    "event_id": "LK-F00259",
+    "store_id": "LK-S06",
+    "device_id": "LK-D05",
+    "event_time_utc": "2026-07-29T10:18:54Z",
+    "count_delta": 1,
+    "sequence": 258,
+    "schema_version": 2
+  },
+  {
+    "event_id": "LK-F00260",
+    "store_id": "LK-S07",
+    "device_id": "LK-D06",
+    "event_time_utc": "2026-07-29T10:19:07Z",
+    "count_delta": 1,
+    "sequence": 259,
+    "schema_version": 2
+  },
+  {
+    "event_id": "LK-F00261",
+    "store_id": "LK-S08",
+    "device_id": "LK-D07",
+    "event_time_utc": "2026-07-29T10:20:20Z",
+    "count_delta": 1,
+    "sequence": 260,
+    "schema_version": 2
+  },
+  {
+    "event_id": "LK-F00262",
+    "store_id": "LK-S09",
+    "device_id": "LK-D08",
+    "event_time_utc": "2026-07-29T10:21:33Z",
+    "count_delta": -1,
+    "sequence": 261,
+    "schema_version": 2
+  },
+  {
+    "event_id": "LK-F00263",
+    "store_id": "LK-S10",
+    "device_id": "LK-D09",
+    "event_time_utc": "2026-07-29T10:22:46Z",
+    "count_delta": 1,
+    "sequence": 262,
+    "schema_version": 2
+  },
+  {
+    "event_id": "LK-F00264",
+    "store_id": "LK-S11",
+    "device_id": "LK-D10",
+    "event_time_utc": "2026-07-29T10:23:59Z",
+    "count_delta": 1,
+    "sequence": 263,
+    "schema_version": 2
+  },
+  {
+    "event_id": "LK-F00265",
+    "store_id": "LK-S12",
+    "device_id": "LK-D11",
+    "event_time_utc": "2026-07-29T10:24:12Z",
+    "count_delta": 1,
+    "sequence": 264,
+    "schema_version": 2
+  },
+  {
+    "event_id": "LK-F00266",
+    "store_id": "LK-S13",
+    "device_id": "LK-D12",
+    "event_time_utc": "2026-07-29T10:25:25Z",
+    "count_delta": 1,
+    "sequence": 265,
+    "schema_version": 2
+  },
+  {
+    "event_id": "LK-F00267",
+    "store_id": "LK-S14",
+    "device_id": "LK-D13",
+    "event_time_utc": "2026-07-29T10:26:38Z",
+    "count_delta": 1,
+    "sequence": 266,
+    "schema_version": 2
+  },
+  {
+    "event_id": "LK-F00268",
+    "store_id": "LK-S15",
+    "device_id": "LK-D14",
+    "event_time_utc": "2026-07-29T10:27:51Z",
+    "count_delta": 1,
+    "sequence": 267,
+    "schema_version": 2
+  },
+  {
+    "event_id": "LK-F00269",
+    "store_id": "LK-S16",
+    "device_id": "LK-D15",
+    "event_time_utc": "2026-07-29T10:28:04Z",
+    "count_delta": 1,
+    "sequence": 268,
+    "schema_version": 2
+  },
+  {
+    "event_id": "LK-F00270",
+    "store_id": "LK-S17",
+    "device_id": "LK-D16",
+    "event_time_utc": "2026-07-29T10:29:17Z",
+    "count_delta": 1,
+    "sequence": 269,
+    "schema_version": 2
+  },
+  {
+    "event_id": "LK-F00271",
+    "store_id": "LK-S18",
+    "device_id": "LK-D17",
+    "event_time_utc": "2026-07-29T10:30:30Z",
+    "count_delta": -1,
+    "sequence": 270,
+    "schema_version": 2
+  },
+  {
+    "event_id": "LK-F00272",
+    "store_id": "LK-S19",
+    "device_id": "LK-D18",
+    "event_time_utc": "2026-07-29T10:31:43Z",
+    "count_delta": 1,
+    "sequence": 271,
+    "schema_version": 2
+  },
+  {
+    "event_id": "LK-F00273",
+    "store_id": "LK-S20",
+    "device_id": "LK-D19",
+    "event_time_utc": "2026-07-29T10:32:56Z",
+    "count_delta": 1,
+    "sequence": 272,
+    "schema_version": 2
+  },
+  {
+    "event_id": "LK-F00274",
+    "store_id": "LK-S21",
+    "device_id": "LK-D20",
+    "event_time_utc": "2026-07-29T10:33:09Z",
+    "count_delta": 1,
+    "sequence": 273,
+    "schema_version": 2
+  },
+  {
+    "event_id": "LK-F00275",
+    "store_id": "LK-S22",
+    "device_id": "LK-D21",
+    "event_time_utc": "2026-07-29T10:34:22Z",
+    "count_delta": 1,
+    "sequence": 274,
+    "schema_version": 2
+  },
+  {
+    "event_id": "LK-F00276",
+    "store_id": "LK-S23",
+    "device_id": "LK-D22",
+    "event_time_utc": "2026-07-29T10:35:35Z",
+    "count_delta": 1,
+    "sequence": 275,
+    "schema_version": 2
+  },
+  {
+    "event_id": "LK-F00277",
+    "store_id": "LK-S01",
+    "device_id": "LK-D00",
+    "event_time_utc": "2026-07-29T10:36:48Z",
+    "count_delta": 1,
+    "sequence": 276,
+    "schema_version": 2
+  },
+  {
+    "event_id": "LK-F00278",
+    "store_id": "LK-S02",
+    "device_id": "LK-D01",
+    "event_time_utc": "2026-07-29T10:37:01Z",
+    "count_delta": 1,
+    "sequence": 277,
+    "schema_version": 2
+  },
+  {
+    "event_id": "LK-F00279",
+    "store_id": "LK-S03",
+    "device_id": "LK-D02",
+    "event_time_utc": "2026-07-29T10:38:14Z",
+    "count_delta": 1,
+    "sequence": 278,
+    "schema_version": 2
+  },
+  {
+    "event_id": "LK-F00280",
+    "store_id": "LK-S04",
+    "device_id": "LK-D03",
+    "event_time_utc": "2026-07-29T10:39:27Z",
+    "count_delta": -1,
+    "sequence": 279,
+    "schema_version": 2
+  },
+  {
+    "event_id": "LK-F00281",
+    "store_id": "LK-S05",
+    "device_id": "LK-D04",
+    "event_time_utc": "2026-07-29T11:40:40Z",
+    "count_delta": 1,
+    "sequence": 280,
+    "schema_version": 2
+  },
+  {
+    "event_id": "LK-F00282",
+    "store_id": "LK-S06",
+    "device_id": "LK-D05",
+    "event_time_utc": "2026-07-29T11:41:53Z",
+    "count_delta": 1,
+    "sequence": 281,
+    "schema_version": 2
+  },
+  {
+    "event_id": "LK-F00283",
+    "store_id": "LK-S07",
+    "device_id": "LK-D06",
+    "event_time_utc": "2026-07-29T11:42:06Z",
+    "count_delta": 1,
+    "sequence": 282,
+    "schema_version": 2
+  },
+  {
+    "event_id": "LK-F00284",
+    "store_id": "LK-S08",
+    "device_id": "LK-D07",
+    "event_time_utc": "2026-07-29T11:43:19Z",
+    "count_delta": 1,
+    "sequence": 283,
+    "schema_version": 2
+  },
+  {
+    "event_id": "LK-F00285",
+    "store_id": "LK-S09",
+    "device_id": "LK-D08",
+    "event_time_utc": "2026-07-29T11:44:32Z",
+    "count_delta": 1,
+    "sequence": 284,
+    "schema_version": 2
+  },
+  {
+    "event_id": "LK-F00286",
+    "store_id": "LK-S10",
+    "device_id": "LK-D09",
+    "event_time_utc": "2026-07-29T11:45:45Z",
+    "count_delta": 1,
+    "sequence": 285,
+    "schema_version": 2
+  },
+  {
+    "event_id": "LK-F00287",
+    "store_id": "LK-S11",
+    "device_id": "LK-D10",
+    "event_time_utc": "2026-07-29T11:46:58Z",
+    "count_delta": 1,
+    "sequence": 286,
+    "schema_version": 2
+  },
+  {
+    "event_id": "LK-F00288",
+    "store_id": "LK-S12",
+    "device_id": "LK-D11",
+    "event_time_utc": "2026-07-29T11:47:11Z",
+    "count_delta": 1,
+    "sequence": 287,
+    "schema_version": 2
+  },
+  {
+    "event_id": "LK-F00289",
+    "store_id": "LK-S13",
+    "device_id": "LK-D12",
+    "event_time_utc": "2026-07-29T11:48:24Z",
+    "count_delta": -1,
+    "sequence": 288,
+    "schema_version": 2
+  },
+  {
+    "event_id": "LK-F00290",
+    "store_id": "LK-S14",
+    "device_id": "LK-D13",
+    "event_time_utc": "2026-07-29T11:49:37Z",
+    "count_delta": 1,
+    "sequence": 289,
+    "schema_version": 2
+  },
+  {
+    "event_id": "LK-F00291",
+    "store_id": "LK-S15",
+    "device_id": "LK-D14",
+    "event_time_utc": "2026-07-29T11:50:50Z",
+    "count_delta": 1,
+    "sequence": 290,
+    "schema_version": 2
+  },
+  {
+    "event_id": "LK-F00292",
+    "store_id": "LK-S16",
+    "device_id": "LK-D15",
+    "event_time_utc": "2026-07-29T11:51:03Z",
+    "count_delta": 1,
+    "sequence": 291,
+    "schema_version": 2
+  },
+  {
+    "event_id": "LK-F00293",
+    "store_id": "LK-S17",
+    "device_id": "LK-D16",
+    "event_time_utc": "2026-07-29T11:52:16Z",
+    "count_delta": 1,
+    "sequence": 292,
+    "schema_version": 2
+  },
+  {
+    "event_id": "LK-F00294",
+    "store_id": "LK-S18",
+    "device_id": "LK-D17",
+    "event_time_utc": "2026-07-29T11:53:29Z",
+    "count_delta": 1,
+    "sequence": 293,
+    "schema_version": 2
+  },
+  {
+    "event_id": "LK-F00295",
+    "store_id": "LK-S19",
+    "device_id": "LK-D18",
+    "event_time_utc": "2026-07-29T11:54:42Z",
+    "count_delta": 1,
+    "sequence": 294,
+    "schema_version": 2
+  },
+  {
+    "event_id": "LK-F00296",
+    "store_id": "LK-S20",
+    "device_id": "LK-D19",
+    "event_time_utc": "2026-07-29T11:55:55Z",
+    "count_delta": 1,
+    "sequence": 295,
+    "schema_version": 2
+  },
+  {
+    "event_id": "LK-F00297",
+    "store_id": "LK-S21",
+    "device_id": "LK-D20",
+    "event_time_utc": "2026-07-29T11:56:08Z",
+    "count_delta": 1,
+    "sequence": 296,
+    "schema_version": 2
+  },
+  {
+    "event_id": "LK-F00298",
+    "store_id": "LK-S22",
+    "device_id": "LK-D21",
+    "event_time_utc": "2026-07-29T11:57:21Z",
+    "count_delta": -1,
+    "sequence": 297,
+    "schema_version": 2
+  },
+  {
+    "event_id": "LK-F00299",
+    "store_id": "LK-S23",
+    "device_id": "LK-D22",
+    "event_time_utc": "2026-07-29T11:58:34Z",
+    "count_delta": 1,
+    "sequence": 298,
+    "schema_version": 2
+  },
+  {
+    "event_id": "LK-F00300",
+    "store_id": "LK-S01",
+    "device_id": "LK-D00",
+    "event_time_utc": "2026-07-29T11:59:47Z",
+    "count_delta": 1,
+    "sequence": 299,
+    "schema_version": 2
+  },
+  {
+    "event_id": "LK-F00301",
+    "store_id": "LK-S02",
+    "device_id": "LK-D01",
+    "event_time_utc": "2026-07-29T11:00:00Z",
+    "count_delta": 1,
+    "sequence": 300,
+    "schema_version": 2
+  },
+  {
+    "event_id": "LK-F00302",
+    "store_id": "LK-S03",
+    "device_id": "LK-D02",
+    "event_time_utc": "2026-07-29T11:01:13Z",
+    "count_delta": 1,
+    "sequence": 301,
+    "schema_version": 2
+  },
+  {
+    "event_id": "LK-F00303",
+    "store_id": "LK-S04",
+    "device_id": "LK-D03",
+    "event_time_utc": "2026-07-29T11:02:26Z",
+    "count_delta": 1,
+    "sequence": 302,
+    "schema_version": 2
+  },
+  {
+    "event_id": "LK-F00304",
+    "store_id": "LK-S05",
+    "device_id": "LK-D04",
+    "event_time_utc": "2026-07-29T11:03:39Z",
+    "count_delta": 1,
+    "sequence": 303,
+    "schema_version": 2
+  },
+  {
+    "event_id": "LK-F00305",
+    "store_id": "LK-S06",
+    "device_id": "LK-D05",
+    "event_time_utc": "2026-07-29T11:04:52Z",
+    "count_delta": 1,
+    "sequence": 304,
+    "schema_version": 2
+  },
+  {
+    "event_id": "LK-F00306",
+    "store_id": "LK-S07",
+    "device_id": "LK-D06",
+    "event_time_utc": "2026-07-29T11:05:05Z",
+    "count_delta": 1,
+    "sequence": 305,
+    "schema_version": 2
+  },
+  {
+    "event_id": "LK-F00307",
+    "store_id": "LK-S08",
+    "device_id": "LK-D07",
+    "event_time_utc": "2026-07-29T11:06:18Z",
+    "count_delta": -1,
+    "sequence": 306,
+    "schema_version": 2
+  },
+  {
+    "event_id": "LK-F00308",
+    "store_id": "LK-S09",
+    "device_id": "LK-D08",
+    "event_time_utc": "2026-07-29T11:07:31Z",
+    "count_delta": 1,
+    "sequence": 307,
+    "schema_version": 2
+  },
+  {
+    "event_id": "LK-F00309",
+    "store_id": "LK-S10",
+    "device_id": "LK-D09",
+    "event_time_utc": "2026-07-29T11:08:44Z",
+    "count_delta": 1,
+    "sequence": 308,
+    "schema_version": 2
+  },
+  {
+    "event_id": "LK-F00310",
+    "store_id": "LK-S11",
+    "device_id": "LK-D10",
+    "event_time_utc": "2026-07-29T11:09:57Z",
+    "count_delta": 1,
+    "sequence": 309,
+    "schema_version": 2
+  },
+  {
+    "event_id": "LK-F00311",
+    "store_id": "LK-S12",
+    "device_id": "LK-D11",
+    "event_time_utc": "2026-07-29T11:10:10Z",
+    "count_delta": 1,
+    "sequence": 310,
+    "schema_version": 2
+  },
+  {
+    "event_id": "LK-F00312",
+    "store_id": "LK-S13",
+    "device_id": "LK-D12",
+    "event_time_utc": "2026-07-29T11:11:23Z",
+    "count_delta": 1,
+    "sequence": 311,
+    "schema_version": 2
+  },
+  {
+    "event_id": "LK-F00313",
+    "store_id": "LK-S14",
+    "device_id": "LK-D13",
+    "event_time_utc": "2026-07-29T11:12:36Z",
+    "count_delta": 1,
+    "sequence": 312,
+    "schema_version": 2
+  },
+  {
+    "event_id": "LK-F00314",
+    "store_id": "LK-S15",
+    "device_id": "LK-D14",
+    "event_time_utc": "2026-07-29T11:13:49Z",
+    "count_delta": 1,
+    "sequence": 313,
+    "schema_version": 2
+  },
+  {
+    "event_id": "LK-F00315",
+    "store_id": "LK-S16",
+    "device_id": "LK-D15",
+    "event_time_utc": "2026-07-29T11:14:02Z",
+    "count_delta": 1,
+    "sequence": 314,
+    "schema_version": 2
+  },
+  {
+    "event_id": "LK-F00316",
+    "store_id": "LK-S17",
+    "device_id": "LK-D16",
+    "event_time_utc": "2026-07-29T11:15:15Z",
+    "count_delta": -1,
+    "sequence": 315,
+    "schema_version": 2
+  },
+  {
+    "event_id": "LK-F00317",
+    "store_id": "LK-S18",
+    "device_id": "LK-D17",
+    "event_time_utc": "2026-07-29T11:16:28Z",
+    "count_delta": 1,
+    "sequence": 316,
+    "schema_version": 2
+  },
+  {
+    "event_id": "LK-F00318",
+    "store_id": "LK-S19",
+    "device_id": "LK-D18",
+    "event_time_utc": "2026-07-29T11:17:41Z",
+    "count_delta": 1,
+    "sequence": 317,
+    "schema_version": 2
+  },
+  {
+    "event_id": "LK-F00319",
+    "store_id": "LK-S20",
+    "device_id": "LK-D19",
+    "event_time_utc": "2026-07-29T11:18:54Z",
+    "count_delta": 1,
+    "sequence": 318,
+    "schema_version": 2
+  },
+  {
+    "event_id": "LK-F00320",
+    "store_id": "LK-S21",
+    "device_id": "LK-D20",
+    "event_time_utc": "2026-07-29T11:19:07Z",
+    "count_delta": 1,
+    "sequence": 319,
+    "schema_version": 2
+  },
+  {
+    "event_id": "LK-F00321",
+    "store_id": "LK-S22",
+    "device_id": "LK-D21",
+    "event_time_utc": "2026-07-29T11:20:20Z",
+    "count_delta": 1,
+    "sequence": 320,
+    "schema_version": 2
+  },
+  {
+    "event_id": "LK-F00322",
+    "store_id": "LK-S23",
+    "device_id": "LK-D22",
+    "event_time_utc": "2026-07-29T11:21:33Z",
+    "count_delta": 1,
+    "sequence": 321,
+    "schema_version": 2
+  },
+  {
+    "event_id": "LK-F00323",
+    "store_id": "LK-S01",
+    "device_id": "LK-D00",
+    "event_time_utc": "2026-07-29T11:22:46Z",
+    "count_delta": 1,
+    "sequence": 322,
+    "schema_version": 2
+  },
+  {
+    "event_id": "LK-F00324",
+    "store_id": "LK-S02",
+    "device_id": "LK-D01",
+    "event_time_utc": "2026-07-29T11:23:59Z",
+    "count_delta": 1,
+    "sequence": 323,
+    "schema_version": 2
+  },
+  {
+    "event_id": "LK-F00325",
+    "store_id": "LK-S03",
+    "device_id": "LK-D02",
+    "event_time_utc": "2026-07-29T11:24:12Z",
+    "count_delta": -1,
+    "sequence": 324,
+    "schema_version": 2
+  },
+  {
+    "event_id": "LK-F00326",
+    "store_id": "LK-S04",
+    "device_id": "LK-D03",
+    "event_time_utc": "2026-07-29T11:25:25Z",
+    "count_delta": 1,
+    "sequence": 325,
+    "schema_version": 2
+  },
+  {
+    "event_id": "LK-F00327",
+    "store_id": "LK-S05",
+    "device_id": "LK-D04",
+    "event_time_utc": "2026-07-29T11:26:38Z",
+    "count_delta": 1,
+    "sequence": 326,
+    "schema_version": 2
+  },
+  {
+    "event_id": "LK-F00328",
+    "store_id": "LK-S06",
+    "device_id": "LK-D05",
+    "event_time_utc": "2026-07-29T11:27:51Z",
+    "count_delta": 1,
+    "sequence": 327,
+    "schema_version": 2
+  },
+  {
+    "event_id": "LK-F00329",
+    "store_id": "LK-S07",
+    "device_id": "LK-D06",
+    "event_time_utc": "2026-07-29T11:28:04Z",
+    "count_delta": 1,
+    "sequence": 328,
+    "schema_version": 2
+  },
+  {
+    "event_id": "LK-F00330",
+    "store_id": "LK-S08",
+    "device_id": "LK-D07",
+    "event_time_utc": "2026-07-29T11:29:17Z",
+    "count_delta": 1,
+    "sequence": 329,
+    "schema_version": 2
+  },
+  {
+    "event_id": "LK-F00331",
+    "store_id": "LK-S09",
+    "device_id": "LK-D08",
+    "event_time_utc": "2026-07-29T11:30:30Z",
+    "count_delta": 1,
+    "sequence": 330,
+    "schema_version": 2
+  },
+  {
+    "event_id": "LK-F00332",
+    "store_id": "LK-S10",
+    "device_id": "LK-D09",
+    "event_time_utc": "2026-07-29T11:31:43Z",
+    "count_delta": 1,
+    "sequence": 331,
+    "schema_version": 2
+  },
+  {
+    "event_id": "LK-F00333",
+    "store_id": "LK-S11",
+    "device_id": "LK-D10",
+    "event_time_utc": "2026-07-29T11:32:56Z",
+    "count_delta": 1,
+    "sequence": 332,
+    "schema_version": 2
+  },
+  {
+    "event_id": "LK-F00334",
+    "store_id": "LK-S12",
+    "device_id": "LK-D11",
+    "event_time_utc": "2026-07-29T11:33:09Z",
+    "count_delta": -1,
+    "sequence": 333,
+    "schema_version": 2
+  },
+  {
+    "event_id": "LK-F00335",
+    "store_id": "LK-S13",
+    "device_id": "LK-D12",
+    "event_time_utc": "2026-07-29T11:34:22Z",
+    "count_delta": 1,
+    "sequence": 334,
+    "schema_version": 2
+  },
+  {
+    "event_id": "LK-F00336",
+    "store_id": "LK-S14",
+    "device_id": "LK-D13",
+    "event_time_utc": "2026-07-29T11:35:35Z",
+    "count_delta": 1,
+    "sequence": 335,
+    "schema_version": 2
+  },
+  {
+    "event_id": "LK-F00337",
+    "store_id": "LK-S15",
+    "device_id": "LK-D14",
+    "event_time_utc": "2026-07-29T11:36:48Z",
+    "count_delta": 1,
+    "sequence": 336,
+    "schema_version": 2
+  },
+  {
+    "event_id": "LK-F00338",
+    "store_id": "LK-S16",
+    "device_id": "LK-D15",
+    "event_time_utc": "2026-07-29T11:37:01Z",
+    "count_delta": 1,
+    "sequence": 337,
+    "schema_version": 2
+  },
+  {
+    "event_id": "LK-F00339",
+    "store_id": "LK-S17",
+    "device_id": "LK-D16",
+    "event_time_utc": "2026-07-29T11:38:14Z",
+    "count_delta": 1,
+    "sequence": 338,
+    "schema_version": 2
+  },
+  {
+    "event_id": "LK-F00340",
+    "store_id": "LK-S18",
+    "device_id": "LK-D17",
+    "event_time_utc": "2026-07-29T11:39:27Z",
+    "count_delta": 1,
+    "sequence": 339,
+    "schema_version": 2
+  },
+  {
+    "event_id": "LK-F00341",
+    "store_id": "LK-S19",
+    "device_id": "LK-D18",
+    "event_time_utc": "2026-07-29T11:40:40Z",
+    "count_delta": 1,
+    "sequence": 340,
+    "schema_version": 2
+  },
+  {
+    "event_id": "LK-F00342",
+    "store_id": "LK-S20",
+    "device_id": "LK-D19",
+    "event_time_utc": "2026-07-29T11:41:53Z",
+    "count_delta": 1,
+    "sequence": 341,
+    "schema_version": 2
+  },
+  {
+    "event_id": "LK-F00343",
+    "store_id": "LK-S21",
+    "device_id": "LK-D20",
+    "event_time_utc": "2026-07-29T11:42:06Z",
+    "count_delta": -1,
+    "sequence": 342,
+    "schema_version": 2
+  },
+  {
+    "event_id": "LK-F00344",
+    "store_id": "LK-S22",
+    "device_id": "LK-D21",
+    "event_time_utc": "2026-07-29T11:43:19Z",
+    "count_delta": 1,
+    "sequence": 343,
+    "schema_version": 2
+  },
+  {
+    "event_id": "LK-F00345",
+    "store_id": "LK-S23",
+    "device_id": "LK-D22",
+    "event_time_utc": "2026-07-29T11:44:32Z",
+    "count_delta": 1,
+    "sequence": 344,
+    "schema_version": 2
+  },
+  {
+    "event_id": "LK-F00346",
+    "store_id": "LK-S01",
+    "device_id": "LK-D00",
+    "event_time_utc": "2026-07-29T11:45:45Z",
+    "count_delta": 1,
+    "sequence": 345,
+    "schema_version": 2
+  },
+  {
+    "event_id": "LK-F00347",
+    "store_id": "LK-S02",
+    "device_id": "LK-D01",
+    "event_time_utc": "2026-07-29T11:46:58Z",
+    "count_delta": 1,
+    "sequence": 346,
+    "schema_version": 2
+  },
+  {
+    "event_id": "LK-F00348",
+    "store_id": "LK-S03",
+    "device_id": "LK-D02",
+    "event_time_utc": "2026-07-29T11:47:11Z",
+    "count_delta": 1,
+    "sequence": 347,
+    "schema_version": 2
+  },
+  {
+    "event_id": "LK-F00349",
+    "store_id": "LK-S04",
+    "device_id": "LK-D03",
+    "event_time_utc": "2026-07-29T11:48:24Z",
+    "count_delta": 1,
+    "sequence": 348,
+    "schema_version": 2
+  },
+  {
+    "event_id": "LK-F00350",
+    "store_id": "LK-S05",
+    "device_id": "LK-D04",
+    "event_time_utc": "2026-07-29T11:49:37Z",
+    "count_delta": 1,
+    "sequence": 349,
+    "schema_version": 2
+  },
+  {
+    "event_id": "LK-F00351",
+    "store_id": "LK-S06",
+    "device_id": "LK-D05",
+    "event_time_utc": "2026-07-29T12:50:50Z",
+    "count_delta": 1,
+    "sequence": 350,
+    "schema_version": 2
+  },
+  {
+    "event_id": "LK-F00352",
+    "store_id": "LK-S07",
+    "device_id": "LK-D06",
+    "event_time_utc": "2026-07-29T12:51:03Z",
+    "count_delta": -1,
+    "sequence": 351,
+    "schema_version": 2
+  },
+  {
+    "event_id": "LK-F00353",
+    "store_id": "LK-S08",
+    "device_id": "LK-D07",
+    "event_time_utc": "2026-07-29T12:52:16Z",
+    "count_delta": 1,
+    "sequence": 352,
+    "schema_version": 2
+  },
+  {
+    "event_id": "LK-F00354",
+    "store_id": "LK-S09",
+    "device_id": "LK-D08",
+    "event_time_utc": "2026-07-29T12:53:29Z",
+    "count_delta": 1,
+    "sequence": 353,
+    "schema_version": 2
+  },
+  {
+    "event_id": "LK-F00355",
+    "store_id": "LK-S10",
+    "device_id": "LK-D09",
+    "event_time_utc": "2026-07-29T12:54:42Z",
+    "count_delta": 1,
+    "sequence": 354,
+    "schema_version": 2
+  },
+  {
+    "event_id": "LK-F00356",
+    "store_id": "LK-S11",
+    "device_id": "LK-D10",
+    "event_time_utc": "2026-07-29T12:55:55Z",
+    "count_delta": 1,
+    "sequence": 355,
+    "schema_version": 2
+  },
+  {
+    "event_id": "LK-F00357",
+    "store_id": "LK-S12",
+    "device_id": "LK-D11",
+    "event_time_utc": "2026-07-29T12:56:08Z",
+    "count_delta": 1,
+    "sequence": 356,
+    "schema_version": 2
+  },
+  {
+    "event_id": "LK-F00358",
+    "store_id": "LK-S13",
+    "device_id": "LK-D12",
+    "event_time_utc": "2026-07-29T12:57:21Z",
+    "count_delta": 1,
+    "sequence": 357,
+    "schema_version": 2
+  },
+  {
+    "event_id": "LK-F00359",
+    "store_id": "LK-S14",
+    "device_id": "LK-D13",
+    "event_time_utc": "2026-07-29T12:58:34Z",
+    "count_delta": 1,
+    "sequence": 358,
+    "schema_version": 2
+  },
+  {
+    "event_id": "LK-F00360",
+    "store_id": "LK-S15",
+    "device_id": "LK-D14",
+    "event_time_utc": "2026-07-29T12:59:47Z",
+    "count_delta": 1,
+    "sequence": 359,
+    "schema_version": 2
+  },
+  {
+    "event_id": "LK-F00361",
+    "store_id": "LK-S16",
+    "device_id": "LK-D15",
+    "event_time_utc": "2026-07-29T12:00:00Z",
+    "count_delta": -1,
+    "sequence": 360,
+    "schema_version": 2
+  },
+  {
+    "event_id": "LK-F00362",
+    "store_id": "LK-S17",
+    "device_id": "LK-D16",
+    "event_time_utc": "2026-07-29T12:01:13Z",
+    "count_delta": 1,
+    "sequence": 361,
+    "schema_version": 2
+  },
+  {
+    "event_id": "LK-F00363",
+    "store_id": "LK-S18",
+    "device_id": "LK-D17",
+    "event_time_utc": "2026-07-29T12:02:26Z",
+    "count_delta": 1,
+    "sequence": 362,
+    "schema_version": 2
+  },
+  {
+    "event_id": "LK-F00364",
+    "store_id": "LK-S19",
+    "device_id": "LK-D18",
+    "event_time_utc": "2026-07-29T12:03:39Z",
+    "count_delta": 1,
+    "sequence": 363,
+    "schema_version": 2
+  },
+  {
+    "event_id": "LK-F00365",
+    "store_id": "LK-S20",
+    "device_id": "LK-D19",
+    "event_time_utc": "2026-07-29T12:04:52Z",
+    "count_delta": 1,
+    "sequence": 364,
+    "schema_version": 2
+  },
+  {
+    "event_id": "LK-F00366",
+    "store_id": "LK-S21",
+    "device_id": "LK-D20",
+    "event_time_utc": "2026-07-29T12:05:05Z",
+    "count_delta": 1,
+    "sequence": 365,
+    "schema_version": 2
+  },
+  {
+    "event_id": "LK-F00367",
+    "store_id": "LK-S22",
+    "device_id": "LK-D21",
+    "event_time_utc": "2026-07-29T12:06:18Z",
+    "count_delta": 1,
+    "sequence": 366,
+    "schema_version": 2
+  },
+  {
+    "event_id": "LK-F00368",
+    "store_id": "LK-S23",
+    "device_id": "LK-D22",
+    "event_time_utc": "2026-07-29T12:07:31Z",
+    "count_delta": 1,
+    "sequence": 367,
+    "schema_version": 2
+  },
+  {
+    "event_id": "LK-F00369",
+    "store_id": "LK-S01",
+    "device_id": "LK-D00",
+    "event_time_utc": "2026-07-29T12:08:44Z",
+    "count_delta": 1,
+    "sequence": 368,
+    "schema_version": 2
+  },
+  {
+    "event_id": "LK-F00370",
+    "store_id": "LK-S02",
+    "device_id": "LK-D01",
+    "event_time_utc": "2026-07-29T12:09:57Z",
+    "count_delta": -1,
+    "sequence": 369,
+    "schema_version": 2
+  },
+  {
+    "event_id": "LK-F00371",
+    "store_id": "LK-S03",
+    "device_id": "LK-D02",
+    "event_time_utc": "2026-07-29T12:10:10Z",
+    "count_delta": 1,
+    "sequence": 370,
+    "schema_version": 2
+  },
+  {
+    "event_id": "LK-F00372",
+    "store_id": "LK-S04",
+    "device_id": "LK-D03",
+    "event_time_utc": "2026-07-29T12:11:23Z",
+    "count_delta": 1,
+    "sequence": 371,
+    "schema_version": 2
+  },
+  {
+    "event_id": "LK-F00373",
+    "store_id": "LK-S05",
+    "device_id": "LK-D04",
+    "event_time_utc": "2026-07-29T12:12:36Z",
+    "count_delta": 1,
+    "sequence": 372,
+    "schema_version": 2
+  },
+  {
+    "event_id": "LK-F00374",
+    "store_id": "LK-S06",
+    "device_id": "LK-D05",
+    "event_time_utc": "2026-07-29T12:13:49Z",
+    "count_delta": 1,
+    "sequence": 373,
+    "schema_version": 2
+  },
+  {
+    "event_id": "LK-F00375",
+    "store_id": "LK-S07",
+    "device_id": "LK-D06",
+    "event_time_utc": "2026-07-29T12:14:02Z",
+    "count_delta": 1,
+    "sequence": 374,
+    "schema_version": 2
+  },
+  {
+    "event_id": "LK-F00376",
+    "store_id": "LK-S08",
+    "device_id": "LK-D07",
+    "event_time_utc": "2026-07-29T12:15:15Z",
+    "count_delta": 1,
+    "sequence": 375,
+    "schema_version": 2
+  },
+  {
+    "event_id": "LK-F00377",
+    "store_id": "LK-S09",
+    "device_id": "LK-D08",
+    "event_time_utc": "2026-07-29T12:16:28Z",
+    "count_delta": 1,
+    "sequence": 376,
+    "schema_version": 2
+  },
+  {
+    "event_id": "LK-F00378",
+    "store_id": "LK-S10",
+    "device_id": "LK-D09",
+    "event_time_utc": "2026-07-29T12:17:41Z",
+    "count_delta": 1,
+    "sequence": 377,
+    "schema_version": 2
+  },
+  {
+    "event_id": "LK-F00379",
+    "store_id": "LK-S11",
+    "device_id": "LK-D10",
+    "event_time_utc": "2026-07-29T12:18:54Z",
+    "count_delta": -1,
+    "sequence": 378,
+    "schema_version": 2
+  },
+  {
+    "event_id": "LK-F00380",
+    "store_id": "LK-S12",
+    "device_id": "LK-D11",
+    "event_time_utc": "2026-07-29T12:19:07Z",
+    "count_delta": 1,
+    "sequence": 379,
+    "schema_version": 2
+  },
+  {
+    "event_id": "LK-F00381",
+    "store_id": "LK-S13",
+    "device_id": "LK-D12",
+    "event_time_utc": "2026-07-29T12:20:20Z",
+    "count_delta": 1,
+    "sequence": 380,
+    "schema_version": 2
+  },
+  {
+    "event_id": "LK-F00382",
+    "store_id": "LK-S14",
+    "device_id": "LK-D13",
+    "event_time_utc": "2026-07-29T12:21:33Z",
+    "count_delta": 1,
+    "sequence": 381,
+    "schema_version": 2
+  },
+  {
+    "event_id": "LK-F00383",
+    "store_id": "LK-S15",
+    "device_id": "LK-D14",
+    "event_time_utc": "2026-07-29T12:22:46Z",
+    "count_delta": 1,
+    "sequence": 382,
+    "schema_version": 2
+  },
+  {
+    "event_id": "LK-F00384",
+    "store_id": "LK-S16",
+    "device_id": "LK-D15",
+    "event_time_utc": "2026-07-29T12:23:59Z",
+    "count_delta": 1,
+    "sequence": 383,
+    "schema_version": 2
+  },
+  {
+    "event_id": "LK-F00385",
+    "store_id": "LK-S17",
+    "device_id": "LK-D16",
+    "event_time_utc": "2026-07-29T12:24:12Z",
+    "count_delta": 1,
+    "sequence": 384,
+    "schema_version": 2
+  },
+  {
+    "event_id": "LK-F00386",
+    "store_id": "LK-S18",
+    "device_id": "LK-D17",
+    "event_time_utc": "2026-07-29T12:25:25Z",
+    "count_delta": 1,
+    "sequence": 385,
+    "schema_version": 2
+  },
+  {
+    "event_id": "LK-F00387",
+    "store_id": "LK-S19",
+    "device_id": "LK-D18",
+    "event_time_utc": "2026-07-29T12:26:38Z",
+    "count_delta": 1,
+    "sequence": 386,
+    "schema_version": 2
+  },
+  {
+    "event_id": "LK-F00388",
+    "store_id": "LK-S20",
+    "device_id": "LK-D19",
+    "event_time_utc": "2026-07-29T12:27:51Z",
+    "count_delta": -1,
+    "sequence": 387,
+    "schema_version": 2
+  },
+  {
+    "event_id": "LK-F00389",
+    "store_id": "LK-S21",
+    "device_id": "LK-D20",
+    "event_time_utc": "2026-07-29T12:28:04Z",
+    "count_delta": 1,
+    "sequence": 388,
+    "schema_version": 2
+  },
+  {
+    "event_id": "LK-F00390",
+    "store_id": "LK-S22",
+    "device_id": "LK-D21",
+    "event_time_utc": "2026-07-29T12:29:17Z",
+    "count_delta": 1,
+    "sequence": 389,
+    "schema_version": 2
+  },
+  {
+    "event_id": "LK-F00391",
+    "store_id": "LK-S23",
+    "device_id": "LK-D22",
+    "event_time_utc": "2026-07-29T12:30:30Z",
+    "count_delta": 1,
+    "sequence": 390,
+    "schema_version": 2
+  },
+  {
+    "event_id": "LK-F00392",
+    "store_id": "LK-S01",
+    "device_id": "LK-D00",
+    "event_time_utc": "2026-07-29T12:31:43Z",
+    "count_delta": 1,
+    "sequence": 391,
+    "schema_version": 2
+  },
+  {
+    "event_id": "LK-F00393",
+    "store_id": "LK-S02",
+    "device_id": "LK-D01",
+    "event_time_utc": "2026-07-29T12:32:56Z",
+    "count_delta": 1,
+    "sequence": 392,
+    "schema_version": 2
+  },
+  {
+    "event_id": "LK-F00394",
+    "store_id": "LK-S03",
+    "device_id": "LK-D02",
+    "event_time_utc": "2026-07-29T12:33:09Z",
+    "count_delta": 1,
+    "sequence": 393,
+    "schema_version": 2
+  },
+  {
+    "event_id": "LK-F00395",
+    "store_id": "LK-S04",
+    "device_id": "LK-D03",
+    "event_time_utc": "2026-07-29T12:34:22Z",
+    "count_delta": 1,
+    "sequence": 394,
+    "schema_version": 2
+  },
+  {
+    "event_id": "LK-F00396",
+    "store_id": "LK-S05",
+    "device_id": "LK-D04",
+    "event_time_utc": "2026-07-29T12:35:35Z",
+    "count_delta": 1,
+    "sequence": 395,
+    "schema_version": 2
+  },
+  {
+    "event_id": "LK-F00397",
+    "store_id": "LK-S06",
+    "device_id": "LK-D05",
+    "event_time_utc": "2026-07-29T12:36:48Z",
+    "count_delta": -1,
+    "sequence": 396,
+    "schema_version": 2
+  },
+  {
+    "event_id": "LK-F00398",
+    "store_id": "LK-S07",
+    "device_id": "LK-D06",
+    "event_time_utc": "2026-07-29T12:37:01Z",
+    "count_delta": 1,
+    "sequence": 397,
+    "schema_version": 2
+  },
+  {
+    "event_id": "LK-F00399",
+    "store_id": "LK-S08",
+    "device_id": "LK-D07",
+    "event_time_utc": "2026-07-29T12:38:14Z",
+    "count_delta": 1,
+    "sequence": 398,
+    "schema_version": 2
+  },
+  {
+    "event_id": "LK-F00400",
+    "store_id": "LK-S09",
+    "device_id": "LK-D08",
+    "event_time_utc": "2026-07-29T12:39:27Z",
+    "count_delta": 1,
+    "sequence": 399,
+    "schema_version": 2
+  },
+  {
+    "event_id": "LK-F00401",
+    "store_id": "LK-S10",
+    "device_id": "LK-D09",
+    "event_time_utc": "2026-07-29T12:40:40Z",
+    "count_delta": 1,
+    "sequence": 400,
+    "schema_version": 2
+  },
+  {
+    "event_id": "LK-F00402",
+    "store_id": "LK-S11",
+    "device_id": "LK-D10",
+    "event_time_utc": "2026-07-29T12:41:53Z",
+    "count_delta": 1,
+    "sequence": 401,
+    "schema_version": 2
+  },
+  {
+    "event_id": "LK-F00403",
+    "store_id": "LK-S12",
+    "device_id": "LK-D11",
+    "event_time_utc": "2026-07-29T12:42:06Z",
+    "count_delta": 1,
+    "sequence": 402,
+    "schema_version": 2
+  },
+  {
+    "event_id": "LK-F00404",
+    "store_id": "LK-S13",
+    "device_id": "LK-D12",
+    "event_time_utc": "2026-07-29T12:43:19Z",
+    "count_delta": 1,
+    "sequence": 403,
+    "schema_version": 2
+  },
+  {
+    "event_id": "LK-F00405",
+    "store_id": "LK-S14",
+    "device_id": "LK-D13",
+    "event_time_utc": "2026-07-29T12:44:32Z",
+    "count_delta": 1,
+    "sequence": 404,
+    "schema_version": 2
+  },
+  {
+    "event_id": "LK-F00406",
+    "store_id": "LK-S15",
+    "device_id": "LK-D14",
+    "event_time_utc": "2026-07-29T12:45:45Z",
+    "count_delta": -1,
+    "sequence": 405,
+    "schema_version": 2
+  },
+  {
+    "event_id": "LK-F00407",
+    "store_id": "LK-S16",
+    "device_id": "LK-D15",
+    "event_time_utc": "2026-07-29T12:46:58Z",
+    "count_delta": 1,
+    "sequence": 406,
+    "schema_version": 2
+  },
+  {
+    "event_id": "LK-F00408",
+    "store_id": "LK-S17",
+    "device_id": "LK-D16",
+    "event_time_utc": "2026-07-29T12:47:11Z",
+    "count_delta": 1,
+    "sequence": 407,
+    "schema_version": 2
+  },
+  {
+    "event_id": "LK-F00409",
+    "store_id": "LK-S18",
+    "device_id": "LK-D17",
+    "event_time_utc": "2026-07-29T12:48:24Z",
+    "count_delta": 1,
+    "sequence": 408,
+    "schema_version": 2
+  },
+  {
+    "event_id": "LK-F00410",
+    "store_id": "LK-S19",
+    "device_id": "LK-D18",
+    "event_time_utc": "2026-07-29T12:49:37Z",
+    "count_delta": 1,
+    "sequence": 409,
+    "schema_version": 2
+  },
+  {
+    "event_id": "LK-F00411",
+    "store_id": "LK-S20",
+    "device_id": "LK-D19",
+    "event_time_utc": "2026-07-29T12:50:50Z",
+    "count_delta": 1,
+    "sequence": 410,
+    "schema_version": 2
+  },
+  {
+    "event_id": "LK-F00412",
+    "store_id": "LK-S21",
+    "device_id": "LK-D20",
+    "event_time_utc": "2026-07-29T12:51:03Z",
+    "count_delta": 1,
+    "sequence": 411,
+    "schema_version": 2
+  },
+  {
+    "event_id": "LK-F00413",
+    "store_id": "LK-S22",
+    "device_id": "LK-D21",
+    "event_time_utc": "2026-07-29T12:52:16Z",
+    "count_delta": 1,
+    "sequence": 412,
+    "schema_version": 2
+  },
+  {
+    "event_id": "LK-F00414",
+    "store_id": "LK-S23",
+    "device_id": "LK-D22",
+    "event_time_utc": "2026-07-29T12:53:29Z",
+    "count_delta": 1,
+    "sequence": 413,
+    "schema_version": 2
+  },
+  {
+    "event_id": "LK-F00415",
+    "store_id": "LK-S01",
+    "device_id": "LK-D00",
+    "event_time_utc": "2026-07-29T12:54:42Z",
+    "count_delta": -1,
+    "sequence": 414,
+    "schema_version": 2
+  },
+  {
+    "event_id": "LK-F00416",
+    "store_id": "LK-S02",
+    "device_id": "LK-D01",
+    "event_time_utc": "2026-07-29T12:55:55Z",
+    "count_delta": 1,
+    "sequence": 415,
+    "schema_version": 2
+  },
+  {
+    "event_id": "LK-F00417",
+    "store_id": "LK-S03",
+    "device_id": "LK-D02",
+    "event_time_utc": "2026-07-29T12:56:08Z",
+    "count_delta": 1,
+    "sequence": 416,
+    "schema_version": 2
+  },
+  {
+    "event_id": "LK-F00418",
+    "store_id": "LK-S04",
+    "device_id": "LK-D03",
+    "event_time_utc": "2026-07-29T12:57:21Z",
+    "count_delta": 1,
+    "sequence": 417,
+    "schema_version": 2
+  },
+  {
+    "event_id": "LK-F00419",
+    "store_id": "LK-S05",
+    "device_id": "LK-D04",
+    "event_time_utc": "2026-07-29T12:58:34Z",
+    "count_delta": 1,
+    "sequence": 418,
+    "schema_version": 2
+  },
+  {
+    "event_id": "LK-F00420",
+    "store_id": "LK-S06",
+    "device_id": "LK-D05",
+    "event_time_utc": "2026-07-29T12:59:47Z",
+    "count_delta": 1,
+    "sequence": 419,
+    "schema_version": 2
+  },
+  {
+    "event_id": "LK-F00421",
+    "store_id": "LK-S07",
+    "device_id": "LK-D06",
+    "event_time_utc": "2026-07-29T13:00:00Z",
+    "count_delta": 1,
+    "sequence": 420,
+    "schema_version": 2
+  },
+  {
+    "event_id": "LK-F00422",
+    "store_id": "LK-S08",
+    "device_id": "LK-D07",
+    "event_time_utc": "2026-07-29T13:01:13Z",
+    "count_delta": 1,
+    "sequence": 421,
+    "schema_version": 2
+  },
+  {
+    "event_id": "LK-F00423",
+    "store_id": "LK-S09",
+    "device_id": "LK-D08",
+    "event_time_utc": "2026-07-29T13:02:26Z",
+    "count_delta": 1,
+    "sequence": 422,
+    "schema_version": 2
+  },
+  {
+    "event_id": "LK-F00424",
+    "store_id": "LK-S10",
+    "device_id": "LK-D09",
+    "event_time_utc": "2026-07-29T13:03:39Z",
+    "count_delta": -1,
+    "sequence": 423,
+    "schema_version": 2
+  },
+  {
+    "event_id": "LK-F00425",
+    "store_id": "LK-S11",
+    "device_id": "LK-D10",
+    "event_time_utc": "2026-07-29T13:04:52Z",
+    "count_delta": 1,
+    "sequence": 424,
+    "schema_version": 2
+  },
+  {
+    "event_id": "LK-F00426",
+    "store_id": "LK-S12",
+    "device_id": "LK-D11",
+    "event_time_utc": "2026-07-29T13:05:05Z",
+    "count_delta": 1,
+    "sequence": 425,
+    "schema_version": 2
+  },
+  {
+    "event_id": "LK-F00427",
+    "store_id": "LK-S13",
+    "device_id": "LK-D12",
+    "event_time_utc": "2026-07-29T13:06:18Z",
+    "count_delta": 1,
+    "sequence": 426,
+    "schema_version": 2
+  },
+  {
+    "event_id": "LK-F00428",
+    "store_id": "LK-S14",
+    "device_id": "LK-D13",
+    "event_time_utc": "2026-07-29T13:07:31Z",
+    "count_delta": 1,
+    "sequence": 427,
+    "schema_version": 2
+  },
+  {
+    "event_id": "LK-F00429",
+    "store_id": "LK-S15",
+    "device_id": "LK-D14",
+    "event_time_utc": "2026-07-29T13:08:44Z",
+    "count_delta": 1,
+    "sequence": 428,
+    "schema_version": 2
+  },
+  {
+    "event_id": "LK-F00430",
+    "store_id": "LK-S16",
+    "device_id": "LK-D15",
+    "event_time_utc": "2026-07-29T13:09:57Z",
+    "count_delta": 1,
+    "sequence": 429,
+    "schema_version": 2
+  },
+  {
+    "event_id": "LK-F00431",
+    "store_id": "LK-S17",
+    "device_id": "LK-D16",
+    "event_time_utc": "2026-07-29T13:10:10Z",
+    "count_delta": 1,
+    "sequence": 430,
+    "schema_version": 2
+  },
+  {
+    "event_id": "LK-F00432",
+    "store_id": "LK-S18",
+    "device_id": "LK-D17",
+    "event_time_utc": "2026-07-29T13:11:23Z",
+    "count_delta": 1,
+    "sequence": 431,
+    "schema_version": 2
+  },
+  {
+    "event_id": "LK-F00433",
+    "store_id": "LK-S19",
+    "device_id": "LK-D18",
+    "event_time_utc": "2026-07-29T13:12:36Z",
+    "count_delta": -1,
+    "sequence": 432,
+    "schema_version": 2
+  },
+  {
+    "event_id": "LK-F00434",
+    "store_id": "LK-S20",
+    "device_id": "LK-D19",
+    "event_time_utc": "2026-07-29T13:13:49Z",
+    "count_delta": 1,
+    "sequence": 433,
+    "schema_version": 2
+  },
+  {
+    "event_id": "LK-F00435",
+    "store_id": "LK-S21",
+    "device_id": "LK-D20",
+    "event_time_utc": "2026-07-29T13:14:02Z",
+    "count_delta": 1,
+    "sequence": 434,
+    "schema_version": 2
+  },
+  {
+    "event_id": "LK-F00436",
+    "store_id": "LK-S22",
+    "device_id": "LK-D21",
+    "event_time_utc": "2026-07-29T13:15:15Z",
+    "count_delta": 1,
+    "sequence": 435,
+    "schema_version": 2
+  },
+  {
+    "event_id": "LK-F00437",
+    "store_id": "LK-S23",
+    "device_id": "LK-D22",
+    "event_time_utc": "2026-07-29T13:16:28Z",
+    "count_delta": 1,
+    "sequence": 436,
+    "schema_version": 2
+  },
+  {
+    "event_id": "LK-F00438",
+    "store_id": "LK-S01",
+    "device_id": "LK-D00",
+    "event_time_utc": "2026-07-29T13:17:41Z",
+    "count_delta": 1,
+    "sequence": 437,
+    "schema_version": 2
+  },
+  {
+    "event_id": "LK-F00439",
+    "store_id": "LK-S02",
+    "device_id": "LK-D01",
+    "event_time_utc": "2026-07-29T13:18:54Z",
+    "count_delta": 1,
+    "sequence": 438,
+    "schema_version": 2
+  },
+  {
+    "event_id": "LK-F00440",
+    "store_id": "LK-S03",
+    "device_id": "LK-D02",
+    "event_time_utc": "2026-07-29T13:19:07Z",
+    "count_delta": 1,
+    "sequence": 439,
+    "schema_version": 2
+  },
+  {
+    "event_id": "LK-F00441",
+    "store_id": "LK-S04",
+    "device_id": "LK-D03",
+    "event_time_utc": "2026-07-29T13:20:20Z",
+    "count_delta": 1,
+    "sequence": 440,
+    "schema_version": 2
+  },
+  {
+    "event_id": "LK-F00442",
+    "store_id": "LK-S05",
+    "device_id": "LK-D04",
+    "event_time_utc": "2026-07-29T13:21:33Z",
+    "count_delta": -1,
+    "sequence": 441,
+    "schema_version": 2
+  },
+  {
+    "event_id": "LK-F00443",
+    "store_id": "LK-S06",
+    "device_id": "LK-D05",
+    "event_time_utc": "2026-07-29T13:22:46Z",
+    "count_delta": 1,
+    "sequence": 442,
+    "schema_version": 2
+  },
+  {
+    "event_id": "LK-F00444",
+    "store_id": "LK-S07",
+    "device_id": "LK-D06",
+    "event_time_utc": "2026-07-29T13:23:59Z",
+    "count_delta": 1,
+    "sequence": 443,
+    "schema_version": 2
+  },
+  {
+    "event_id": "LK-F00445",
+    "store_id": "LK-S08",
+    "device_id": "LK-D07",
+    "event_time_utc": "2026-07-29T13:24:12Z",
+    "count_delta": 1,
+    "sequence": 444,
+    "schema_version": 2
+  },
+  {
+    "event_id": "LK-F00446",
+    "store_id": "LK-S09",
+    "device_id": "LK-D08",
+    "event_time_utc": "2026-07-29T13:25:25Z",
+    "count_delta": 1,
+    "sequence": 445,
+    "schema_version": 2
+  },
+  {
+    "event_id": "LK-F00447",
+    "store_id": "LK-S10",
+    "device_id": "LK-D09",
+    "event_time_utc": "2026-07-29T13:26:38Z",
+    "count_delta": 1,
+    "sequence": 446,
+    "schema_version": 2
+  },
+  {
+    "event_id": "LK-F00448",
+    "store_id": "LK-S11",
+    "device_id": "LK-D10",
+    "event_time_utc": "2026-07-29T13:27:51Z",
+    "count_delta": 1,
+    "sequence": 447,
+    "schema_version": 2
+  },
+  {
+    "event_id": "LK-F00449",
+    "store_id": "LK-S12",
+    "device_id": "LK-D11",
+    "event_time_utc": "2026-07-29T13:28:04Z",
+    "count_delta": 1,
+    "sequence": 448,
+    "schema_version": 2
+  },
+  {
+    "event_id": "LK-F00450",
+    "store_id": "LK-S13",
+    "device_id": "LK-D12",
+    "event_time_utc": "2026-07-29T13:29:17Z",
+    "count_delta": 1,
+    "sequence": 449,
+    "schema_version": 2
+  },
+  {
+    "event_id": "LK-F00451",
+    "store_id": "LK-S14",
+    "device_id": "LK-D13",
+    "event_time_utc": "2026-07-29T13:30:30Z",
+    "count_delta": -1,
+    "sequence": 450,
+    "schema_version": 2
+  },
+  {
+    "event_id": "LK-F00452",
+    "store_id": "LK-S15",
+    "device_id": "LK-D14",
+    "event_time_utc": "2026-07-29T13:31:43Z",
+    "count_delta": 1,
+    "sequence": 451,
+    "schema_version": 2
+  },
+  {
+    "event_id": "LK-F00453",
+    "store_id": "LK-S16",
+    "device_id": "LK-D15",
+    "event_time_utc": "2026-07-29T13:32:56Z",
+    "count_delta": 1,
+    "sequence": 452,
+    "schema_version": 2
+  },
+  {
+    "event_id": "LK-F00454",
+    "store_id": "LK-S17",
+    "device_id": "LK-D16",
+    "event_time_utc": "2026-07-29T13:33:09Z",
+    "count_delta": 1,
+    "sequence": 453,
+    "schema_version": 2
+  },
+  {
+    "event_id": "LK-F00455",
+    "store_id": "LK-S18",
+    "device_id": "LK-D17",
+    "event_time_utc": "2026-07-29T13:34:22Z",
+    "count_delta": 1,
+    "sequence": 454,
+    "schema_version": 2
+  },
+  {
+    "event_id": "LK-F00456",
+    "store_id": "LK-S19",
+    "device_id": "LK-D18",
+    "event_time_utc": "2026-07-29T13:35:35Z",
+    "count_delta": 1,
+    "sequence": 455,
+    "schema_version": 2
+  },
+  {
+    "event_id": "LK-F00457",
+    "store_id": "LK-S20",
+    "device_id": "LK-D19",
+    "event_time_utc": "2026-07-29T13:36:48Z",
+    "count_delta": 1,
+    "sequence": 456,
+    "schema_version": 2
+  },
+  {
+    "event_id": "LK-F00458",
+    "store_id": "LK-S21",
+    "device_id": "LK-D20",
+    "event_time_utc": "2026-07-29T13:37:01Z",
+    "count_delta": 1,
+    "sequence": 457,
+    "schema_version": 2
+  },
+  {
+    "event_id": "LK-F00459",
+    "store_id": "LK-S22",
+    "device_id": "LK-D21",
+    "event_time_utc": "2026-07-29T13:38:14Z",
+    "count_delta": 1,
+    "sequence": 458,
+    "schema_version": 2
+  },
+  {
+    "event_id": "LK-F00460",
+    "store_id": "LK-S23",
+    "device_id": "LK-D22",
+    "event_time_utc": "2026-07-29T13:39:27Z",
+    "count_delta": -1,
+    "sequence": 459,
+    "schema_version": 2
+  },
+  {
+    "event_id": "LK-F00461",
+    "store_id": "LK-S01",
+    "device_id": "LK-D00",
+    "event_time_utc": "2026-07-29T13:40:40Z",
+    "count_delta": 1,
+    "sequence": 460,
+    "schema_version": 2
+  },
+  {
+    "event_id": "LK-F00462",
+    "store_id": "LK-S02",
+    "device_id": "LK-D01",
+    "event_time_utc": "2026-07-29T13:41:53Z",
+    "count_delta": 1,
+    "sequence": 461,
+    "schema_version": 2
+  },
+  {
+    "event_id": "LK-F00463",
+    "store_id": "LK-S03",
+    "device_id": "LK-D02",
+    "event_time_utc": "2026-07-29T13:42:06Z",
+    "count_delta": 1,
+    "sequence": 462,
+    "schema_version": 2
+  },
+  {
+    "event_id": "LK-F00464",
+    "store_id": "LK-S04",
+    "device_id": "LK-D03",
+    "event_time_utc": "2026-07-29T13:43:19Z",
+    "count_delta": 1,
+    "sequence": 463,
+    "schema_version": 2
+  },
+  {
+    "event_id": "LK-F00465",
+    "store_id": "LK-S05",
+    "device_id": "LK-D04",
+    "event_time_utc": "2026-07-29T13:44:32Z",
+    "count_delta": 1,
+    "sequence": 464,
+    "schema_version": 2
+  },
+  {
+    "event_id": "LK-F00466",
+    "store_id": "LK-S06",
+    "device_id": "LK-D05",
+    "event_time_utc": "2026-07-29T13:45:45Z",
+    "count_delta": 1,
+    "sequence": 465,
+    "schema_version": 2
+  },
+  {
+    "event_id": "LK-F00467",
+    "store_id": "LK-S07",
+    "device_id": "LK-D06",
+    "event_time_utc": "2026-07-29T13:46:58Z",
+    "count_delta": 1,
+    "sequence": 466,
+    "schema_version": 2
+  },
+  {
+    "event_id": "LK-F00468",
+    "store_id": "LK-S08",
+    "device_id": "LK-D07",
+    "event_time_utc": "2026-07-29T13:47:11Z",
+    "count_delta": 1,
+    "sequence": 467,
+    "schema_version": 2
+  },
+  {
+    "event_id": "LK-F00469",
+    "store_id": "LK-S09",
+    "device_id": "LK-D08",
+    "event_time_utc": "2026-07-29T13:48:24Z",
+    "count_delta": -1,
+    "sequence": 468,
+    "schema_version": 2
+  },
+  {
+    "event_id": "LK-F00470",
+    "store_id": "LK-S10",
+    "device_id": "LK-D09",
+    "event_time_utc": "2026-07-29T13:49:37Z",
+    "count_delta": 1,
+    "sequence": 469,
+    "schema_version": 2
+  },
+  {
+    "event_id": "LK-F00471",
+    "store_id": "LK-S11",
+    "device_id": "LK-D10",
+    "event_time_utc": "2026-07-29T13:50:50Z",
+    "count_delta": 1,
+    "sequence": 470,
+    "schema_version": 2
+  },
+  {
+    "event_id": "LK-F00472",
+    "store_id": "LK-S12",
+    "device_id": "LK-D11",
+    "event_time_utc": "2026-07-29T13:51:03Z",
+    "count_delta": 1,
+    "sequence": 471,
+    "schema_version": 2
+  },
+  {
+    "event_id": "LK-F00473",
+    "store_id": "LK-S13",
+    "device_id": "LK-D12",
+    "event_time_utc": "2026-07-29T13:52:16Z",
+    "count_delta": 1,
+    "sequence": 472,
+    "schema_version": 2
+  },
+  {
+    "event_id": "LK-F00474",
+    "store_id": "LK-S14",
+    "device_id": "LK-D13",
+    "event_time_utc": "2026-07-29T13:53:29Z",
+    "count_delta": 1,
+    "sequence": 473,
+    "schema_version": 2
+  },
+  {
+    "event_id": "LK-F00475",
+    "store_id": "LK-S15",
+    "device_id": "LK-D14",
+    "event_time_utc": "2026-07-29T13:54:42Z",
+    "count_delta": 1,
+    "sequence": 474,
+    "schema_version": 2
+  },
+  {
+    "event_id": "LK-F00476",
+    "store_id": "LK-S16",
+    "device_id": "LK-D15",
+    "event_time_utc": "2026-07-29T13:55:55Z",
+    "count_delta": 1,
+    "sequence": 475,
+    "schema_version": 2
+  },
+  {
+    "event_id": "LK-F00477",
+    "store_id": "LK-S17",
+    "device_id": "LK-D16",
+    "event_time_utc": "2026-07-29T13:56:08Z",
+    "count_delta": 1,
+    "sequence": 476,
+    "schema_version": 2
+  },
+  {
+    "event_id": "LK-F00478",
+    "store_id": "LK-S18",
+    "device_id": "LK-D17",
+    "event_time_utc": "2026-07-29T13:57:21Z",
+    "count_delta": -1,
+    "sequence": 477,
+    "schema_version": 2
+  },
+  {
+    "event_id": "LK-F00479",
+    "store_id": "LK-S19",
+    "device_id": "LK-D18",
+    "event_time_utc": "2026-07-29T13:58:34Z",
+    "count_delta": 1,
+    "sequence": 478,
+    "schema_version": 2
+  },
+  {
+    "event_id": "LK-F00480",
+    "store_id": "LK-S20",
+    "device_id": "LK-D19",
+    "event_time_utc": "2026-07-29T13:59:47Z",
+    "count_delta": 1,
+    "sequence": 479,
+    "schema_version": 2
+  },
+  {
+    "event_id": "LK-F00481",
+    "store_id": "LK-S21",
+    "device_id": "LK-D20",
+    "event_time_utc": "2026-07-29T13:00:00Z",
+    "count_delta": 1,
+    "sequence": 480,
+    "schema_version": 2
+  },
+  {
+    "event_id": "LK-F00482",
+    "store_id": "LK-S22",
+    "device_id": "LK-D21",
+    "event_time_utc": "2026-07-29T13:01:13Z",
+    "count_delta": 1,
+    "sequence": 481,
+    "schema_version": 2
+  },
+  {
+    "event_id": "LK-F00483",
+    "store_id": "LK-S23",
+    "device_id": "LK-D22",
+    "event_time_utc": "2026-07-29T13:02:26Z",
+    "count_delta": 1,
+    "sequence": 482,
+    "schema_version": 2
+  },
+  {
+    "event_id": "LK-F00484",
+    "store_id": "LK-S01",
+    "device_id": "LK-D00",
+    "event_time_utc": "2026-07-29T13:03:39Z",
+    "count_delta": 1,
+    "sequence": 483,
+    "schema_version": 2
+  },
+  {
+    "event_id": "LK-F00485",
+    "store_id": "LK-S02",
+    "device_id": "LK-D01",
+    "event_time_utc": "2026-07-29T13:04:52Z",
+    "count_delta": 1,
+    "sequence": 484,
+    "schema_version": 2
+  },
+  {
+    "event_id": "LK-F00486",
+    "store_id": "LK-S03",
+    "device_id": "LK-D02",
+    "event_time_utc": "2026-07-29T13:05:05Z",
+    "count_delta": 1,
+    "sequence": 485,
+    "schema_version": 2
+  },
+  {
+    "event_id": "LK-F00487",
+    "store_id": "LK-S04",
+    "device_id": "LK-D03",
+    "event_time_utc": "2026-07-29T13:06:18Z",
+    "count_delta": -1,
+    "sequence": 486,
+    "schema_version": 2
+  },
+  {
+    "event_id": "LK-F00488",
+    "store_id": "LK-S05",
+    "device_id": "LK-D04",
+    "event_time_utc": "2026-07-29T13:07:31Z",
+    "count_delta": 1,
+    "sequence": 487,
+    "schema_version": 2
+  },
+  {
+    "event_id": "LK-F00489",
+    "store_id": "LK-S06",
+    "device_id": "LK-D05",
+    "event_time_utc": "2026-07-29T13:08:44Z",
+    "count_delta": 1,
+    "sequence": 488,
+    "schema_version": 2
+  },
+  {
+    "event_id": "LK-F00490",
+    "store_id": "LK-S07",
+    "device_id": "LK-D06",
+    "event_time_utc": "2026-07-29T13:09:57Z",
+    "count_delta": 1,
+    "sequence": 489,
+    "schema_version": 2
+  },
+  {
+    "event_id": "LK-F00491",
+    "store_id": "LK-S08",
+    "device_id": "LK-D07",
+    "event_time_utc": "2026-07-29T14:10:10Z",
+    "count_delta": 1,
+    "sequence": 490,
+    "schema_version": 2
+  },
+  {
+    "event_id": "LK-F00492",
+    "store_id": "LK-S09",
+    "device_id": "LK-D08",
+    "event_time_utc": "2026-07-29T14:11:23Z",
+    "count_delta": 1,
+    "sequence": 491,
+    "schema_version": 2
+  },
+  {
+    "event_id": "LK-F00493",
+    "store_id": "LK-S10",
+    "device_id": "LK-D09",
+    "event_time_utc": "2026-07-29T14:12:36Z",
+    "count_delta": 1,
+    "sequence": 492,
+    "schema_version": 2
+  },
+  {
+    "event_id": "LK-F00494",
+    "store_id": "LK-S11",
+    "device_id": "LK-D10",
+    "event_time_utc": "2026-07-29T14:13:49Z",
+    "count_delta": 1,
+    "sequence": 493,
+    "schema_version": 2
+  },
+  {
+    "event_id": "LK-F00495",
+    "store_id": "LK-S12",
+    "device_id": "LK-D11",
+    "event_time_utc": "2026-07-29T14:14:02Z",
+    "count_delta": 1,
+    "sequence": 494,
+    "schema_version": 2
+  },
+  {
+    "event_id": "LK-F00496",
+    "store_id": "LK-S13",
+    "device_id": "LK-D12",
+    "event_time_utc": "2026-07-29T14:15:15Z",
+    "count_delta": -1,
+    "sequence": 495,
+    "schema_version": 2
+  },
+  {
+    "event_id": "LK-F00497",
+    "store_id": "LK-S14",
+    "device_id": "LK-D13",
+    "event_time_utc": "2026-07-29T14:16:28Z",
+    "count_delta": 1,
+    "sequence": 496,
+    "schema_version": 2
+  },
+  {
+    "event_id": "LK-F00498",
+    "store_id": "LK-S15",
+    "device_id": "LK-D14",
+    "event_time_utc": "2026-07-29T14:17:41Z",
+    "count_delta": 1,
+    "sequence": 497,
+    "schema_version": 2
+  },
+  {
+    "event_id": "LK-F00499",
+    "store_id": "LK-S16",
+    "device_id": "LK-D15",
+    "event_time_utc": "2026-07-29T14:18:54Z",
+    "count_delta": 1,
+    "sequence": 498,
+    "schema_version": 2
+  },
+  {
+    "event_id": "LK-F00500",
+    "store_id": "LK-S17",
+    "device_id": "LK-D16",
+    "event_time_utc": "2026-07-29T14:19:07Z",
+    "count_delta": 1,
+    "sequence": 499,
+    "schema_version": 2
+  },
+  {
+    "event_id": "LK-F00501",
+    "store_id": "LK-S18",
+    "device_id": "LK-D17",
+    "event_time_utc": "2026-07-29T14:20:20Z",
+    "count_delta": 1,
+    "sequence": 500,
+    "schema_version": 2
+  },
+  {
+    "event_id": "LK-F00502",
+    "store_id": "LK-S19",
+    "device_id": "LK-D18",
+    "event_time_utc": "2026-07-29T14:21:33Z",
+    "count_delta": 1,
+    "sequence": 501,
+    "schema_version": 2
+  },
+  {
+    "event_id": "LK-F00503",
+    "store_id": "LK-S20",
+    "device_id": "LK-D19",
+    "event_time_utc": "2026-07-29T14:22:46Z",
+    "count_delta": 1,
+    "sequence": 502,
+    "schema_version": 2
+  },
+  {
+    "event_id": "LK-F00504",
+    "store_id": "LK-S21",
+    "device_id": "LK-D20",
+    "event_time_utc": "2026-07-29T14:23:59Z",
+    "count_delta": 1,
+    "sequence": 503,
+    "schema_version": 2
+  },
+  {
+    "event_id": "LK-F00505",
+    "store_id": "LK-S22",
+    "device_id": "LK-D21",
+    "event_time_utc": "2026-07-29T14:24:12Z",
+    "count_delta": -1,
+    "sequence": 504,
+    "schema_version": 2
+  },
+  {
+    "event_id": "LK-F00506",
+    "store_id": "LK-S23",
+    "device_id": "LK-D22",
+    "event_time_utc": "2026-07-29T14:25:25Z",
+    "count_delta": 1,
+    "sequence": 505,
+    "schema_version": 2
+  },
+  {
+    "event_id": "LK-F00507",
+    "store_id": "LK-S01",
+    "device_id": "LK-D00",
+    "event_time_utc": "2026-07-29T14:26:38Z",
+    "count_delta": 1,
+    "sequence": 506,
+    "schema_version": 2
+  },
+  {
+    "event_id": "LK-F00508",
+    "store_id": "LK-S02",
+    "device_id": "LK-D01",
+    "event_time_utc": "2026-07-29T14:27:51Z",
+    "count_delta": 1,
+    "sequence": 507,
+    "schema_version": 2
+  },
+  {
+    "event_id": "LK-F00509",
+    "store_id": "LK-S03",
+    "device_id": "LK-D02",
+    "event_time_utc": "2026-07-29T14:28:04Z",
+    "count_delta": 1,
+    "sequence": 508,
+    "schema_version": 2
+  },
+  {
+    "event_id": "LK-F00510",
+    "store_id": "LK-S04",
+    "device_id": "LK-D03",
+    "event_time_utc": "2026-07-29T14:29:17Z",
+    "count_delta": 1,
+    "sequence": 509,
+    "schema_version": 2
+  },
+  {
+    "event_id": "LK-F00511",
+    "store_id": "LK-S05",
+    "device_id": "LK-D04",
+    "event_time_utc": "2026-07-29T14:30:30Z",
+    "count_delta": 1,
+    "sequence": 510,
+    "schema_version": 2
+  },
+  {
+    "event_id": "LK-F00512",
+    "store_id": "LK-S06",
+    "device_id": "LK-D05",
+    "event_time_utc": "2026-07-29T14:31:43Z",
+    "count_delta": 1,
+    "sequence": 511,
+    "schema_version": 2
+  },
+  {
+    "event_id": "LK-F00513",
+    "store_id": "LK-S07",
+    "device_id": "LK-D06",
+    "event_time_utc": "2026-07-29T14:32:56Z",
+    "count_delta": 1,
+    "sequence": 512,
+    "schema_version": 2
+  },
+  {
+    "event_id": "LK-F00514",
+    "store_id": "LK-S08",
+    "device_id": "LK-D07",
+    "event_time_utc": "2026-07-29T14:33:09Z",
+    "count_delta": -1,
+    "sequence": 513,
+    "schema_version": 2
+  },
+  {
+    "event_id": "LK-F00515",
+    "store_id": "LK-S09",
+    "device_id": "LK-D08",
+    "event_time_utc": "2026-07-29T14:34:22Z",
+    "count_delta": 1,
+    "sequence": 514,
+    "schema_version": 2
+  },
+  {
+    "event_id": "LK-F00516",
+    "store_id": "LK-S10",
+    "device_id": "LK-D09",
+    "event_time_utc": "2026-07-29T14:35:35Z",
+    "count_delta": 1,
+    "sequence": 515,
+    "schema_version": 2
+  },
+  {
+    "event_id": "LK-F00517",
+    "store_id": "LK-S11",
+    "device_id": "LK-D10",
+    "event_time_utc": "2026-07-29T14:36:48Z",
+    "count_delta": 1,
+    "sequence": 516,
+    "schema_version": 2
+  },
+  {
+    "event_id": "LK-F00518",
+    "store_id": "LK-S12",
+    "device_id": "LK-D11",
+    "event_time_utc": "2026-07-29T14:37:01Z",
+    "count_delta": 1,
+    "sequence": 517,
+    "schema_version": 2
+  },
+  {
+    "event_id": "LK-F00519",
+    "store_id": "LK-S13",
+    "device_id": "LK-D12",
+    "event_time_utc": "2026-07-29T14:38:14Z",
+    "count_delta": 1,
+    "sequence": 518,
+    "schema_version": 2
+  },
+  {
+    "event_id": "LK-F00520",
+    "store_id": "LK-S14",
+    "device_id": "LK-D13",
+    "event_time_utc": "2026-07-29T14:39:27Z",
+    "count_delta": 1,
+    "sequence": 519,
+    "schema_version": 2
+  },
+  {
+    "event_id": "LK-F00521",
+    "store_id": "LK-S15",
+    "device_id": "LK-D14",
+    "event_time_utc": "2026-07-29T14:40:40Z",
+    "count_delta": 1,
+    "sequence": 520,
+    "schema_version": 2
+  },
+  {
+    "event_id": "LK-F00522",
+    "store_id": "LK-S16",
+    "device_id": "LK-D15",
+    "event_time_utc": "2026-07-29T14:41:53Z",
+    "count_delta": 1,
+    "sequence": 521,
+    "schema_version": 2
+  },
+  {
+    "event_id": "LK-F00523",
+    "store_id": "LK-S17",
+    "device_id": "LK-D16",
+    "event_time_utc": "2026-07-29T14:42:06Z",
+    "count_delta": -1,
+    "sequence": 522,
+    "schema_version": 2
+  },
+  {
+    "event_id": "LK-F00524",
+    "store_id": "LK-S18",
+    "device_id": "LK-D17",
+    "event_time_utc": "2026-07-29T14:43:19Z",
+    "count_delta": 1,
+    "sequence": 523,
+    "schema_version": 2
+  },
+  {
+    "event_id": "LK-F00525",
+    "store_id": "LK-S19",
+    "device_id": "LK-D18",
+    "event_time_utc": "2026-07-29T14:44:32Z",
+    "count_delta": 1,
+    "sequence": 524,
+    "schema_version": 2
+  },
+  {
+    "event_id": "LK-F00526",
+    "store_id": "LK-S20",
+    "device_id": "LK-D19",
+    "event_time_utc": "2026-07-29T14:45:45Z",
+    "count_delta": 1,
+    "sequence": 525,
+    "schema_version": 2
+  },
+  {
+    "event_id": "LK-F00527",
+    "store_id": "LK-S21",
+    "device_id": "LK-D20",
+    "event_time_utc": "2026-07-29T14:46:58Z",
+    "count_delta": 1,
+    "sequence": 526,
+    "schema_version": 2
+  },
+  {
+    "event_id": "LK-F00528",
+    "store_id": "LK-S22",
+    "device_id": "LK-D21",
+    "event_time_utc": "2026-07-29T14:47:11Z",
+    "count_delta": 1,
+    "sequence": 527,
+    "schema_version": 2
+  },
+  {
+    "event_id": "LK-F00529",
+    "store_id": "LK-S23",
+    "device_id": "LK-D22",
+    "event_time_utc": "2026-07-29T14:48:24Z",
+    "count_delta": 1,
+    "sequence": 528,
+    "schema_version": 2
+  },
+  {
+    "event_id": "LK-F00530",
+    "store_id": "LK-S01",
+    "device_id": "LK-D00",
+    "event_time_utc": "2026-07-29T14:49:37Z",
+    "count_delta": 1,
+    "sequence": 529,
+    "schema_version": 2
+  },
+  {
+    "event_id": "LK-F00531",
+    "store_id": "LK-S02",
+    "device_id": "LK-D01",
+    "event_time_utc": "2026-07-29T14:50:50Z",
+    "count_delta": 1,
+    "sequence": 530,
+    "schema_version": 2
+  },
+  {
+    "event_id": "LK-F00532",
+    "store_id": "LK-S03",
+    "device_id": "LK-D02",
+    "event_time_utc": "2026-07-29T14:51:03Z",
+    "count_delta": -1,
+    "sequence": 531,
+    "schema_version": 2
+  },
+  {
+    "event_id": "LK-F00533",
+    "store_id": "LK-S04",
+    "device_id": "LK-D03",
+    "event_time_utc": "2026-07-29T14:52:16Z",
+    "count_delta": 1,
+    "sequence": 532,
+    "schema_version": 2
+  },
+  {
+    "event_id": "LK-F00534",
+    "store_id": "LK-S05",
+    "device_id": "LK-D04",
+    "event_time_utc": "2026-07-29T14:53:29Z",
+    "count_delta": 1,
+    "sequence": 533,
+    "schema_version": 2
+  },
+  {
+    "event_id": "LK-F00535",
+    "store_id": "LK-S06",
+    "device_id": "LK-D05",
+    "event_time_utc": "2026-07-29T14:54:42Z",
+    "count_delta": 1,
+    "sequence": 534,
+    "schema_version": 2
+  },
+  {
+    "event_id": "LK-F00536",
+    "store_id": "LK-S07",
+    "device_id": "LK-D06",
+    "event_time_utc": "2026-07-29T14:55:55Z",
+    "count_delta": 1,
+    "sequence": 535,
+    "schema_version": 2
+  },
+  {
+    "event_id": "LK-F00537",
+    "store_id": "LK-S08",
+    "device_id": "LK-D07",
+    "event_time_utc": "2026-07-29T14:56:08Z",
+    "count_delta": 1,
+    "sequence": 536,
+    "schema_version": 2
+  },
+  {
+    "event_id": "LK-F00538",
+    "store_id": "LK-S09",
+    "device_id": "LK-D08",
+    "event_time_utc": "2026-07-29T14:57:21Z",
+    "count_delta": 1,
+    "sequence": 537,
+    "schema_version": 2
+  },
+  {
+    "event_id": "LK-F00539",
+    "store_id": "LK-S10",
+    "device_id": "LK-D09",
+    "event_time_utc": "2026-07-29T14:58:34Z",
+    "count_delta": 1,
+    "sequence": 538,
+    "schema_version": 2
+  },
+  {
+    "event_id": "LK-F00540",
+    "store_id": "LK-S11",
+    "device_id": "LK-D10",
+    "event_time_utc": "2026-07-29T14:59:47Z",
+    "count_delta": 1,
+    "sequence": 539,
+    "schema_version": 2
+  },
+  {
+    "event_id": "LK-F00541",
+    "store_id": "LK-S12",
+    "device_id": "LK-D11",
+    "event_time_utc": "2026-07-29T14:00:00Z",
+    "count_delta": -1,
+    "sequence": 540,
+    "schema_version": 2
+  },
+  {
+    "event_id": "LK-F00542",
+    "store_id": "LK-S13",
+    "device_id": "LK-D12",
+    "event_time_utc": "2026-07-29T14:01:13Z",
+    "count_delta": 1,
+    "sequence": 541,
+    "schema_version": 2
+  },
+  {
+    "event_id": "LK-F00543",
+    "store_id": "LK-S14",
+    "device_id": "LK-D13",
+    "event_time_utc": "2026-07-29T14:02:26Z",
+    "count_delta": 1,
+    "sequence": 542,
+    "schema_version": 2
+  },
+  {
+    "event_id": "LK-F00544",
+    "store_id": "LK-S15",
+    "device_id": "LK-D14",
+    "event_time_utc": "2026-07-29T14:03:39Z",
+    "count_delta": 1,
+    "sequence": 543,
+    "schema_version": 2
+  },
+  {
+    "event_id": "LK-F00545",
+    "store_id": "LK-S16",
+    "device_id": "LK-D15",
+    "event_time_utc": "2026-07-29T14:04:52Z",
+    "count_delta": 1,
+    "sequence": 544,
+    "schema_version": 2
+  },
+  {
+    "event_id": "LK-F00546",
+    "store_id": "LK-S17",
+    "device_id": "LK-D16",
+    "event_time_utc": "2026-07-29T14:05:05Z",
+    "count_delta": 1,
+    "sequence": 545,
+    "schema_version": 2
+  },
+  {
+    "event_id": "LK-F00547",
+    "store_id": "LK-S18",
+    "device_id": "LK-D17",
+    "event_time_utc": "2026-07-29T14:06:18Z",
+    "count_delta": 1,
+    "sequence": 546,
+    "schema_version": 2
+  },
+  {
+    "event_id": "LK-F00548",
+    "store_id": "LK-S19",
+    "device_id": "LK-D18",
+    "event_time_utc": "2026-07-29T14:07:31Z",
+    "count_delta": 1,
+    "sequence": 547,
+    "schema_version": 2
+  },
+  {
+    "event_id": "LK-F00549",
+    "store_id": "LK-S20",
+    "device_id": "LK-D19",
+    "event_time_utc": "2026-07-29T14:08:44Z",
+    "count_delta": 1,
+    "sequence": 548,
+    "schema_version": 2
+  },
+  {
+    "event_id": "LK-F00550",
+    "store_id": "LK-S21",
+    "device_id": "LK-D20",
+    "event_time_utc": "2026-07-29T14:09:57Z",
+    "count_delta": -1,
+    "sequence": 549,
+    "schema_version": 2
+  },
+  {
+    "event_id": "LK-F00551",
+    "store_id": "LK-S22",
+    "device_id": "LK-D21",
+    "event_time_utc": "2026-07-29T14:10:10Z",
+    "count_delta": 1,
+    "sequence": 550,
+    "schema_version": 2
+  },
+  {
+    "event_id": "LK-F00552",
+    "store_id": "LK-S23",
+    "device_id": "LK-D22",
+    "event_time_utc": "2026-07-29T14:11:23Z",
+    "count_delta": 1,
+    "sequence": 551,
+    "schema_version": 2
+  },
+  {
+    "event_id": "LK-F00553",
+    "store_id": "LK-S01",
+    "device_id": "LK-D00",
+    "event_time_utc": "2026-07-29T14:12:36Z",
+    "count_delta": 1,
+    "sequence": 552,
+    "schema_version": 2
+  },
+  {
+    "event_id": "LK-F00554",
+    "store_id": "LK-S02",
+    "device_id": "LK-D01",
+    "event_time_utc": "2026-07-29T14:13:49Z",
+    "count_delta": 1,
+    "sequence": 553,
+    "schema_version": 2
+  },
+  {
+    "event_id": "LK-F00555",
+    "store_id": "LK-S03",
+    "device_id": "LK-D02",
+    "event_time_utc": "2026-07-29T14:14:02Z",
+    "count_delta": 1,
+    "sequence": 554,
+    "schema_version": 2
+  },
+  {
+    "event_id": "LK-F00556",
+    "store_id": "LK-S04",
+    "device_id": "LK-D03",
+    "event_time_utc": "2026-07-29T14:15:15Z",
+    "count_delta": 1,
+    "sequence": 555,
+    "schema_version": 2
+  },
+  {
+    "event_id": "LK-F00557",
+    "store_id": "LK-S05",
+    "device_id": "LK-D04",
+    "event_time_utc": "2026-07-29T14:16:28Z",
+    "count_delta": 1,
+    "sequence": 556,
+    "schema_version": 2
+  },
+  {
+    "event_id": "LK-F00558",
+    "store_id": "LK-S06",
+    "device_id": "LK-D05",
+    "event_time_utc": "2026-07-29T14:17:41Z",
+    "count_delta": 1,
+    "sequence": 557,
+    "schema_version": 2
+  },
+  {
+    "event_id": "LK-F00559",
+    "store_id": "LK-S07",
+    "device_id": "LK-D06",
+    "event_time_utc": "2026-07-29T14:18:54Z",
+    "count_delta": -1,
+    "sequence": 558,
+    "schema_version": 2
+  },
+  {
+    "event_id": "LK-F00560",
+    "store_id": "LK-S08",
+    "device_id": "LK-D07",
+    "event_time_utc": "2026-07-29T14:19:07Z",
+    "count_delta": 1,
+    "sequence": 559,
+    "schema_version": 2
+  },
+  {
+    "event_id": "LK-F00561",
+    "store_id": "LK-S09",
+    "device_id": "LK-D08",
+    "event_time_utc": "2026-07-29T15:20:20Z",
+    "count_delta": 1,
+    "sequence": 560,
+    "schema_version": 2
+  },
+  {
+    "event_id": "LK-F00562",
+    "store_id": "LK-S10",
+    "device_id": "LK-D09",
+    "event_time_utc": "2026-07-29T15:21:33Z",
+    "count_delta": 1,
+    "sequence": 561,
+    "schema_version": 2
+  },
+  {
+    "event_id": "LK-F00563",
+    "store_id": "LK-S11",
+    "device_id": "LK-D10",
+    "event_time_utc": "2026-07-29T15:22:46Z",
+    "count_delta": 1,
+    "sequence": 562,
+    "schema_version": 2
+  },
+  {
+    "event_id": "LK-F00564",
+    "store_id": "LK-S12",
+    "device_id": "LK-D11",
+    "event_time_utc": "2026-07-29T15:23:59Z",
+    "count_delta": 1,
+    "sequence": 563,
+    "schema_version": 2
+  },
+  {
+    "event_id": "LK-F00565",
+    "store_id": "LK-S13",
+    "device_id": "LK-D12",
+    "event_time_utc": "2026-07-29T15:24:12Z",
+    "count_delta": 1,
+    "sequence": 564,
+    "schema_version": 2
+  },
+  {
+    "event_id": "LK-F00566",
+    "store_id": "LK-S14",
+    "device_id": "LK-D13",
+    "event_time_utc": "2026-07-29T15:25:25Z",
+    "count_delta": 1,
+    "sequence": 565,
+    "schema_version": 2
+  },
+  {
+    "event_id": "LK-F00567",
+    "store_id": "LK-S15",
+    "device_id": "LK-D14",
+    "event_time_utc": "2026-07-29T15:26:38Z",
+    "count_delta": 1,
+    "sequence": 566,
+    "schema_version": 2
+  },
+  {
+    "event_id": "LK-F00568",
+    "store_id": "LK-S16",
+    "device_id": "LK-D15",
+    "event_time_utc": "2026-07-29T15:27:51Z",
+    "count_delta": -1,
+    "sequence": 567,
+    "schema_version": 2
+  },
+  {
+    "event_id": "LK-F00569",
+    "store_id": "LK-S17",
+    "device_id": "LK-D16",
+    "event_time_utc": "2026-07-29T15:28:04Z",
+    "count_delta": 1,
+    "sequence": 568,
+    "schema_version": 2
+  },
+  {
+    "event_id": "LK-F00570",
+    "store_id": "LK-S18",
+    "device_id": "LK-D17",
+    "event_time_utc": "2026-07-29T15:29:17Z",
+    "count_delta": 1,
+    "sequence": 569,
+    "schema_version": 2
+  },
+  {
+    "event_id": "LK-F00571",
+    "store_id": "LK-S19",
+    "device_id": "LK-D18",
+    "event_time_utc": "2026-07-29T15:30:30Z",
+    "count_delta": 1,
+    "sequence": 570,
+    "schema_version": 2
+  },
+  {
+    "event_id": "LK-F00572",
+    "store_id": "LK-S20",
+    "device_id": "LK-D19",
+    "event_time_utc": "2026-07-29T15:31:43Z",
+    "count_delta": 1,
+    "sequence": 571,
+    "schema_version": 2
+  },
+  {
+    "event_id": "LK-F00573",
+    "store_id": "LK-S21",
+    "device_id": "LK-D20",
+    "event_time_utc": "2026-07-29T15:32:56Z",
+    "count_delta": 1,
+    "sequence": 572,
+    "schema_version": 2
+  },
+  {
+    "event_id": "LK-F00574",
+    "store_id": "LK-S22",
+    "device_id": "LK-D21",
+    "event_time_utc": "2026-07-29T15:33:09Z",
+    "count_delta": 1,
+    "sequence": 573,
+    "schema_version": 2
+  },
+  {
+    "event_id": "LK-F00575",
+    "store_id": "LK-S23",
+    "device_id": "LK-D22",
+    "event_time_utc": "2026-07-29T15:34:22Z",
+    "count_delta": 1,
+    "sequence": 574,
+    "schema_version": 2
+  },
+  {
+    "event_id": "LK-F00576",
+    "store_id": "LK-S01",
+    "device_id": "LK-D00",
+    "event_time_utc": "2026-07-29T15:35:35Z",
+    "count_delta": 1,
+    "sequence": 575,
+    "schema_version": 2
+  },
+  {
+    "event_id": "LK-F00577",
+    "store_id": "LK-S02",
+    "device_id": "LK-D01",
+    "event_time_utc": "2026-07-29T15:36:48Z",
+    "count_delta": -1,
+    "sequence": 576,
+    "schema_version": 2
+  },
+  {
+    "event_id": "LK-F00578",
+    "store_id": "LK-S03",
+    "device_id": "LK-D02",
+    "event_time_utc": "2026-07-29T15:37:01Z",
+    "count_delta": 1,
+    "sequence": 577,
+    "schema_version": 2
+  },
+  {
+    "event_id": "LK-F00579",
+    "store_id": "LK-S04",
+    "device_id": "LK-D03",
+    "event_time_utc": "2026-07-29T15:38:14Z",
+    "count_delta": 1,
+    "sequence": 578,
+    "schema_version": 2
+  },
+  {
+    "event_id": "LK-F00580",
+    "store_id": "LK-S05",
+    "device_id": "LK-D04",
+    "event_time_utc": "2026-07-29T15:39:27Z",
+    "count_delta": 1,
+    "sequence": 579,
+    "schema_version": 2
+  },
+  {
+    "event_id": "LK-F00581",
+    "store_id": "LK-S06",
+    "device_id": "LK-D05",
+    "event_time_utc": "2026-07-29T15:40:40Z",
+    "count_delta": 1,
+    "sequence": 580,
+    "schema_version": 2
+  },
+  {
+    "event_id": "LK-F00582",
+    "store_id": "LK-S07",
+    "device_id": "LK-D06",
+    "event_time_utc": "2026-07-29T15:41:53Z",
+    "count_delta": 1,
+    "sequence": 581,
+    "schema_version": 2
+  },
+  {
+    "event_id": "LK-F00583",
+    "store_id": "LK-S08",
+    "device_id": "LK-D07",
+    "event_time_utc": "2026-07-29T15:42:06Z",
+    "count_delta": 1,
+    "sequence": 582,
+    "schema_version": 2
+  },
+  {
+    "event_id": "LK-F00584",
+    "store_id": "LK-S09",
+    "device_id": "LK-D08",
+    "event_time_utc": "2026-07-29T15:43:19Z",
+    "count_delta": 1,
+    "sequence": 583,
+    "schema_version": 2
+  },
+  {
+    "event_id": "LK-F00585",
+    "store_id": "LK-S10",
+    "device_id": "LK-D09",
+    "event_time_utc": "2026-07-29T15:44:32Z",
+    "count_delta": 1,
+    "sequence": 584,
+    "schema_version": 2
+  },
+  {
+    "event_id": "LK-F00586",
+    "store_id": "LK-S11",
+    "device_id": "LK-D10",
+    "event_time_utc": "2026-07-29T15:45:45Z",
+    "count_delta": -1,
+    "sequence": 585,
+    "schema_version": 2
+  },
+  {
+    "event_id": "LK-F00587",
+    "store_id": "LK-S12",
+    "device_id": "LK-D11",
+    "event_time_utc": "2026-07-29T15:46:58Z",
+    "count_delta": 1,
+    "sequence": 586,
+    "schema_version": 2
+  },
+  {
+    "event_id": "LK-F00588",
+    "store_id": "LK-S13",
+    "device_id": "LK-D12",
+    "event_time_utc": "2026-07-29T15:47:11Z",
+    "count_delta": 1,
+    "sequence": 587,
+    "schema_version": 2
+  },
+  {
+    "event_id": "LK-F00589",
+    "store_id": "LK-S14",
+    "device_id": "LK-D13",
+    "event_time_utc": "2026-07-29T15:48:24Z",
+    "count_delta": 1,
+    "sequence": 588,
+    "schema_version": 2
+  },
+  {
+    "event_id": "LK-F00590",
+    "store_id": "LK-S15",
+    "device_id": "LK-D14",
+    "event_time_utc": "2026-07-29T15:49:37Z",
+    "count_delta": 1,
+    "sequence": 589,
+    "schema_version": 2
+  },
+  {
+    "event_id": "LK-F00591",
+    "store_id": "LK-S16",
+    "device_id": "LK-D15",
+    "event_time_utc": "2026-07-29T15:50:50Z",
+    "count_delta": 1,
+    "sequence": 590,
+    "schema_version": 2
+  },
+  {
+    "event_id": "LK-F00592",
+    "store_id": "LK-S17",
+    "device_id": "LK-D16",
+    "event_time_utc": "2026-07-29T15:51:03Z",
+    "count_delta": 1,
+    "sequence": 591,
+    "schema_version": 2
+  },
+  {
+    "event_id": "LK-F00593",
+    "store_id": "LK-S18",
+    "device_id": "LK-D17",
+    "event_time_utc": "2026-07-29T15:52:16Z",
+    "count_delta": 1,
+    "sequence": 592,
+    "schema_version": 2
+  },
+  {
+    "event_id": "LK-F00594",
+    "store_id": "LK-S19",
+    "device_id": "LK-D18",
+    "event_time_utc": "2026-07-29T15:53:29Z",
+    "count_delta": 1,
+    "sequence": 593,
+    "schema_version": 2
+  },
+  {
+    "event_id": "LK-F00595",
+    "store_id": "LK-S20",
+    "device_id": "LK-D19",
+    "event_time_utc": "2026-07-29T15:54:42Z",
+    "count_delta": -1,
+    "sequence": 594,
+    "schema_version": 2
+  },
+  {
+    "event_id": "LK-F00596",
+    "store_id": "LK-S21",
+    "device_id": "LK-D20",
+    "event_time_utc": "2026-07-29T15:55:55Z",
+    "count_delta": 1,
+    "sequence": 595,
+    "schema_version": 2
+  },
+  {
+    "event_id": "LK-F00597",
+    "store_id": "LK-S22",
+    "device_id": "LK-D21",
+    "event_time_utc": "2026-07-29T15:56:08Z",
+    "count_delta": 1,
+    "sequence": 596,
+    "schema_version": 2
+  },
+  {
+    "event_id": "LK-F00598",
+    "store_id": "LK-S23",
+    "device_id": "LK-D22",
+    "event_time_utc": "2026-07-29T15:57:21Z",
+    "count_delta": 1,
+    "sequence": 597,
+    "schema_version": 2
+  },
+  {
+    "event_id": "LK-F00599",
+    "store_id": "LK-S01",
+    "device_id": "LK-D00",
+    "event_time_utc": "2026-07-29T15:58:34Z",
+    "count_delta": 1,
+    "sequence": 598,
+    "schema_version": 2
+  },
+  {
+    "event_id": "LK-F00600",
+    "store_id": "LK-S02",
+    "device_id": "LK-D01",
+    "event_time_utc": "2026-07-29T15:59:47Z",
+    "count_delta": 1,
+    "sequence": 599,
+    "schema_version": 2
+  },
+  {
+    "event_id": "LK-F00601",
+    "store_id": "LK-S03",
+    "device_id": "LK-D02",
+    "event_time_utc": "2026-07-29T15:00:00Z",
+    "count_delta": 1,
+    "sequence": 600,
+    "schema_version": 2
+  },
+  {
+    "event_id": "LK-F00602",
+    "store_id": "LK-S04",
+    "device_id": "LK-D03",
+    "event_time_utc": "2026-07-29T15:01:13Z",
+    "count_delta": 1,
+    "sequence": 601,
+    "schema_version": 2
+  },
+  {
+    "event_id": "LK-F00603",
+    "store_id": "LK-S05",
+    "device_id": "LK-D04",
+    "event_time_utc": "2026-07-29T15:02:26Z",
+    "count_delta": 1,
+    "sequence": 602,
+    "schema_version": 2
+  },
+  {
+    "event_id": "LK-F00604",
+    "store_id": "LK-S06",
+    "device_id": "LK-D05",
+    "event_time_utc": "2026-07-29T15:03:39Z",
+    "count_delta": -1,
+    "sequence": 603,
+    "schema_version": 2
+  },
+  {
+    "event_id": "LK-F00605",
+    "store_id": "LK-S07",
+    "device_id": "LK-D06",
+    "event_time_utc": "2026-07-29T15:04:52Z",
+    "count_delta": 1,
+    "sequence": 604,
+    "schema_version": 2
+  },
+  {
+    "event_id": "LK-F00606",
+    "store_id": "LK-S08",
+    "device_id": "LK-D07",
+    "event_time_utc": "2026-07-29T15:05:05Z",
+    "count_delta": 1,
+    "sequence": 605,
+    "schema_version": 2
+  },
+  {
+    "event_id": "LK-F00607",
+    "store_id": "LK-S09",
+    "device_id": "LK-D08",
+    "event_time_utc": "2026-07-29T15:06:18Z",
+    "count_delta": 1,
+    "sequence": 606,
+    "schema_version": 2
+  },
+  {
+    "event_id": "LK-F00608",
+    "store_id": "LK-S10",
+    "device_id": "LK-D09",
+    "event_time_utc": "2026-07-29T15:07:31Z",
+    "count_delta": 1,
+    "sequence": 607,
+    "schema_version": 2
+  },
+  {
+    "event_id": "LK-F00609",
+    "store_id": "LK-S11",
+    "device_id": "LK-D10",
+    "event_time_utc": "2026-07-29T15:08:44Z",
+    "count_delta": 1,
+    "sequence": 608,
+    "schema_version": 2
+  },
+  {
+    "event_id": "LK-F00610",
+    "store_id": "LK-S12",
+    "device_id": "LK-D11",
+    "event_time_utc": "2026-07-29T15:09:57Z",
+    "count_delta": 1,
+    "sequence": 609,
+    "schema_version": 2
+  },
+  {
+    "event_id": "LK-F00611",
+    "store_id": "LK-S13",
+    "device_id": "LK-D12",
+    "event_time_utc": "2026-07-29T15:10:10Z",
+    "count_delta": 1,
+    "sequence": 610,
+    "schema_version": 2
+  },
+  {
+    "event_id": "LK-F00612",
+    "store_id": "LK-S14",
+    "device_id": "LK-D13",
+    "event_time_utc": "2026-07-29T15:11:23Z",
+    "count_delta": 1,
+    "sequence": 611,
+    "schema_version": 2
+  },
+  {
+    "event_id": "LK-F00613",
+    "store_id": "LK-S15",
+    "device_id": "LK-D14",
+    "event_time_utc": "2026-07-29T15:12:36Z",
+    "count_delta": -1,
+    "sequence": 612,
+    "schema_version": 2
+  },
+  {
+    "event_id": "LK-F00614",
+    "store_id": "LK-S16",
+    "device_id": "LK-D15",
+    "event_time_utc": "2026-07-29T15:13:49Z",
+    "count_delta": 1,
+    "sequence": 613,
+    "schema_version": 2
+  },
+  {
+    "event_id": "LK-F00615",
+    "store_id": "LK-S17",
+    "device_id": "LK-D16",
+    "event_time_utc": "2026-07-29T15:14:02Z",
+    "count_delta": 1,
+    "sequence": 614,
+    "schema_version": 2
+  },
+  {
+    "event_id": "LK-F00616",
+    "store_id": "LK-S18",
+    "device_id": "LK-D17",
+    "event_time_utc": "2026-07-29T15:15:15Z",
+    "count_delta": 1,
+    "sequence": 615,
+    "schema_version": 2
+  },
+  {
+    "event_id": "LK-F00617",
+    "store_id": "LK-S19",
+    "device_id": "LK-D18",
+    "event_time_utc": "2026-07-29T15:16:28Z",
+    "count_delta": 1,
+    "sequence": 616,
+    "schema_version": 2
+  },
+  {
+    "event_id": "LK-F00618",
+    "store_id": "LK-S20",
+    "device_id": "LK-D19",
+    "event_time_utc": "2026-07-29T15:17:41Z",
+    "count_delta": 1,
+    "sequence": 617,
+    "schema_version": 2
+  },
+  {
+    "event_id": "LK-F00619",
+    "store_id": "LK-S21",
+    "device_id": "LK-D20",
+    "event_time_utc": "2026-07-29T15:18:54Z",
+    "count_delta": 1,
+    "sequence": 618,
+    "schema_version": 2
+  },
+  {
+    "event_id": "LK-F00620",
+    "store_id": "LK-S22",
+    "device_id": "LK-D21",
+    "event_time_utc": "2026-07-29T15:19:07Z",
+    "count_delta": 1,
+    "sequence": 619,
+    "schema_version": 2
+  },
+  {
+    "event_id": "LK-F00621",
+    "store_id": "LK-S23",
+    "device_id": "LK-D22",
+    "event_time_utc": "2026-07-29T15:20:20Z",
+    "count_delta": 1,
+    "sequence": 620,
+    "schema_version": 2
+  },
+  {
+    "event_id": "LK-F00622",
+    "store_id": "LK-S01",
+    "device_id": "LK-D00",
+    "event_time_utc": "2026-07-29T15:21:33Z",
+    "count_delta": -1,
+    "sequence": 621,
+    "schema_version": 2
+  },
+  {
+    "event_id": "LK-F00623",
+    "store_id": "LK-S02",
+    "device_id": "LK-D01",
+    "event_time_utc": "2026-07-29T15:22:46Z",
+    "count_delta": 1,
+    "sequence": 622,
+    "schema_version": 2
+  },
+  {
+    "event_id": "LK-F00624",
+    "store_id": "LK-S03",
+    "device_id": "LK-D02",
+    "event_time_utc": "2026-07-29T15:23:59Z",
+    "count_delta": 1,
+    "sequence": 623,
+    "schema_version": 2
+  },
+  {
+    "event_id": "LK-F00625",
+    "store_id": "LK-S04",
+    "device_id": "LK-D03",
+    "event_time_utc": "2026-07-29T15:24:12Z",
+    "count_delta": 1,
+    "sequence": 624,
+    "schema_version": 2
+  },
+  {
+    "event_id": "LK-F00626",
+    "store_id": "LK-S05",
+    "device_id": "LK-D04",
+    "event_time_utc": "2026-07-29T15:25:25Z",
+    "count_delta": 1,
+    "sequence": 625,
+    "schema_version": 2
+  },
+  {
+    "event_id": "LK-F00627",
+    "store_id": "LK-S06",
+    "device_id": "LK-D05",
+    "event_time_utc": "2026-07-29T15:26:38Z",
+    "count_delta": 1,
+    "sequence": 626,
+    "schema_version": 2
+  },
+  {
+    "event_id": "LK-F00628",
+    "store_id": "LK-S07",
+    "device_id": "LK-D06",
+    "event_time_utc": "2026-07-29T15:27:51Z",
+    "count_delta": 1,
+    "sequence": 627,
+    "schema_version": 2
+  },
+  {
+    "event_id": "LK-F00629",
+    "store_id": "LK-S08",
+    "device_id": "LK-D07",
+    "event_time_utc": "2026-07-29T15:28:04Z",
+    "count_delta": 1,
+    "sequence": 628,
+    "schema_version": 2
+  },
+  {
+    "event_id": "LK-F00630",
+    "store_id": "LK-S09",
+    "device_id": "LK-D08",
+    "event_time_utc": "2026-07-29T15:29:17Z",
+    "count_delta": 1,
+    "sequence": 629,
+    "schema_version": 2
+  },
+  {
+    "event_id": "LK-F00631",
+    "store_id": "LK-S10",
+    "device_id": "LK-D09",
+    "event_time_utc": "2026-07-29T16:30:30Z",
+    "count_delta": -1,
+    "sequence": 630,
+    "schema_version": 2
+  },
+  {
+    "event_id": "LK-F00632",
+    "store_id": "LK-S11",
+    "device_id": "LK-D10",
+    "event_time_utc": "2026-07-29T16:31:43Z",
+    "count_delta": 1,
+    "sequence": 631,
+    "schema_version": 2
+  },
+  {
+    "event_id": "LK-F00633",
+    "store_id": "LK-S12",
+    "device_id": "LK-D11",
+    "event_time_utc": "2026-07-29T16:32:56Z",
+    "count_delta": 1,
+    "sequence": 632,
+    "schema_version": 2
+  },
+  {
+    "event_id": "LK-F00634",
+    "store_id": "LK-S13",
+    "device_id": "LK-D12",
+    "event_time_utc": "2026-07-29T16:33:09Z",
+    "count_delta": 1,
+    "sequence": 633,
+    "schema_version": 2
+  },
+  {
+    "event_id": "LK-F00635",
+    "store_id": "LK-S14",
+    "device_id": "LK-D13",
+    "event_time_utc": "2026-07-29T16:34:22Z",
+    "count_delta": 1,
+    "sequence": 634,
+    "schema_version": 2
+  },
+  {
+    "event_id": "LK-F00636",
+    "store_id": "LK-S15",
+    "device_id": "LK-D14",
+    "event_time_utc": "2026-07-29T16:35:35Z",
+    "count_delta": 1,
+    "sequence": 635,
+    "schema_version": 2
+  },
+  {
+    "event_id": "LK-F00637",
+    "store_id": "LK-S16",
+    "device_id": "LK-D15",
+    "event_time_utc": "2026-07-29T16:36:48Z",
+    "count_delta": 1,
+    "sequence": 636,
+    "schema_version": 2
+  },
+  {
+    "event_id": "LK-F00638",
+    "store_id": "LK-S17",
+    "device_id": "LK-D16",
+    "event_time_utc": "2026-07-29T16:37:01Z",
+    "count_delta": 1,
+    "sequence": 637,
+    "schema_version": 2
+  },
+  {
+    "event_id": "LK-F00639",
+    "store_id": "LK-S18",
+    "device_id": "LK-D17",
+    "event_time_utc": "2026-07-29T16:38:14Z",
+    "count_delta": 1,
+    "sequence": 638,
+    "schema_version": 2
+  },
+  {
+    "event_id": "LK-F00640",
+    "store_id": "LK-S19",
+    "device_id": "LK-D18",
+    "event_time_utc": "2026-07-29T16:39:27Z",
+    "count_delta": -1,
+    "sequence": 639,
+    "schema_version": 2
+  },
+  {
+    "event_id": "LK-F00641",
+    "store_id": "LK-S20",
+    "device_id": "LK-D19",
+    "event_time_utc": "2026-07-29T16:40:40Z",
+    "count_delta": 1,
+    "sequence": 640,
+    "schema_version": 2
+  },
+  {
+    "event_id": "LK-F00642",
+    "store_id": "LK-S21",
+    "device_id": "LK-D20",
+    "event_time_utc": "2026-07-29T16:41:53Z",
+    "count_delta": 1,
+    "sequence": 641,
+    "schema_version": 2
+  },
+  {
+    "event_id": "LK-F00643",
+    "store_id": "LK-S22",
+    "device_id": "LK-D21",
+    "event_time_utc": "2026-07-29T16:42:06Z",
+    "count_delta": 1,
+    "sequence": 642,
+    "schema_version": 2
+  },
+  {
+    "event_id": "LK-F00644",
+    "store_id": "LK-S23",
+    "device_id": "LK-D22",
+    "event_time_utc": "2026-07-29T16:43:19Z",
+    "count_delta": 1,
+    "sequence": 643,
+    "schema_version": 2
+  },
+  {
+    "event_id": "LK-F00645",
+    "store_id": "LK-S01",
+    "device_id": "LK-D00",
+    "event_time_utc": "2026-07-29T16:44:32Z",
+    "count_delta": 1,
+    "sequence": 644,
+    "schema_version": 2
+  },
+  {
+    "event_id": "LK-F00646",
+    "store_id": "LK-S02",
+    "device_id": "LK-D01",
+    "event_time_utc": "2026-07-29T16:45:45Z",
+    "count_delta": 1,
+    "sequence": 645,
+    "schema_version": 2
+  },
+  {
+    "event_id": "LK-F00647",
+    "store_id": "LK-S03",
+    "device_id": "LK-D02",
+    "event_time_utc": "2026-07-29T16:46:58Z",
+    "count_delta": 1,
+    "sequence": 646,
+    "schema_version": 2
+  },
+  {
+    "event_id": "LK-F00648",
+    "store_id": "LK-S04",
+    "device_id": "LK-D03",
+    "event_time_utc": "2026-07-29T16:47:11Z",
+    "count_delta": 1,
+    "sequence": 647,
+    "schema_version": 2
+  },
+  {
+    "event_id": "LK-F00649",
+    "store_id": "LK-S05",
+    "device_id": "LK-D04",
+    "event_time_utc": "2026-07-29T16:48:24Z",
+    "count_delta": -1,
+    "sequence": 648,
+    "schema_version": 2
+  },
+  {
+    "event_id": "LK-F00650",
+    "store_id": "LK-S06",
+    "device_id": "LK-D05",
+    "event_time_utc": "2026-07-29T16:49:37Z",
+    "count_delta": 1,
+    "sequence": 649,
+    "schema_version": 2
+  },
+  {
+    "event_id": "LK-F00651",
+    "store_id": "LK-S07",
+    "device_id": "LK-D06",
+    "event_time_utc": "2026-07-29T16:50:50Z",
+    "count_delta": 1,
+    "sequence": 650,
+    "schema_version": 2
+  },
+  {
+    "event_id": "LK-F00652",
+    "store_id": "LK-S08",
+    "device_id": "LK-D07",
+    "event_time_utc": "2026-07-29T16:51:03Z",
+    "count_delta": 1,
+    "sequence": 651,
+    "schema_version": 2
+  },
+  {
+    "event_id": "LK-F00653",
+    "store_id": "LK-S09",
+    "device_id": "LK-D08",
+    "event_time_utc": "2026-07-29T16:52:16Z",
+    "count_delta": 1,
+    "sequence": 652,
+    "schema_version": 2
+  },
+  {
+    "event_id": "LK-F00654",
+    "store_id": "LK-S10",
+    "device_id": "LK-D09",
+    "event_time_utc": "2026-07-29T16:53:29Z",
+    "count_delta": 1,
+    "sequence": 653,
+    "schema_version": 2
+  },
+  {
+    "event_id": "LK-F00655",
+    "store_id": "LK-S11",
+    "device_id": "LK-D10",
+    "event_time_utc": "2026-07-29T16:54:42Z",
+    "count_delta": 1,
+    "sequence": 654,
+    "schema_version": 2
+  },
+  {
+    "event_id": "LK-F00656",
+    "store_id": "LK-S12",
+    "device_id": "LK-D11",
+    "event_time_utc": "2026-07-29T16:55:55Z",
+    "count_delta": 1,
+    "sequence": 655,
+    "schema_version": 2
+  },
+  {
+    "event_id": "LK-F00657",
+    "store_id": "LK-S13",
+    "device_id": "LK-D12",
+    "event_time_utc": "2026-07-29T16:56:08Z",
+    "count_delta": 1,
+    "sequence": 656,
+    "schema_version": 2
+  },
+  {
+    "event_id": "LK-F00658",
+    "store_id": "LK-S14",
+    "device_id": "LK-D13",
+    "event_time_utc": "2026-07-29T16:57:21Z",
+    "count_delta": -1,
+    "sequence": 657,
+    "schema_version": 2
+  },
+  {
+    "event_id": "LK-F00659",
+    "store_id": "LK-S15",
+    "device_id": "LK-D14",
+    "event_time_utc": "2026-07-29T16:58:34Z",
+    "count_delta": 1,
+    "sequence": 658,
+    "schema_version": 2
+  },
+  {
+    "event_id": "LK-F00660",
+    "store_id": "LK-S16",
+    "device_id": "LK-D15",
+    "event_time_utc": "2026-07-29T16:59:47Z",
+    "count_delta": 1,
+    "sequence": 659,
+    "schema_version": 2
+  },
+  {
+    "event_id": "LK-F00661",
+    "store_id": "LK-S17",
+    "device_id": "LK-D16",
+    "event_time_utc": "2026-07-29T16:00:00Z",
+    "count_delta": 1,
+    "sequence": 660,
+    "schema_version": 2
+  },
+  {
+    "event_id": "LK-F00662",
+    "store_id": "LK-S18",
+    "device_id": "LK-D17",
+    "event_time_utc": "2026-07-29T16:01:13Z",
+    "count_delta": 1,
+    "sequence": 661,
+    "schema_version": 2
+  },
+  {
+    "event_id": "LK-F00663",
+    "store_id": "LK-S19",
+    "device_id": "LK-D18",
+    "event_time_utc": "2026-07-29T16:02:26Z",
+    "count_delta": 1,
+    "sequence": 662,
+    "schema_version": 2
+  },
+  {
+    "event_id": "LK-F00664",
+    "store_id": "LK-S20",
+    "device_id": "LK-D19",
+    "event_time_utc": "2026-07-29T16:03:39Z",
+    "count_delta": 1,
+    "sequence": 663,
+    "schema_version": 2
+  },
+  {
+    "event_id": "LK-F00665",
+    "store_id": "LK-S21",
+    "device_id": "LK-D20",
+    "event_time_utc": "2026-07-29T16:04:52Z",
+    "count_delta": 1,
+    "sequence": 664,
+    "schema_version": 2
+  },
+  {
+    "event_id": "LK-F00666",
+    "store_id": "LK-S22",
+    "device_id": "LK-D21",
+    "event_time_utc": "2026-07-29T16:05:05Z",
+    "count_delta": 1,
+    "sequence": 665,
+    "schema_version": 2
+  },
+  {
+    "event_id": "LK-F00667",
+    "store_id": "LK-S23",
+    "device_id": "LK-D22",
+    "event_time_utc": "2026-07-29T16:06:18Z",
+    "count_delta": -1,
+    "sequence": 666,
+    "schema_version": 2
+  },
+  {
+    "event_id": "LK-F00668",
+    "store_id": "LK-S01",
+    "device_id": "LK-D00",
+    "event_time_utc": "2026-07-29T16:07:31Z",
+    "count_delta": 1,
+    "sequence": 667,
+    "schema_version": 2
+  },
+  {
+    "event_id": "LK-F00669",
+    "store_id": "LK-S02",
+    "device_id": "LK-D01",
+    "event_time_utc": "2026-07-29T16:08:44Z",
+    "count_delta": 1,
+    "sequence": 668,
+    "schema_version": 2
+  },
+  {
+    "event_id": "LK-F00670",
+    "store_id": "LK-S03",
+    "device_id": "LK-D02",
+    "event_time_utc": "2026-07-29T16:09:57Z",
+    "count_delta": 1,
+    "sequence": 669,
+    "schema_version": 2
+  },
+  {
+    "event_id": "LK-F00671",
+    "store_id": "LK-S04",
+    "device_id": "LK-D03",
+    "event_time_utc": "2026-07-29T16:10:10Z",
+    "count_delta": 1,
+    "sequence": 670,
+    "schema_version": 2
+  },
+  {
+    "event_id": "LK-F00672",
+    "store_id": "LK-S05",
+    "device_id": "LK-D04",
+    "event_time_utc": "2026-07-29T16:11:23Z",
+    "count_delta": 1,
+    "sequence": 671,
+    "schema_version": 2
+  },
+  {
+    "event_id": "LK-F00673",
+    "store_id": "LK-S06",
+    "device_id": "LK-D05",
+    "event_time_utc": "2026-07-29T16:12:36Z",
+    "count_delta": 1,
+    "sequence": 672,
+    "schema_version": 2
+  },
+  {
+    "event_id": "LK-F00674",
+    "store_id": "LK-S07",
+    "device_id": "LK-D06",
+    "event_time_utc": "2026-07-29T16:13:49Z",
+    "count_delta": 1,
+    "sequence": 673,
+    "schema_version": 2
+  },
+  {
+    "event_id": "LK-F00675",
+    "store_id": "LK-S08",
+    "device_id": "LK-D07",
+    "event_time_utc": "2026-07-29T16:14:02Z",
+    "count_delta": 1,
+    "sequence": 674,
+    "schema_version": 2
+  },
+  {
+    "event_id": "LK-F00676",
+    "store_id": "LK-S09",
+    "device_id": "LK-D08",
+    "event_time_utc": "2026-07-29T16:15:15Z",
+    "count_delta": -1,
+    "sequence": 675,
+    "schema_version": 2
+  },
+  {
+    "event_id": "LK-F00677",
+    "store_id": "LK-S10",
+    "device_id": "LK-D09",
+    "event_time_utc": "2026-07-29T16:16:28Z",
+    "count_delta": 1,
+    "sequence": 676,
+    "schema_version": 2
+  },
+  {
+    "event_id": "LK-F00678",
+    "store_id": "LK-S11",
+    "device_id": "LK-D10",
+    "event_time_utc": "2026-07-29T16:17:41Z",
+    "count_delta": 1,
+    "sequence": 677,
+    "schema_version": 2
+  },
+  {
+    "event_id": "LK-F00679",
+    "store_id": "LK-S12",
+    "device_id": "LK-D11",
+    "event_time_utc": "2026-07-29T16:18:54Z",
+    "count_delta": 1,
+    "sequence": 678,
+    "schema_version": 2
+  },
+  {
+    "event_id": "LK-F00680",
+    "store_id": "LK-S13",
+    "device_id": "LK-D12",
+    "event_time_utc": "2026-07-29T16:19:07Z",
+    "count_delta": 1,
+    "sequence": 679,
+    "schema_version": 2
+  },
+  {
+    "event_id": "LK-F00681",
+    "store_id": "LK-S14",
+    "device_id": "LK-D13",
+    "event_time_utc": "2026-07-29T16:20:20Z",
+    "count_delta": 1,
+    "sequence": 680,
+    "schema_version": 2
+  },
+  {
+    "event_id": "LK-F00682",
+    "store_id": "LK-S15",
+    "device_id": "LK-D14",
+    "event_time_utc": "2026-07-29T16:21:33Z",
+    "count_delta": 1,
+    "sequence": 681,
+    "schema_version": 2
+  },
+  {
+    "event_id": "LK-F00683",
+    "store_id": "LK-S16",
+    "device_id": "LK-D15",
+    "event_time_utc": "2026-07-29T16:22:46Z",
+    "count_delta": 1,
+    "sequence": 682,
+    "schema_version": 2
+  },
+  {
+    "event_id": "LK-F00684",
+    "store_id": "LK-S17",
+    "device_id": "LK-D16",
+    "event_time_utc": "2026-07-29T16:23:59Z",
+    "count_delta": 1,
+    "sequence": 683,
+    "schema_version": 2
+  },
+  {
+    "event_id": "LK-F00685",
+    "store_id": "LK-S18",
+    "device_id": "LK-D17",
+    "event_time_utc": "2026-07-29T16:24:12Z",
+    "count_delta": -1,
+    "sequence": 684,
+    "schema_version": 2
+  },
+  {
+    "event_id": "LK-F00686",
+    "store_id": "LK-S19",
+    "device_id": "LK-D18",
+    "event_time_utc": "2026-07-29T16:25:25Z",
+    "count_delta": 1,
+    "sequence": 685,
+    "schema_version": 2
+  },
+  {
+    "event_id": "LK-F00687",
+    "store_id": "LK-S20",
+    "device_id": "LK-D19",
+    "event_time_utc": "2026-07-29T16:26:38Z",
+    "count_delta": 1,
+    "sequence": 686,
+    "schema_version": 2
+  },
+  {
+    "event_id": "LK-F00688",
+    "store_id": "LK-S21",
+    "device_id": "LK-D20",
+    "event_time_utc": "2026-07-29T16:27:51Z",
+    "count_delta": 1,
+    "sequence": 687,
+    "schema_version": 2
+  },
+  {
+    "event_id": "LK-F00689",
+    "store_id": "LK-S22",
+    "device_id": "LK-D21",
+    "event_time_utc": "2026-07-29T16:28:04Z",
+    "count_delta": 1,
+    "sequence": 688,
+    "schema_version": 2
+  },
+  {
+    "event_id": "LK-F00690",
+    "store_id": "LK-S23",
+    "device_id": "LK-D22",
+    "event_time_utc": "2026-07-29T16:29:17Z",
+    "count_delta": 1,
+    "sequence": 689,
+    "schema_version": 2
+  },
+  {
+    "event_id": "LK-F00691",
+    "store_id": "LK-S01",
+    "device_id": "LK-D00",
+    "event_time_utc": "2026-07-29T16:30:30Z",
+    "count_delta": 1,
+    "sequence": 690,
+    "schema_version": 2
+  },
+  {
+    "event_id": "LK-F00692",
+    "store_id": "LK-S02",
+    "device_id": "LK-D01",
+    "event_time_utc": "2026-07-29T16:31:43Z",
+    "count_delta": 1,
+    "sequence": 691,
+    "schema_version": 2
+  },
+  {
+    "event_id": "LK-F00693",
+    "store_id": "LK-S03",
+    "device_id": "LK-D02",
+    "event_time_utc": "2026-07-29T16:32:56Z",
+    "count_delta": 1,
+    "sequence": 692,
+    "schema_version": 2
+  },
+  {
+    "event_id": "LK-F00694",
+    "store_id": "LK-S04",
+    "device_id": "LK-D03",
+    "event_time_utc": "2026-07-29T16:33:09Z",
+    "count_delta": -1,
+    "sequence": 693,
+    "schema_version": 2
+  },
+  {
+    "event_id": "LK-F00695",
+    "store_id": "LK-S05",
+    "device_id": "LK-D04",
+    "event_time_utc": "2026-07-29T16:34:22Z",
+    "count_delta": 1,
+    "sequence": 694,
+    "schema_version": 2
+  },
+  {
+    "event_id": "LK-F00696",
+    "store_id": "LK-S06",
+    "device_id": "LK-D05",
+    "event_time_utc": "2026-07-29T16:35:35Z",
+    "count_delta": 1,
+    "sequence": 695,
+    "schema_version": 2
+  },
+  {
+    "event_id": "LK-F00697",
+    "store_id": "LK-S07",
+    "device_id": "LK-D06",
+    "event_time_utc": "2026-07-29T16:36:48Z",
+    "count_delta": 1,
+    "sequence": 696,
+    "schema_version": 2
+  },
+  {
+    "event_id": "LK-F00698",
+    "store_id": "LK-S08",
+    "device_id": "LK-D07",
+    "event_time_utc": "2026-07-29T16:37:01Z",
+    "count_delta": 1,
+    "sequence": 697,
+    "schema_version": 2
+  },
+  {
+    "event_id": "LK-F00699",
+    "store_id": "LK-S09",
+    "device_id": "LK-D08",
+    "event_time_utc": "2026-07-29T16:38:14Z",
+    "count_delta": 1,
+    "sequence": 698,
+    "schema_version": 2
+  },
+  {
+    "event_id": "LK-F00700",
+    "store_id": "LK-S10",
+    "device_id": "LK-D09",
+    "event_time_utc": "2026-07-29T16:39:27Z",
+    "count_delta": 1,
+    "sequence": 699,
+    "schema_version": 2
+  },
+  {
+    "event_id": "LK-F00701",
+    "store_id": "LK-S11",
+    "device_id": "LK-D10",
+    "event_time_utc": "2026-07-29T17:40:40Z",
+    "count_delta": 1,
+    "sequence": 700,
+    "schema_version": 2
+  },
+  {
+    "event_id": "LK-F00702",
+    "store_id": "LK-S12",
+    "device_id": "LK-D11",
+    "event_time_utc": "2026-07-29T17:41:53Z",
+    "count_delta": 1,
+    "sequence": 701,
+    "schema_version": 2
+  },
+  {
+    "event_id": "LK-F00703",
+    "store_id": "LK-S13",
+    "device_id": "LK-D12",
+    "event_time_utc": "2026-07-29T17:42:06Z",
+    "count_delta": -1,
+    "sequence": 702,
+    "schema_version": 2
+  },
+  {
+    "event_id": "LK-F00704",
+    "store_id": "LK-S14",
+    "device_id": "LK-D13",
+    "event_time_utc": "2026-07-29T17:43:19Z",
+    "count_delta": 1,
+    "sequence": 703,
+    "schema_version": 2
+  },
+  {
+    "event_id": "LK-F00705",
+    "store_id": "LK-S15",
+    "device_id": "LK-D14",
+    "event_time_utc": "2026-07-29T17:44:32Z",
+    "count_delta": 1,
+    "sequence": 704,
+    "schema_version": 2
+  },
+  {
+    "event_id": "LK-F00706",
+    "store_id": "LK-S16",
+    "device_id": "LK-D15",
+    "event_time_utc": "2026-07-29T17:45:45Z",
+    "count_delta": 1,
+    "sequence": 705,
+    "schema_version": 2
+  },
+  {
+    "event_id": "LK-F00707",
+    "store_id": "LK-S17",
+    "device_id": "LK-D16",
+    "event_time_utc": "2026-07-29T17:46:58Z",
+    "count_delta": 1,
+    "sequence": 706,
+    "schema_version": 2
+  },
+  {
+    "event_id": "LK-F00708",
+    "store_id": "LK-S18",
+    "device_id": "LK-D17",
+    "event_time_utc": "2026-07-29T17:47:11Z",
+    "count_delta": 1,
+    "sequence": 707,
+    "schema_version": 2
+  },
+  {
+    "event_id": "LK-F00709",
+    "store_id": "LK-S19",
+    "device_id": "LK-D18",
+    "event_time_utc": "2026-07-29T17:48:24Z",
+    "count_delta": 1,
+    "sequence": 708,
+    "schema_version": 2
+  },
+  {
+    "event_id": "LK-F00710",
+    "store_id": "LK-S20",
+    "device_id": "LK-D19",
+    "event_time_utc": "2026-07-29T17:49:37Z",
+    "count_delta": 1,
+    "sequence": 709,
+    "schema_version": 2
+  },
+  {
+    "event_id": "LK-F00711",
+    "store_id": "LK-S21",
+    "device_id": "LK-D20",
+    "event_time_utc": "2026-07-29T17:50:50Z",
+    "count_delta": 1,
+    "sequence": 710,
+    "schema_version": 2
+  },
+  {
+    "event_id": "LK-F00712",
+    "store_id": "LK-S22",
+    "device_id": "LK-D21",
+    "event_time_utc": "2026-07-29T17:51:03Z",
+    "count_delta": -1,
+    "sequence": 711,
+    "schema_version": 2
+  },
+  {
+    "event_id": "LK-F00713",
+    "store_id": "LK-S23",
+    "device_id": "LK-D22",
+    "event_time_utc": "2026-07-29T17:52:16Z",
+    "count_delta": 1,
+    "sequence": 712,
+    "schema_version": 2
+  },
+  {
+    "event_id": "LK-F00714",
+    "store_id": "LK-S01",
+    "device_id": "LK-D00",
+    "event_time_utc": "2026-07-29T17:53:29Z",
+    "count_delta": 1,
+    "sequence": 713,
+    "schema_version": 2
+  },
+  {
+    "event_id": "LK-F00715",
+    "store_id": "LK-S02",
+    "device_id": "LK-D01",
+    "event_time_utc": "2026-07-29T17:54:42Z",
+    "count_delta": 1,
+    "sequence": 714,
+    "schema_version": 2
+  },
+  {
+    "event_id": "LK-F00716",
+    "store_id": "LK-S03",
+    "device_id": "LK-D02",
+    "event_time_utc": "2026-07-29T17:55:55Z",
+    "count_delta": 1,
+    "sequence": 715,
+    "schema_version": 2
+  },
+  {
+    "event_id": "LK-F00717",
+    "store_id": "LK-S04",
+    "device_id": "LK-D03",
+    "event_time_utc": "2026-07-29T17:56:08Z",
+    "count_delta": 1,
+    "sequence": 716,
+    "schema_version": 2
+  },
+  {
+    "event_id": "LK-F00718",
+    "store_id": "LK-S05",
+    "device_id": "LK-D04",
+    "event_time_utc": "2026-07-29T17:57:21Z",
+    "count_delta": 1,
+    "sequence": 717,
+    "schema_version": 2
+  },
+  {
+    "event_id": "LK-F00719",
+    "store_id": "LK-S06",
+    "device_id": "LK-D05",
+    "event_time_utc": "2026-07-29T17:58:34Z",
+    "count_delta": 1,
+    "sequence": 718,
+    "schema_version": 2
+  },
+  {
+    "event_id": "LK-F00720",
+    "store_id": "LK-S07",
+    "device_id": "LK-D06",
+    "event_time_utc": "2026-07-29T17:59:47Z",
+    "count_delta": 1,
+    "sequence": 719,
+    "schema_version": 2
+  },
+  {
+    "event_id": "LK-F00721",
+    "store_id": "LK-S08",
+    "device_id": "LK-D07",
+    "event_time_utc": "2026-07-29T17:00:00Z",
+    "count_delta": -1,
+    "sequence": 720,
+    "schema_version": 2
+  },
+  {
+    "event_id": "LK-F00722",
+    "store_id": "LK-S09",
+    "device_id": "LK-D08",
+    "event_time_utc": "2026-07-29T17:01:13Z",
+    "count_delta": 1,
+    "sequence": 721,
+    "schema_version": 2
+  },
+  {
+    "event_id": "LK-F00723",
+    "store_id": "LK-S10",
+    "device_id": "LK-D09",
+    "event_time_utc": "2026-07-29T17:02:26Z",
+    "count_delta": 1,
+    "sequence": 722,
+    "schema_version": 2
+  },
+  {
+    "event_id": "LK-F00724",
+    "store_id": "LK-S11",
+    "device_id": "LK-D10",
+    "event_time_utc": "2026-07-29T17:03:39Z",
+    "count_delta": 1,
+    "sequence": 723,
+    "schema_version": 2
+  },
+  {
+    "event_id": "LK-F00725",
+    "store_id": "LK-S12",
+    "device_id": "LK-D11",
+    "event_time_utc": "2026-07-29T17:04:52Z",
+    "count_delta": 1,
+    "sequence": 724,
+    "schema_version": 2
+  },
+  {
+    "event_id": "LK-F00726",
+    "store_id": "LK-S13",
+    "device_id": "LK-D12",
+    "event_time_utc": "2026-07-29T17:05:05Z",
+    "count_delta": 1,
+    "sequence": 725,
+    "schema_version": 2
+  },
+  {
+    "event_id": "LK-F00727",
+    "store_id": "LK-S14",
+    "device_id": "LK-D13",
+    "event_time_utc": "2026-07-29T17:06:18Z",
+    "count_delta": 1,
+    "sequence": 726,
+    "schema_version": 2
+  },
+  {
+    "event_id": "LK-F00728",
+    "store_id": "LK-S15",
+    "device_id": "LK-D14",
+    "event_time_utc": "2026-07-29T17:07:31Z",
+    "count_delta": 1,
+    "sequence": 727,
+    "schema_version": 2
+  },
+  {
+    "event_id": "LK-F00729",
+    "store_id": "LK-S16",
+    "device_id": "LK-D15",
+    "event_time_utc": "2026-07-29T17:08:44Z",
+    "count_delta": 1,
+    "sequence": 728,
+    "schema_version": 2
+  },
+  {
+    "event_id": "LK-F00730",
+    "store_id": "LK-S17",
+    "device_id": "LK-D16",
+    "event_time_utc": "2026-07-29T17:09:57Z",
+    "count_delta": -1,
+    "sequence": 729,
+    "schema_version": 2
+  },
+  {
+    "event_id": "LK-F00731",
+    "store_id": "LK-S18",
+    "device_id": "LK-D17",
+    "event_time_utc": "2026-07-29T17:10:10Z",
+    "count_delta": 1,
+    "sequence": 730,
+    "schema_version": 2
+  },
+  {
+    "event_id": "LK-F00732",
+    "store_id": "LK-S19",
+    "device_id": "LK-D18",
+    "event_time_utc": "2026-07-29T17:11:23Z",
+    "count_delta": 1,
+    "sequence": 731,
+    "schema_version": 2
+  },
+  {
+    "event_id": "LK-F00733",
+    "store_id": "LK-S20",
+    "device_id": "LK-D19",
+    "event_time_utc": "2026-07-29T17:12:36Z",
+    "count_delta": 1,
+    "sequence": 732,
+    "schema_version": 2
+  },
+  {
+    "event_id": "LK-F00734",
+    "store_id": "LK-S21",
+    "device_id": "LK-D20",
+    "event_time_utc": "2026-07-29T17:13:49Z",
+    "count_delta": 1,
+    "sequence": 733,
+    "schema_version": 2
+  },
+  {
+    "event_id": "LK-F00735",
+    "store_id": "LK-S22",
+    "device_id": "LK-D21",
+    "event_time_utc": "2026-07-29T17:14:02Z",
+    "count_delta": 1,
+    "sequence": 734,
+    "schema_version": 2
+  },
+  {
+    "event_id": "LK-F00736",
+    "store_id": "LK-S23",
+    "device_id": "LK-D22",
+    "event_time_utc": "2026-07-29T17:15:15Z",
+    "count_delta": 1,
+    "sequence": 735,
+    "schema_version": 2
+  },
+  {
+    "event_id": "LK-F00737",
+    "store_id": "LK-S01",
+    "device_id": "LK-D00",
+    "event_time_utc": "2026-07-29T17:16:28Z",
+    "count_delta": 1,
+    "sequence": 736,
+    "schema_version": 2
+  },
+  {
+    "event_id": "LK-F00738",
+    "store_id": "LK-S02",
+    "device_id": "LK-D01",
+    "event_time_utc": "2026-07-29T17:17:41Z",
+    "count_delta": 1,
+    "sequence": 737,
+    "schema_version": 2
+  },
+  {
+    "event_id": "LK-F00739",
+    "store_id": "LK-S03",
+    "device_id": "LK-D02",
+    "event_time_utc": "2026-07-29T17:18:54Z",
+    "count_delta": -1,
+    "sequence": 738,
+    "schema_version": 2
+  },
+  {
+    "event_id": "LK-F00740",
+    "store_id": "LK-S04",
+    "device_id": "LK-D03",
+    "event_time_utc": "2026-07-29T17:19:07Z",
+    "count_delta": 1,
+    "sequence": 739,
+    "schema_version": 2
+  },
+  {
+    "event_id": "LK-F00741",
+    "store_id": "LK-S05",
+    "device_id": "LK-D04",
+    "event_time_utc": "2026-07-29T17:20:20Z",
+    "count_delta": 1,
+    "sequence": 740,
+    "schema_version": 2
+  },
+  {
+    "event_id": "LK-F00742",
+    "store_id": "LK-S06",
+    "device_id": "LK-D05",
+    "event_time_utc": "2026-07-29T17:21:33Z",
+    "count_delta": 1,
+    "sequence": 741,
+    "schema_version": 2
+  },
+  {
+    "event_id": "LK-F00743",
+    "store_id": "LK-S07",
+    "device_id": "LK-D06",
+    "event_time_utc": "2026-07-29T17:22:46Z",
+    "count_delta": 1,
+    "sequence": 742,
+    "schema_version": 2
+  },
+  {
+    "event_id": "LK-F00744",
+    "store_id": "LK-S08",
+    "device_id": "LK-D07",
+    "event_time_utc": "2026-07-29T17:23:59Z",
+    "count_delta": 1,
+    "sequence": 743,
+    "schema_version": 2
+  },
+  {
+    "event_id": "LK-F00745",
+    "store_id": "LK-S09",
+    "device_id": "LK-D08",
+    "event_time_utc": "2026-07-29T17:24:12Z",
+    "count_delta": 1,
+    "sequence": 744,
+    "schema_version": 2
+  },
+  {
+    "event_id": "LK-F00746",
+    "store_id": "LK-S10",
+    "device_id": "LK-D09",
+    "event_time_utc": "2026-07-29T17:25:25Z",
+    "count_delta": 1,
+    "sequence": 745,
+    "schema_version": 2
+  },
+  {
+    "event_id": "LK-F00747",
+    "store_id": "LK-S11",
+    "device_id": "LK-D10",
+    "event_time_utc": "2026-07-29T17:26:38Z",
+    "count_delta": 1,
+    "sequence": 746,
+    "schema_version": 2
+  },
+  {
+    "event_id": "LK-F00748",
+    "store_id": "LK-S12",
+    "device_id": "LK-D11",
+    "event_time_utc": "2026-07-29T17:27:51Z",
+    "count_delta": -1,
+    "sequence": 747,
+    "schema_version": 2
+  },
+  {
+    "event_id": "LK-F00749",
+    "store_id": "LK-S13",
+    "device_id": "LK-D12",
+    "event_time_utc": "2026-07-29T17:28:04Z",
+    "count_delta": 1,
+    "sequence": 748,
+    "schema_version": 2
+  },
+  {
+    "event_id": "LK-F00750",
+    "store_id": "LK-S14",
+    "device_id": "LK-D13",
+    "event_time_utc": "2026-07-29T17:29:17Z",
+    "count_delta": 1,
+    "sequence": 749,
+    "schema_version": 2
+  },
+  {
+    "event_id": "LK-F00751",
+    "store_id": "LK-S15",
+    "device_id": "LK-D14",
+    "event_time_utc": "2026-07-29T17:30:30Z",
+    "count_delta": 1,
+    "sequence": 750,
+    "schema_version": 2
+  },
+  {
+    "event_id": "LK-F00752",
+    "store_id": "LK-S16",
+    "device_id": "LK-D15",
+    "event_time_utc": "2026-07-29T17:31:43Z",
+    "count_delta": 1,
+    "sequence": 751,
+    "schema_version": 2
+  },
+  {
+    "event_id": "LK-F00753",
+    "store_id": "LK-S17",
+    "device_id": "LK-D16",
+    "event_time_utc": "2026-07-29T17:32:56Z",
+    "count_delta": 1,
+    "sequence": 752,
+    "schema_version": 2
+  },
+  {
+    "event_id": "LK-F00754",
+    "store_id": "LK-S18",
+    "device_id": "LK-D17",
+    "event_time_utc": "2026-07-29T17:33:09Z",
+    "count_delta": 1,
+    "sequence": 753,
+    "schema_version": 2
+  },
+  {
+    "event_id": "LK-F00755",
+    "store_id": "LK-S19",
+    "device_id": "LK-D18",
+    "event_time_utc": "2026-07-29T17:34:22Z",
+    "count_delta": 1,
+    "sequence": 754,
+    "schema_version": 2
+  },
+  {
+    "event_id": "LK-F00756",
+    "store_id": "LK-S20",
+    "device_id": "LK-D19",
+    "event_time_utc": "2026-07-29T17:35:35Z",
+    "count_delta": 1,
+    "sequence": 755,
+    "schema_version": 2
+  },
+  {
+    "event_id": "LK-F00757",
+    "store_id": "LK-S21",
+    "device_id": "LK-D20",
+    "event_time_utc": "2026-07-29T17:36:48Z",
+    "count_delta": -1,
+    "sequence": 756,
+    "schema_version": 2
+  },
+  {
+    "event_id": "LK-F00758",
+    "store_id": "LK-S22",
+    "device_id": "LK-D21",
+    "event_time_utc": "2026-07-29T17:37:01Z",
+    "count_delta": 1,
+    "sequence": 757,
+    "schema_version": 2
+  },
+  {
+    "event_id": "LK-F00759",
+    "store_id": "LK-S23",
+    "device_id": "LK-D22",
+    "event_time_utc": "2026-07-29T17:38:14Z",
+    "count_delta": 1,
+    "sequence": 758,
+    "schema_version": 2
+  },
+  {
+    "event_id": "LK-F00760",
+    "store_id": "LK-S01",
+    "device_id": "LK-D00",
+    "event_time_utc": "2026-07-29T17:39:27Z",
+    "count_delta": 1,
+    "sequence": 759,
+    "schema_version": 2
+  },
+  {
+    "event_id": "LK-F00761",
+    "store_id": "LK-S02",
+    "device_id": "LK-D01",
+    "event_time_utc": "2026-07-29T17:40:40Z",
+    "count_delta": 1,
+    "sequence": 760,
+    "schema_version": 2
+  },
+  {
+    "event_id": "LK-F00762",
+    "store_id": "LK-S03",
+    "device_id": "LK-D02",
+    "event_time_utc": "2026-07-29T17:41:53Z",
+    "count_delta": 1,
+    "sequence": 761,
+    "schema_version": 2
+  },
+  {
+    "event_id": "LK-F00763",
+    "store_id": "LK-S04",
+    "device_id": "LK-D03",
+    "event_time_utc": "2026-07-29T17:42:06Z",
+    "count_delta": 1,
+    "sequence": 762,
+    "schema_version": 2
+  },
+  {
+    "event_id": "LK-F00764",
+    "store_id": "LK-S05",
+    "device_id": "LK-D04",
+    "event_time_utc": "2026-07-29T17:43:19Z",
+    "count_delta": 1,
+    "sequence": 763,
+    "schema_version": 2
+  },
+  {
+    "event_id": "LK-F00765",
+    "store_id": "LK-S06",
+    "device_id": "LK-D05",
+    "event_time_utc": "2026-07-29T17:44:32Z",
+    "count_delta": 1,
+    "sequence": 764,
+    "schema_version": 2
+  },
+  {
+    "event_id": "LK-F00766",
+    "store_id": "LK-S07",
+    "device_id": "LK-D06",
+    "event_time_utc": "2026-07-29T17:45:45Z",
+    "count_delta": -1,
+    "sequence": 765,
+    "schema_version": 2
+  },
+  {
+    "event_id": "LK-F00767",
+    "store_id": "LK-S08",
+    "device_id": "LK-D07",
+    "event_time_utc": "2026-07-29T17:46:58Z",
+    "count_delta": 1,
+    "sequence": 766,
+    "schema_version": 2
+  },
+  {
+    "event_id": "LK-F00768",
+    "store_id": "LK-S09",
+    "device_id": "LK-D08",
+    "event_time_utc": "2026-07-29T17:47:11Z",
+    "count_delta": 1,
+    "sequence": 767,
+    "schema_version": 2
+  },
+  {
+    "event_id": "LK-F00769",
+    "store_id": "LK-S10",
+    "device_id": "LK-D09",
+    "event_time_utc": "2026-07-29T17:48:24Z",
+    "count_delta": 1,
+    "sequence": 768,
+    "schema_version": 2
+  },
+  {
+    "event_id": "LK-F00770",
+    "store_id": "LK-S11",
+    "device_id": "LK-D10",
+    "event_time_utc": "2026-07-29T17:49:37Z",
+    "count_delta": 1,
+    "sequence": 769,
+    "schema_version": 2
+  },
+  {
+    "event_id": "LK-F00771",
+    "store_id": "LK-S12",
+    "device_id": "LK-D11",
+    "event_time_utc": "2026-07-29T18:50:50Z",
+    "count_delta": 1,
+    "sequence": 770,
+    "schema_version": 2
+  },
+  {
+    "event_id": "LK-F00772",
+    "store_id": "LK-S13",
+    "device_id": "LK-D12",
+    "event_time_utc": "2026-07-29T18:51:03Z",
+    "count_delta": 1,
+    "sequence": 771,
+    "schema_version": 2
+  },
+  {
+    "event_id": "LK-F00773",
+    "store_id": "LK-S14",
+    "device_id": "LK-D13",
+    "event_time_utc": "2026-07-29T18:52:16Z",
+    "count_delta": 1,
+    "sequence": 772,
+    "schema_version": 2
+  },
+  {
+    "event_id": "LK-F00774",
+    "store_id": "LK-S15",
+    "device_id": "LK-D14",
+    "event_time_utc": "2026-07-29T18:53:29Z",
+    "count_delta": 1,
+    "sequence": 773,
+    "schema_version": 2
+  },
+  {
+    "event_id": "LK-F00775",
+    "store_id": "LK-S16",
+    "device_id": "LK-D15",
+    "event_time_utc": "2026-07-29T18:54:42Z",
+    "count_delta": -1,
+    "sequence": 774,
+    "schema_version": 2
+  },
+  {
+    "event_id": "LK-F00776",
+    "store_id": "LK-S17",
+    "device_id": "LK-D16",
+    "event_time_utc": "2026-07-29T18:55:55Z",
+    "count_delta": 1,
+    "sequence": 775,
+    "schema_version": 2
+  },
+  {
+    "event_id": "LK-F00777",
+    "store_id": "LK-S18",
+    "device_id": "LK-D17",
+    "event_time_utc": "2026-07-29T18:56:08Z",
+    "count_delta": 1,
+    "sequence": 776,
+    "schema_version": 2
+  },
+  {
+    "event_id": "LK-F00778",
+    "store_id": "LK-S19",
+    "device_id": "LK-D18",
+    "event_time_utc": "2026-07-29T18:57:21Z",
+    "count_delta": 1,
+    "sequence": 777,
+    "schema_version": 2
+  },
+  {
+    "event_id": "LK-F00779",
+    "store_id": "LK-S20",
+    "device_id": "LK-D19",
+    "event_time_utc": "2026-07-29T18:58:34Z",
+    "count_delta": 1,
+    "sequence": 778,
+    "schema_version": 2
+  },
+  {
+    "event_id": "LK-F00780",
+    "store_id": "LK-S21",
+    "device_id": "LK-D20",
+    "event_time_utc": "2026-07-29T18:59:47Z",
+    "count_delta": 1,
+    "sequence": 779,
+    "schema_version": 2
+  },
+  {
+    "event_id": "LK-F00781",
+    "store_id": "LK-S22",
+    "device_id": "LK-D21",
+    "event_time_utc": "2026-07-29T18:00:00Z",
+    "count_delta": 1,
+    "sequence": 780,
+    "schema_version": 2
+  },
+  {
+    "event_id": "LK-F00782",
+    "store_id": "LK-S23",
+    "device_id": "LK-D22",
+    "event_time_utc": "2026-07-29T18:01:13Z",
+    "count_delta": 1,
+    "sequence": 781,
+    "schema_version": 2
+  },
+  {
+    "event_id": "LK-F00783",
+    "store_id": "LK-S01",
+    "device_id": "LK-D00",
+    "event_time_utc": "2026-07-29T18:02:26Z",
+    "count_delta": 1,
+    "sequence": 782,
+    "schema_version": 2
+  },
+  {
+    "event_id": "LK-F00784",
+    "store_id": "LK-S02",
+    "device_id": "LK-D01",
+    "event_time_utc": "2026-07-29T18:03:39Z",
+    "count_delta": -1,
+    "sequence": 783,
+    "schema_version": 2
+  },
+  {
+    "event_id": "LK-F00785",
+    "store_id": "LK-S03",
+    "device_id": "LK-D02",
+    "event_time_utc": "2026-07-29T18:04:52Z",
+    "count_delta": 1,
+    "sequence": 784,
+    "schema_version": 2
+  },
+  {
+    "event_id": "LK-F00786",
+    "store_id": "LK-S04",
+    "device_id": "LK-D03",
+    "event_time_utc": "2026-07-29T18:05:05Z",
+    "count_delta": 1,
+    "sequence": 785,
+    "schema_version": 2
+  },
+  {
+    "event_id": "LK-F00787",
+    "store_id": "LK-S05",
+    "device_id": "LK-D04",
+    "event_time_utc": "2026-07-29T18:06:18Z",
+    "count_delta": 1,
+    "sequence": 786,
+    "schema_version": 2
+  },
+  {
+    "event_id": "LK-F00788",
+    "store_id": "LK-S06",
+    "device_id": "LK-D05",
+    "event_time_utc": "2026-07-29T18:07:31Z",
+    "count_delta": 1,
+    "sequence": 787,
+    "schema_version": 2
+  },
+  {
+    "event_id": "LK-F00789",
+    "store_id": "LK-S07",
+    "device_id": "LK-D06",
+    "event_time_utc": "2026-07-29T18:08:44Z",
+    "count_delta": 1,
+    "sequence": 788,
+    "schema_version": 2
+  },
+  {
+    "event_id": "LK-F00790",
+    "store_id": "LK-S08",
+    "device_id": "LK-D07",
+    "event_time_utc": "2026-07-29T18:09:57Z",
+    "count_delta": 1,
+    "sequence": 789,
+    "schema_version": 2
+  },
+  {
+    "event_id": "LK-F00791",
+    "store_id": "LK-S09",
+    "device_id": "LK-D08",
+    "event_time_utc": "2026-07-29T18:10:10Z",
+    "count_delta": 1,
+    "sequence": 790,
+    "schema_version": 2
+  },
+  {
+    "event_id": "LK-F00792",
+    "store_id": "LK-S10",
+    "device_id": "LK-D09",
+    "event_time_utc": "2026-07-29T18:11:23Z",
+    "count_delta": 1,
+    "sequence": 791,
+    "schema_version": 2
+  },
+  {
+    "event_id": "LK-F00793",
+    "store_id": "LK-S11",
+    "device_id": "LK-D10",
+    "event_time_utc": "2026-07-29T18:12:36Z",
+    "count_delta": -1,
+    "sequence": 792,
+    "schema_version": 2
+  },
+  {
+    "event_id": "LK-F00794",
+    "store_id": "LK-S12",
+    "device_id": "LK-D11",
+    "event_time_utc": "2026-07-29T18:13:49Z",
+    "count_delta": 1,
+    "sequence": 793,
+    "schema_version": 2
+  },
+  {
+    "event_id": "LK-F00795",
+    "store_id": "LK-S13",
+    "device_id": "LK-D12",
+    "event_time_utc": "2026-07-29T18:14:02Z",
+    "count_delta": 1,
+    "sequence": 794,
+    "schema_version": 2
+  },
+  {
+    "event_id": "LK-F00796",
+    "store_id": "LK-S14",
+    "device_id": "LK-D13",
+    "event_time_utc": "2026-07-29T18:15:15Z",
+    "count_delta": 1,
+    "sequence": 795,
+    "schema_version": 2
+  },
+  {
+    "event_id": "LK-F00797",
+    "store_id": "LK-S15",
+    "device_id": "LK-D14",
+    "event_time_utc": "2026-07-29T18:16:28Z",
+    "count_delta": 1,
+    "sequence": 796,
+    "schema_version": 2
+  },
+  {
+    "event_id": "LK-F00798",
+    "store_id": "LK-S16",
+    "device_id": "LK-D15",
+    "event_time_utc": "2026-07-29T18:17:41Z",
+    "count_delta": 1,
+    "sequence": 797,
+    "schema_version": 2
+  },
+  {
+    "event_id": "LK-F00799",
+    "store_id": "LK-S17",
+    "device_id": "LK-D16",
+    "event_time_utc": "2026-07-29T18:18:54Z",
+    "count_delta": 1,
+    "sequence": 798,
+    "schema_version": 2
+  },
+  {
+    "event_id": "LK-F00800",
+    "store_id": "LK-S18",
+    "device_id": "LK-D17",
+    "event_time_utc": "2026-07-29T18:19:07Z",
+    "count_delta": 1,
+    "sequence": 799,
+    "schema_version": 2
+  },
+  {
+    "event_id": "LK-F00801",
+    "store_id": "LK-S19",
+    "device_id": "LK-D18",
+    "event_time_utc": "2026-07-29T18:20:20Z",
+    "count_delta": 1,
+    "sequence": 800,
+    "schema_version": 2
+  },
+  {
+    "event_id": "LK-F00802",
+    "store_id": "LK-S20",
+    "device_id": "LK-D19",
+    "event_time_utc": "2026-07-29T18:21:33Z",
+    "count_delta": -1,
+    "sequence": 801,
+    "schema_version": 2
+  },
+  {
+    "event_id": "LK-F00803",
+    "store_id": "LK-S21",
+    "device_id": "LK-D20",
+    "event_time_utc": "2026-07-29T18:22:46Z",
+    "count_delta": 1,
+    "sequence": 802,
+    "schema_version": 2
+  },
+  {
+    "event_id": "LK-F00804",
+    "store_id": "LK-S22",
+    "device_id": "LK-D21",
+    "event_time_utc": "2026-07-29T18:23:59Z",
+    "count_delta": 1,
+    "sequence": 803,
+    "schema_version": 2
+  },
+  {
+    "event_id": "LK-F00805",
+    "store_id": "LK-S23",
+    "device_id": "LK-D22",
+    "event_time_utc": "2026-07-29T18:24:12Z",
+    "count_delta": 1,
+    "sequence": 804,
+    "schema_version": 2
+  },
+  {
+    "event_id": "LK-F00806",
+    "store_id": "LK-S01",
+    "device_id": "LK-D00",
+    "event_time_utc": "2026-07-29T18:25:25Z",
+    "count_delta": 1,
+    "sequence": 805,
+    "schema_version": 2
+  },
+  {
+    "event_id": "LK-F00807",
+    "store_id": "LK-S02",
+    "device_id": "LK-D01",
+    "event_time_utc": "2026-07-29T18:26:38Z",
+    "count_delta": 1,
+    "sequence": 806,
+    "schema_version": 2
+  },
+  {
+    "event_id": "LK-F00808",
+    "store_id": "LK-S03",
+    "device_id": "LK-D02",
+    "event_time_utc": "2026-07-29T18:27:51Z",
+    "count_delta": 1,
+    "sequence": 807,
+    "schema_version": 2
+  },
+  {
+    "event_id": "LK-F00809",
+    "store_id": "LK-S04",
+    "device_id": "LK-D03",
+    "event_time_utc": "2026-07-29T18:28:04Z",
+    "count_delta": 1,
+    "sequence": 808,
+    "schema_version": 2
+  },
+  {
+    "event_id": "LK-F00810",
+    "store_id": "LK-S05",
+    "device_id": "LK-D04",
+    "event_time_utc": "2026-07-29T18:29:17Z",
+    "count_delta": 1,
+    "sequence": 809,
+    "schema_version": 2
+  },
+  {
+    "event_id": "LK-F00811",
+    "store_id": "LK-S06",
+    "device_id": "LK-D05",
+    "event_time_utc": "2026-07-29T18:30:30Z",
+    "count_delta": -1,
+    "sequence": 810,
+    "schema_version": 2
+  },
+  {
+    "event_id": "LK-F00812",
+    "store_id": "LK-S07",
+    "device_id": "LK-D06",
+    "event_time_utc": "2026-07-29T18:31:43Z",
+    "count_delta": 1,
+    "sequence": 811,
+    "schema_version": 2
+  },
+  {
+    "event_id": "LK-F00813",
+    "store_id": "LK-S08",
+    "device_id": "LK-D07",
+    "event_time_utc": "2026-07-29T18:32:56Z",
+    "count_delta": 1,
+    "sequence": 812,
+    "schema_version": 2
+  },
+  {
+    "event_id": "LK-F00814",
+    "store_id": "LK-S09",
+    "device_id": "LK-D08",
+    "event_time_utc": "2026-07-29T18:33:09Z",
+    "count_delta": 1,
+    "sequence": 813,
+    "schema_version": 2
+  },
+  {
+    "event_id": "LK-F00815",
+    "store_id": "LK-S10",
+    "device_id": "LK-D09",
+    "event_time_utc": "2026-07-29T18:34:22Z",
+    "count_delta": 1,
+    "sequence": 814,
+    "schema_version": 2
+  },
+  {
+    "event_id": "LK-F00816",
+    "store_id": "LK-S11",
+    "device_id": "LK-D10",
+    "event_time_utc": "2026-07-29T18:35:35Z",
+    "count_delta": 1,
+    "sequence": 815,
+    "schema_version": 2
+  },
+  {
+    "event_id": "LK-F00817",
+    "store_id": "LK-S12",
+    "device_id": "LK-D11",
+    "event_time_utc": "2026-07-29T18:36:48Z",
+    "count_delta": 1,
+    "sequence": 816,
+    "schema_version": 2
+  },
+  {
+    "event_id": "LK-F00818",
+    "store_id": "LK-S13",
+    "device_id": "LK-D12",
+    "event_time_utc": "2026-07-29T18:37:01Z",
+    "count_delta": 1,
+    "sequence": 817,
+    "schema_version": 2
+  },
+  {
+    "event_id": "LK-F00819",
+    "store_id": "LK-S14",
+    "device_id": "LK-D13",
+    "event_time_utc": "2026-07-29T18:38:14Z",
+    "count_delta": 1,
+    "sequence": 818,
+    "schema_version": 2
+  },
+  {
+    "event_id": "LK-F00820",
+    "store_id": "LK-S15",
+    "device_id": "LK-D14",
+    "event_time_utc": "2026-07-29T18:39:27Z",
+    "count_delta": -1,
+    "sequence": 819,
+    "schema_version": 2
+  },
+  {
+    "event_id": "LK-F00821",
+    "store_id": "LK-S16",
+    "device_id": "LK-D15",
+    "event_time_utc": "2026-07-29T18:40:40Z",
+    "count_delta": 1,
+    "sequence": 820,
+    "schema_version": 2
+  },
+  {
+    "event_id": "LK-F00822",
+    "store_id": "LK-S17",
+    "device_id": "LK-D16",
+    "event_time_utc": "2026-07-29T18:41:53Z",
+    "count_delta": 1,
+    "sequence": 821,
+    "schema_version": 2
+  },
+  {
+    "event_id": "LK-F00823",
+    "store_id": "LK-S18",
+    "device_id": "LK-D17",
+    "event_time_utc": "2026-07-29T18:42:06Z",
+    "count_delta": 1,
+    "sequence": 822,
+    "schema_version": 2
+  },
+  {
+    "event_id": "LK-F00824",
+    "store_id": "LK-S19",
+    "device_id": "LK-D18",
+    "event_time_utc": "2026-07-29T18:43:19Z",
+    "count_delta": 1,
+    "sequence": 823,
+    "schema_version": 2
+  },
+  {
+    "event_id": "LK-F00825",
+    "store_id": "LK-S20",
+    "device_id": "LK-D19",
+    "event_time_utc": "2026-07-29T18:44:32Z",
+    "count_delta": 1,
+    "sequence": 824,
+    "schema_version": 2
+  },
+  {
+    "event_id": "LK-F00826",
+    "store_id": "LK-S21",
+    "device_id": "LK-D20",
+    "event_time_utc": "2026-07-29T18:45:45Z",
+    "count_delta": 1,
+    "sequence": 825,
+    "schema_version": 2
+  },
+  {
+    "event_id": "LK-F00827",
+    "store_id": "LK-S22",
+    "device_id": "LK-D21",
+    "event_time_utc": "2026-07-29T18:46:58Z",
+    "count_delta": 1,
+    "sequence": 826,
+    "schema_version": 2
+  },
+  {
+    "event_id": "LK-F00828",
+    "store_id": "LK-S23",
+    "device_id": "LK-D22",
+    "event_time_utc": "2026-07-29T18:47:11Z",
+    "count_delta": 1,
+    "sequence": 827,
+    "schema_version": 2
+  },
+  {
+    "event_id": "LK-F00829",
+    "store_id": "LK-S01",
+    "device_id": "LK-D00",
+    "event_time_utc": "2026-07-29T18:48:24Z",
+    "count_delta": -1,
+    "sequence": 828,
+    "schema_version": 2
+  },
+  {
+    "event_id": "LK-F00830",
+    "store_id": "LK-S02",
+    "device_id": "LK-D01",
+    "event_time_utc": "2026-07-29T18:49:37Z",
+    "count_delta": 1,
+    "sequence": 829,
+    "schema_version": 2
+  },
+  {
+    "event_id": "LK-F00831",
+    "store_id": "LK-S03",
+    "device_id": "LK-D02",
+    "event_time_utc": "2026-07-29T18:50:50Z",
+    "count_delta": 1,
+    "sequence": 830,
+    "schema_version": 2
+  },
+  {
+    "event_id": "LK-F00832",
+    "store_id": "LK-S04",
+    "device_id": "LK-D03",
+    "event_time_utc": "2026-07-29T18:51:03Z",
+    "count_delta": 1,
+    "sequence": 831,
+    "schema_version": 2
+  },
+  {
+    "event_id": "LK-F00833",
+    "store_id": "LK-S05",
+    "device_id": "LK-D04",
+    "event_time_utc": "2026-07-29T18:52:16Z",
+    "count_delta": 1,
+    "sequence": 832,
+    "schema_version": 2
+  },
+  {
+    "event_id": "LK-F00834",
+    "store_id": "LK-S06",
+    "device_id": "LK-D05",
+    "event_time_utc": "2026-07-29T18:53:29Z",
+    "count_delta": 1,
+    "sequence": 833,
+    "schema_version": 2
+  },
+  {
+    "event_id": "LK-F00835",
+    "store_id": "LK-S07",
+    "device_id": "LK-D06",
+    "event_time_utc": "2026-07-29T18:54:42Z",
+    "count_delta": 1,
+    "sequence": 834,
+    "schema_version": 2
+  },
+  {
+    "event_id": "LK-F00836",
+    "store_id": "LK-S08",
+    "device_id": "LK-D07",
+    "event_time_utc": "2026-07-29T18:55:55Z",
+    "count_delta": 1,
+    "sequence": 835,
+    "schema_version": 2
+  },
+  {
+    "event_id": "LK-F00837",
+    "store_id": "LK-S09",
+    "device_id": "LK-D08",
+    "event_time_utc": "2026-07-29T18:56:08Z",
+    "count_delta": 1,
+    "sequence": 836,
+    "schema_version": 2
+  },
+  {
+    "event_id": "LK-F00838",
+    "store_id": "LK-S10",
+    "device_id": "LK-D09",
+    "event_time_utc": "2026-07-29T18:57:21Z",
+    "count_delta": -1,
+    "sequence": 837,
+    "schema_version": 2
+  },
+  {
+    "event_id": "LK-F00839",
+    "store_id": "LK-S11",
+    "device_id": "LK-D10",
+    "event_time_utc": "2026-07-29T18:58:34Z",
+    "count_delta": 1,
+    "sequence": 838,
+    "schema_version": 2
+  },
+  {
+    "event_id": "LK-F00840",
+    "store_id": "LK-S12",
+    "device_id": "LK-D11",
+    "event_time_utc": "2026-07-29T18:59:47Z",
+    "count_delta": 1,
+    "sequence": 839,
+    "schema_version": 2
+  },
+  {
+    "event_id": "LK-F00004",
+    "store_id": "LK-S04",
+    "device_id": "LK-D03",
+    "event_time_utc": "2026-07-29T07:03:39Z",
+    "count_delta": 1,
+    "sequence": 3,
+    "schema_version": 2
+  },
+  {
+    "event_id": "LK-F00078",
+    "store_id": "LK-S09",
+    "device_id": "LK-D08",
+    "event_time_utc": "2026-07-29T08:17:41Z",
+    "count_delta": 1,
+    "sequence": 77,
+    "schema_version": 2
+  },
+  {
+    "event_id": "LK-F00151",
+    "store_id": "LK-S13",
+    "device_id": "LK-D12",
+    "event_time_utc": "2026-07-29T09:30:30Z",
+    "count_delta": 1,
+    "sequence": 150,
+    "schema_version": 2
+  },
+  {
+    "event_id": "LK-F00302",
+    "store_id": "LK-S03",
+    "device_id": "LK-D02",
+    "event_time_utc": "2026-07-29T11:01:13Z",
+    "count_delta": 1,
+    "sequence": 301,
+    "schema_version": 2
+  },
+  {
+    "event_id": "LK-F00451",
+    "store_id": "LK-S14",
+    "device_id": "LK-D13",
+    "event_time_utc": "2026-07-29T13:30:30Z",
+    "count_delta": -1,
+    "sequence": 450,
+    "schema_version": 2
+  },
+  {
+    "event_id": "LK-F00613",
+    "store_id": "LK-S15",
+    "device_id": "LK-D14",
+    "event_time_utc": "2026-07-29T15:12:36Z",
+    "count_delta": -1,
+    "sequence": 612,
+    "schema_version": 2
+  },
+  {
+    "event_id": "LK-F00800",
+    "store_id": "LK-S18",
+    "device_id": "LK-D17",
+    "event_time_utc": "2026-07-29T18:19:07Z",
+    "count_delta": 1,
+    "sequence": 799,
+    "schema_version": 2
+  }
+]

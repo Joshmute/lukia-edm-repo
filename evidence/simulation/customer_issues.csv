@@ -1,0 +1,566 @@
+row,field,reason
+20,district,unrecognised; needs steward review
+24,email,invalid; original retained only in restricted raw zone
+39,email,invalid; original retained only in restricted raw zone
+47,district,unrecognised; needs steward review
+56,email,invalid; original retained only in restricted raw zone
+72,phone,invalid; original retained only in restricted raw zone
+79,email,invalid; original retained only in restricted raw zone
+90,district,unrecognised; needs steward review
+97,email,invalid; original retained only in restricted raw zone
+98,email,invalid; original retained only in restricted raw zone
+119,phone,invalid; original retained only in restricted raw zone
+139,phone,invalid; original retained only in restricted raw zone
+153,district,unrecognised; needs steward review
+163,phone,invalid; original retained only in restricted raw zone
+176,email,invalid; original retained only in restricted raw zone
+206,phone,invalid; original retained only in restricted raw zone
+216,phone,invalid; original retained only in restricted raw zone
+221,district,unrecognised; needs steward review
+235,district,unrecognised; needs steward review
+254,district,unrecognised; needs steward review
+258,district,unrecognised; needs steward review
+259,email,invalid; original retained only in restricted raw zone
+260,email,invalid; original retained only in restricted raw zone
+275,phone,invalid; original retained only in restricted raw zone
+288,district,unrecognised; needs steward review
+291,phone,invalid; original retained only in restricted raw zone
+300,email,invalid; original retained only in restricted raw zone
+301,phone,invalid; original retained only in restricted raw zone
+306,district,unrecognised; needs steward review
+312,district,unrecognised; needs steward review
+314,email,invalid; original retained only in restricted raw zone
+323,district,unrecognised; needs steward review
+325,email,invalid; original retained only in restricted raw zone
+348,phone,invalid; original retained only in restricted raw zone
+372,district,unrecognised; needs steward review
+373,email,invalid; original retained only in restricted raw zone
+389,phone,invalid; original retained only in restricted raw zone
+391,email,invalid; original retained only in restricted raw zone
+412,email,invalid; original retained only in restricted raw zone
+415,phone,invalid; original retained only in restricted raw zone
+415,district,unrecognised; needs steward review
+419,district,unrecognised; needs steward review
+423,phone,invalid; original retained only in restricted raw zone
+434,phone,invalid; original retained only in restricted raw zone
+439,email,invalid; original retained only in restricted raw zone
+440,district,unrecognised; needs steward review
+454,district,unrecognised; needs steward review
+465,phone,invalid; original retained only in restricted raw zone
+481,district,unrecognised; needs steward review
+488,district,unrecognised; needs steward review
+494,district,unrecognised; needs steward review
+498,email,invalid; original retained only in restricted raw zone
+502,phone,invalid; original retained only in restricted raw zone
+507,phone,invalid; original retained only in restricted raw zone
+509,district,unrecognised; needs steward review
+521,district,unrecognised; needs steward review
+544,phone,invalid; original retained only in restricted raw zone
+556,email,invalid; original retained only in restricted raw zone
+562,phone,invalid; original retained only in restricted raw zone
+567,phone,invalid; original retained only in restricted raw zone
+574,phone,invalid; original retained only in restricted raw zone
+577,email,invalid; original retained only in restricted raw zone
+578,district,unrecognised; needs steward review
+599,district,unrecognised; needs steward review
+600,email,invalid; original retained only in restricted raw zone
+609,phone,invalid; original retained only in restricted raw zone
+653,district,unrecognised; needs steward review
+655,district,unrecognised; needs steward review
+660,email,invalid; original retained only in restricted raw zone
+663,phone,invalid; original retained only in restricted raw zone
+668,phone,invalid; original retained only in restricted raw zone
+681,district,unrecognised; needs steward review
+684,phone,invalid; original retained only in restricted raw zone
+688,email,invalid; original retained only in restricted raw zone
+688,district,unrecognised; needs steward review
+712,district,unrecognised; needs steward review
+715,district,unrecognised; needs steward review
+720,district,unrecognised; needs steward review
+721,email,invalid; original retained only in restricted raw zone
+731,phone,invalid; original retained only in restricted raw zone
+735,district,unrecognised; needs steward review
+747,district,unrecognised; needs steward review
+754,email,invalid; original retained only in restricted raw zone
+757,phone,invalid; original retained only in restricted raw zone
+764,district,unrecognised; needs steward review
+777,phone,invalid; original retained only in restricted raw zone
+779,district,unrecognised; needs steward review
+780,email,invalid; original retained only in restricted raw zone
+786,phone,invalid; original retained only in restricted raw zone
+797,email,invalid; original retained only in restricted raw zone
+799,district,unrecognised; needs steward review
+800,phone,invalid; original retained only in restricted raw zone
+806,phone,invalid; original retained only in restricted raw zone
+810,district,unrecognised; needs steward review
+821,phone,invalid; original retained only in restricted raw zone
+829,district,unrecognised; needs steward review
+832,phone,invalid; original retained only in restricted raw zone
+833,phone,invalid; original retained only in restricted raw zone
+851,phone,invalid; original retained only in restricted raw zone
+857,district,unrecognised; needs steward review
+858,district,unrecognised; needs steward review
+865,email,invalid; original retained only in restricted raw zone
+869,district,unrecognised; needs steward review
+874,phone,invalid; original retained only in restricted raw zone
+879,email,invalid; original retained only in restricted raw zone
+893,district,unrecognised; needs steward review
+902,phone,invalid; original retained only in restricted raw zone
+903,phone,invalid; original retained only in restricted raw zone
+921,district,unrecognised; needs steward review
+922,district,unrecognised; needs steward review
+928,district,unrecognised; needs steward review
+935,district,unrecognised; needs steward review
+960,district,unrecognised; needs steward review
+961,phone,invalid; original retained only in restricted raw zone
+963,district,unrecognised; needs steward review
+980,district,unrecognised; needs steward review
+984,district,unrecognised; needs steward review
+1025,email,invalid; original retained only in restricted raw zone
+1033,district,unrecognised; needs steward review
+1035,email,invalid; original retained only in restricted raw zone
+1039,district,unrecognised; needs steward review
+1059,phone,invalid; original retained only in restricted raw zone
+1068,email,invalid; original retained only in restricted raw zone
+1069,phone,invalid; original retained only in restricted raw zone
+1070,phone,invalid; original retained only in restricted raw zone
+1073,district,unrecognised; needs steward review
+1075,district,unrecognised; needs steward review
+1076,district,unrecognised; needs steward review
+1091,email,invalid; original retained only in restricted raw zone
+1092,phone,invalid; original retained only in restricted raw zone
+1101,phone,invalid; original retained only in restricted raw zone
+1107,district,unrecognised; needs steward review
+1109,district,unrecognised; needs steward review
+1110,district,unrecognised; needs steward review
+1137,district,unrecognised; needs steward review
+1138,district,unrecognised; needs steward review
+1143,district,unrecognised; needs steward review
+1169,phone,invalid; original retained only in restricted raw zone
+1176,phone,invalid; original retained only in restricted raw zone
+1179,email,invalid; original retained only in restricted raw zone
+1183,email,invalid; original retained only in restricted raw zone
+1184,email,invalid; original retained only in restricted raw zone
+1188,phone,invalid; original retained only in restricted raw zone
+1197,email,invalid; original retained only in restricted raw zone
+1200,district,unrecognised; needs steward review
+1201,phone,invalid; original retained only in restricted raw zone
+1203,phone,invalid; original retained only in restricted raw zone
+1207,district,unrecognised; needs steward review
+1215,district,unrecognised; needs steward review
+1229,email,invalid; original retained only in restricted raw zone
+1238,email,invalid; original retained only in restricted raw zone
+1266,district,unrecognised; needs steward review
+1273,district,unrecognised; needs steward review
+1284,phone,invalid; original retained only in restricted raw zone
+1295,email,invalid; original retained only in restricted raw zone
+1317,email,invalid; original retained only in restricted raw zone
+1326,district,unrecognised; needs steward review
+1345,district,unrecognised; needs steward review
+1348,district,unrecognised; needs steward review
+1359,district,unrecognised; needs steward review
+1403,district,unrecognised; needs steward review
+1418,email,invalid; original retained only in restricted raw zone
+1431,phone,invalid; original retained only in restricted raw zone
+1441,phone,invalid; original retained only in restricted raw zone
+1453,email,invalid; original retained only in restricted raw zone
+1455,district,unrecognised; needs steward review
+1477,district,unrecognised; needs steward review
+1481,district,unrecognised; needs steward review
+1487,email,invalid; original retained only in restricted raw zone
+1494,email,invalid; original retained only in restricted raw zone
+1553,phone,invalid; original retained only in restricted raw zone
+1558,email,invalid; original retained only in restricted raw zone
+1558,district,unrecognised; needs steward review
+1568,district,unrecognised; needs steward review
+1576,district,unrecognised; needs steward review
+1579,phone,invalid; original retained only in restricted raw zone
+1582,email,invalid; original retained only in restricted raw zone
+1584,district,unrecognised; needs steward review
+1590,district,unrecognised; needs steward review
+1600,district,unrecognised; needs steward review
+1604,email,invalid; original retained only in restricted raw zone
+1621,email,invalid; original retained only in restricted raw zone
+1636,phone,invalid; original retained only in restricted raw zone
+1639,district,unrecognised; needs steward review
+1652,district,unrecognised; needs steward review
+1664,phone,invalid; original retained only in restricted raw zone
+1666,email,invalid; original retained only in restricted raw zone
+1684,district,unrecognised; needs steward review
+1704,district,unrecognised; needs steward review
+1710,district,unrecognised; needs steward review
+1712,email,invalid; original retained only in restricted raw zone
+1736,district,unrecognised; needs steward review
+1737,phone,invalid; original retained only in restricted raw zone
+1748,district,unrecognised; needs steward review
+1764,phone,invalid; original retained only in restricted raw zone
+1792,district,unrecognised; needs steward review
+1797,email,invalid; original retained only in restricted raw zone
+1798,phone,invalid; original retained only in restricted raw zone
+1799,district,unrecognised; needs steward review
+1806,email,invalid; original retained only in restricted raw zone
+1807,district,unrecognised; needs steward review
+1810,district,unrecognised; needs steward review
+1814,email,invalid; original retained only in restricted raw zone
+1820,email,invalid; original retained only in restricted raw zone
+1826,email,invalid; original retained only in restricted raw zone
+1830,phone,invalid; original retained only in restricted raw zone
+1850,district,unrecognised; needs steward review
+1864,district,unrecognised; needs steward review
+1874,email,invalid; original retained only in restricted raw zone
+1882,district,unrecognised; needs steward review
+1897,district,unrecognised; needs steward review
+1917,phone,invalid; original retained only in restricted raw zone
+1918,phone,invalid; original retained only in restricted raw zone
+1921,district,unrecognised; needs steward review
+1934,phone,invalid; original retained only in restricted raw zone
+1934,district,unrecognised; needs steward review
+1938,phone,invalid; original retained only in restricted raw zone
+1938,email,invalid; original retained only in restricted raw zone
+1950,district,unrecognised; needs steward review
+1951,district,unrecognised; needs steward review
+1953,phone,invalid; original retained only in restricted raw zone
+1968,district,unrecognised; needs steward review
+1980,email,invalid; original retained only in restricted raw zone
+1996,phone,invalid; original retained only in restricted raw zone
+2015,email,invalid; original retained only in restricted raw zone
+2019,district,unrecognised; needs steward review
+2052,district,unrecognised; needs steward review
+2054,phone,invalid; original retained only in restricted raw zone
+2089,district,unrecognised; needs steward review
+2102,phone,invalid; original retained only in restricted raw zone
+2104,phone,invalid; original retained only in restricted raw zone
+2112,phone,invalid; original retained only in restricted raw zone
+2114,district,unrecognised; needs steward review
+2116,district,unrecognised; needs steward review
+2124,district,unrecognised; needs steward review
+2131,district,unrecognised; needs steward review
+2144,email,invalid; original retained only in restricted raw zone
+2198,district,unrecognised; needs steward review
+2209,email,invalid; original retained only in restricted raw zone
+2231,district,unrecognised; needs steward review
+2249,email,invalid; original retained only in restricted raw zone
+2251,district,unrecognised; needs steward review
+2252,district,unrecognised; needs steward review
+2256,phone,invalid; original retained only in restricted raw zone
+2271,district,unrecognised; needs steward review
+2288,phone,invalid; original retained only in restricted raw zone
+2291,phone,invalid; original retained only in restricted raw zone
+2298,district,unrecognised; needs steward review
+2302,district,unrecognised; needs steward review
+2321,email,invalid; original retained only in restricted raw zone
+2329,email,invalid; original retained only in restricted raw zone
+2330,email,invalid; original retained only in restricted raw zone
+2334,district,unrecognised; needs steward review
+2335,email,invalid; original retained only in restricted raw zone
+2356,district,unrecognised; needs steward review
+2391,email,invalid; original retained only in restricted raw zone
+2394,phone,invalid; original retained only in restricted raw zone
+2404,email,invalid; original retained only in restricted raw zone
+2410,district,unrecognised; needs steward review
+2413,email,invalid; original retained only in restricted raw zone
+2414,phone,invalid; original retained only in restricted raw zone
+2422,district,unrecognised; needs steward review
+2429,email,invalid; original retained only in restricted raw zone
+2431,phone,invalid; original retained only in restricted raw zone
+2438,district,unrecognised; needs steward review
+2452,email,invalid; original retained only in restricted raw zone
+2461,district,unrecognised; needs steward review
+2463,email,invalid; original retained only in restricted raw zone
+2465,email,invalid; original retained only in restricted raw zone
+2465,district,unrecognised; needs steward review
+2467,district,unrecognised; needs steward review
+2468,phone,invalid; original retained only in restricted raw zone
+2475,district,unrecognised; needs steward review
+2487,phone,invalid; original retained only in restricted raw zone
+2493,email,invalid; original retained only in restricted raw zone
+2495,district,unrecognised; needs steward review
+2500,phone,invalid; original retained only in restricted raw zone
+2504,district,unrecognised; needs steward review
+2505,phone,invalid; original retained only in restricted raw zone
+2517,district,unrecognised; needs steward review
+2518,email,invalid; original retained only in restricted raw zone
+2526,email,invalid; original retained only in restricted raw zone
+2550,district,unrecognised; needs steward review
+2556,district,unrecognised; needs steward review
+2560,district,unrecognised; needs steward review
+2561,email,invalid; original retained only in restricted raw zone
+2581,district,unrecognised; needs steward review
+2584,phone,invalid; original retained only in restricted raw zone
+2594,district,unrecognised; needs steward review
+2597,district,unrecognised; needs steward review
+2604,district,unrecognised; needs steward review
+2612,email,invalid; original retained only in restricted raw zone
+2613,district,unrecognised; needs steward review
+2624,email,invalid; original retained only in restricted raw zone
+2631,email,invalid; original retained only in restricted raw zone
+2633,district,unrecognised; needs steward review
+2640,district,unrecognised; needs steward review
+2680,phone,invalid; original retained only in restricted raw zone
+2685,phone,invalid; original retained only in restricted raw zone
+2688,email,invalid; original retained only in restricted raw zone
+2688,district,unrecognised; needs steward review
+2704,email,invalid; original retained only in restricted raw zone
+2732,district,unrecognised; needs steward review
+2742,district,unrecognised; needs steward review
+2744,phone,invalid; original retained only in restricted raw zone
+2749,district,unrecognised; needs steward review
+2760,district,unrecognised; needs steward review
+2763,phone,invalid; original retained only in restricted raw zone
+2769,email,invalid; original retained only in restricted raw zone
+2769,district,unrecognised; needs steward review
+2770,phone,invalid; original retained only in restricted raw zone
+2776,email,invalid; original retained only in restricted raw zone
+2789,district,unrecognised; needs steward review
+2792,phone,invalid; original retained only in restricted raw zone
+2795,email,invalid; original retained only in restricted raw zone
+2807,email,invalid; original retained only in restricted raw zone
+2809,district,unrecognised; needs steward review
+2813,district,unrecognised; needs steward review
+2817,district,unrecognised; needs steward review
+2831,district,unrecognised; needs steward review
+2835,district,unrecognised; needs steward review
+2851,phone,invalid; original retained only in restricted raw zone
+2854,district,unrecognised; needs steward review
+2859,district,unrecognised; needs steward review
+2868,email,invalid; original retained only in restricted raw zone
+2869,email,invalid; original retained only in restricted raw zone
+2875,email,invalid; original retained only in restricted raw zone
+2879,email,invalid; original retained only in restricted raw zone
+2882,phone,invalid; original retained only in restricted raw zone
+2891,district,unrecognised; needs steward review
+2905,district,unrecognised; needs steward review
+2924,district,unrecognised; needs steward review
+2943,district,unrecognised; needs steward review
+2948,phone,invalid; original retained only in restricted raw zone
+2958,email,invalid; original retained only in restricted raw zone
+2962,district,unrecognised; needs steward review
+2963,phone,invalid; original retained only in restricted raw zone
+2964,email,invalid; original retained only in restricted raw zone
+2964,district,unrecognised; needs steward review
+2966,district,unrecognised; needs steward review
+2976,district,unrecognised; needs steward review
+3002,phone,invalid; original retained only in restricted raw zone
+3019,district,unrecognised; needs steward review
+3042,phone,invalid; original retained only in restricted raw zone
+3075,phone,invalid; original retained only in restricted raw zone
+3087,phone,invalid; original retained only in restricted raw zone
+3093,phone,invalid; original retained only in restricted raw zone
+3095,phone,invalid; original retained only in restricted raw zone
+3100,email,invalid; original retained only in restricted raw zone
+3104,district,unrecognised; needs steward review
+3108,phone,invalid; original retained only in restricted raw zone
+3118,phone,invalid; original retained only in restricted raw zone
+3119,district,unrecognised; needs steward review
+3120,email,invalid; original retained only in restricted raw zone
+3127,email,invalid; original retained only in restricted raw zone
+3130,email,invalid; original retained only in restricted raw zone
+3131,email,invalid; original retained only in restricted raw zone
+3141,email,invalid; original retained only in restricted raw zone
+3145,email,invalid; original retained only in restricted raw zone
+3157,district,unrecognised; needs steward review
+3168,phone,invalid; original retained only in restricted raw zone
+3175,email,invalid; original retained only in restricted raw zone
+3234,district,unrecognised; needs steward review
+3235,district,unrecognised; needs steward review
+3237,district,unrecognised; needs steward review
+3267,district,unrecognised; needs steward review
+3275,email,invalid; original retained only in restricted raw zone
+3298,district,unrecognised; needs steward review
+3311,phone,invalid; original retained only in restricted raw zone
+3322,phone,invalid; original retained only in restricted raw zone
+3326,phone,invalid; original retained only in restricted raw zone
+3326,email,invalid; original retained only in restricted raw zone
+3329,phone,invalid; original retained only in restricted raw zone
+3336,district,unrecognised; needs steward review
+3340,district,unrecognised; needs steward review
+3354,district,unrecognised; needs steward review
+3356,email,invalid; original retained only in restricted raw zone
+3358,district,unrecognised; needs steward review
+3377,district,unrecognised; needs steward review
+3382,district,unrecognised; needs steward review
+3390,phone,invalid; original retained only in restricted raw zone
+3390,district,unrecognised; needs steward review
+3415,email,invalid; original retained only in restricted raw zone
+3459,district,unrecognised; needs steward review
+3466,district,unrecognised; needs steward review
+3473,district,unrecognised; needs steward review
+3476,district,unrecognised; needs steward review
+3486,district,unrecognised; needs steward review
+3494,email,invalid; original retained only in restricted raw zone
+3495,district,unrecognised; needs steward review
+3499,email,invalid; original retained only in restricted raw zone
+3499,district,unrecognised; needs steward review
+3517,district,unrecognised; needs steward review
+3523,phone,invalid; original retained only in restricted raw zone
+3531,district,unrecognised; needs steward review
+3532,district,unrecognised; needs steward review
+3534,district,unrecognised; needs steward review
+3538,district,unrecognised; needs steward review
+3544,phone,invalid; original retained only in restricted raw zone
+3555,district,unrecognised; needs steward review
+3560,phone,invalid; original retained only in restricted raw zone
+3563,district,unrecognised; needs steward review
+3568,phone,invalid; original retained only in restricted raw zone
+3578,district,unrecognised; needs steward review
+3618,district,unrecognised; needs steward review
+3621,phone,invalid; original retained only in restricted raw zone
+3621,district,unrecognised; needs steward review
+3627,phone,invalid; original retained only in restricted raw zone
+3633,phone,invalid; original retained only in restricted raw zone
+3646,email,invalid; original retained only in restricted raw zone
+3658,email,invalid; original retained only in restricted raw zone
+3667,district,unrecognised; needs steward review
+3678,email,invalid; original retained only in restricted raw zone
+3693,email,invalid; original retained only in restricted raw zone
+3699,phone,invalid; original retained only in restricted raw zone
+3705,district,unrecognised; needs steward review
+3719,phone,invalid; original retained only in restricted raw zone
+3724,email,invalid; original retained only in restricted raw zone
+3740,phone,invalid; original retained only in restricted raw zone
+3752,district,unrecognised; needs steward review
+3761,district,unrecognised; needs steward review
+3773,district,unrecognised; needs steward review
+3784,district,unrecognised; needs steward review
+3792,district,unrecognised; needs steward review
+3794,phone,invalid; original retained only in restricted raw zone
+3799,district,unrecognised; needs steward review
+3816,district,unrecognised; needs steward review
+3827,district,unrecognised; needs steward review
+3835,district,unrecognised; needs steward review
+3839,phone,invalid; original retained only in restricted raw zone
+3841,email,invalid; original retained only in restricted raw zone
+3852,district,unrecognised; needs steward review
+3865,district,unrecognised; needs steward review
+3889,email,invalid; original retained only in restricted raw zone
+3890,phone,invalid; original retained only in restricted raw zone
+3894,district,unrecognised; needs steward review
+3919,district,unrecognised; needs steward review
+3927,district,unrecognised; needs steward review
+3937,phone,invalid; original retained only in restricted raw zone
+3952,district,unrecognised; needs steward review
+3956,district,unrecognised; needs steward review
+3960,district,unrecognised; needs steward review
+3961,email,invalid; original retained only in restricted raw zone
+3968,email,invalid; original retained only in restricted raw zone
+3987,district,unrecognised; needs steward review
+4005,district,unrecognised; needs steward review
+4019,district,unrecognised; needs steward review
+4020,phone,invalid; original retained only in restricted raw zone
+4024,phone,invalid; original retained only in restricted raw zone
+4026,phone,invalid; original retained only in restricted raw zone
+4029,email,invalid; original retained only in restricted raw zone
+4037,phone,invalid; original retained only in restricted raw zone
+4040,email,invalid; original retained only in restricted raw zone
+4045,district,unrecognised; needs steward review
+4082,phone,invalid; original retained only in restricted raw zone
+4092,district,unrecognised; needs steward review
+4094,district,unrecognised; needs steward review
+4109,district,unrecognised; needs steward review
+4110,email,invalid; original retained only in restricted raw zone
+4112,phone,invalid; original retained only in restricted raw zone
+4114,district,unrecognised; needs steward review
+4116,phone,invalid; original retained only in restricted raw zone
+4116,email,invalid; original retained only in restricted raw zone
+4136,district,unrecognised; needs steward review
+4148,phone,invalid; original retained only in restricted raw zone
+4148,email,invalid; original retained only in restricted raw zone
+4167,email,invalid; original retained only in restricted raw zone
+4190,district,unrecognised; needs steward review
+4200,email,invalid; original retained only in restricted raw zone
+4204,email,invalid; original retained only in restricted raw zone
+4206,phone,invalid; original retained only in restricted raw zone
+4208,email,invalid; original retained only in restricted raw zone
+4223,phone,invalid; original retained only in restricted raw zone
+4228,email,invalid; original retained only in restricted raw zone
+4229,district,unrecognised; needs steward review
+4235,district,unrecognised; needs steward review
+4240,email,invalid; original retained only in restricted raw zone
+4242,email,invalid; original retained only in restricted raw zone
+4245,district,unrecognised; needs steward review
+4264,district,unrecognised; needs steward review
+4266,district,unrecognised; needs steward review
+4271,district,unrecognised; needs steward review
+4298,phone,invalid; original retained only in restricted raw zone
+4329,district,unrecognised; needs steward review
+4332,phone,invalid; original retained only in restricted raw zone
+4335,phone,invalid; original retained only in restricted raw zone
+4340,district,unrecognised; needs steward review
+4341,district,unrecognised; needs steward review
+4346,phone,invalid; original retained only in restricted raw zone
+4347,phone,invalid; original retained only in restricted raw zone
+4377,email,invalid; original retained only in restricted raw zone
+4380,email,invalid; original retained only in restricted raw zone
+4380,district,unrecognised; needs steward review
+4381,email,invalid; original retained only in restricted raw zone
+4384,email,invalid; original retained only in restricted raw zone
+4392,email,invalid; original retained only in restricted raw zone
+4400,phone,invalid; original retained only in restricted raw zone
+4415,email,invalid; original retained only in restricted raw zone
+4418,district,unrecognised; needs steward review
+4419,email,invalid; original retained only in restricted raw zone
+4427,district,unrecognised; needs steward review
+4431,email,invalid; original retained only in restricted raw zone
+4448,phone,invalid; original retained only in restricted raw zone
+4454,phone,invalid; original retained only in restricted raw zone
+4473,district,unrecognised; needs steward review
+4480,district,unrecognised; needs steward review
+4486,email,invalid; original retained only in restricted raw zone
+4494,phone,invalid; original retained only in restricted raw zone
+4505,district,unrecognised; needs steward review
+4514,district,unrecognised; needs steward review
+4519,phone,invalid; original retained only in restricted raw zone
+4520,district,unrecognised; needs steward review
+4521,district,unrecognised; needs steward review
+4522,phone,invalid; original retained only in restricted raw zone
+4538,phone,invalid; original retained only in restricted raw zone
+4546,district,unrecognised; needs steward review
+4563,email,invalid; original retained only in restricted raw zone
+4570,phone,invalid; original retained only in restricted raw zone
+4571,email,invalid; original retained only in restricted raw zone
+4581,phone,invalid; original retained only in restricted raw zone
+4583,district,unrecognised; needs steward review
+4591,district,unrecognised; needs steward review
+4594,email,invalid; original retained only in restricted raw zone
+4611,phone,invalid; original retained only in restricted raw zone
+4614,district,unrecognised; needs steward review
+4615,phone,invalid; original retained only in restricted raw zone
+4630,email,invalid; original retained only in restricted raw zone
+4658,district,unrecognised; needs steward review
+4660,phone,invalid; original retained only in restricted raw zone
+4670,email,invalid; original retained only in restricted raw zone
+4677,phone,invalid; original retained only in restricted raw zone
+4678,email,invalid; original retained only in restricted raw zone
+4679,phone,invalid; original retained only in restricted raw zone
+4696,district,unrecognised; needs steward review
+4716,phone,invalid; original retained only in restricted raw zone
+4741,email,invalid; original retained only in restricted raw zone
+4766,email,invalid; original retained only in restricted raw zone
+4771,phone,invalid; original retained only in restricted raw zone
+4777,district,unrecognised; needs steward review
+4779,phone,invalid; original retained only in restricted raw zone
+4791,phone,invalid; original retained only in restricted raw zone
+4791,district,unrecognised; needs steward review
+4794,district,unrecognised; needs steward review
+4796,email,invalid; original retained only in restricted raw zone
+4817,email,invalid; original retained only in restricted raw zone
+4831,district,unrecognised; needs steward review
+4841,phone,invalid; original retained only in restricted raw zone
+4842,district,unrecognised; needs steward review
+4853,district,unrecognised; needs steward review
+4856,district,unrecognised; needs steward review
+4860,email,invalid; original retained only in restricted raw zone
+4886,phone,invalid; original retained only in restricted raw zone
+4887,district,unrecognised; needs steward review
+4910,phone,invalid; original retained only in restricted raw zone
+4932,district,unrecognised; needs steward review
+4958,phone,invalid; original retained only in restricted raw zone
+4968,phone,invalid; original retained only in restricted raw zone
+4974,phone,invalid; original retained only in restricted raw zone
+4974,email,invalid; original retained only in restricted raw zone
+4976,email,invalid; original retained only in restricted raw zone
+4982,email,invalid; original retained only in restricted raw zone
+4991,district,unrecognised; needs steward review
+4998,district,unrecognised; needs steward review
+5000,phone,invalid; original retained only in restricted raw zone
+5000,district,unrecognised; needs steward review

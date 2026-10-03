@@ -1,0 +1,16 @@
+Rule,Enforced check,Owner / upstream process change
+Q01,Source + source ID present and unique,"IT: generate IDs offline, never from row number alone."
+Q02,Phone parses under country contract,Customer service: country selector and helpful entry feedback.
+Q03,Missing email never replaced by invented address,Customer service: allow explicit “not provided”.
+Q04,District from approved effective-dated list,"Customer service: searchable list, not free-text spelling."
+Q05,Ambiguous dates rejected until source format approved,IT: ISO export contract for each source.
+Q06,Date of birth not future; avoid unnecessary collection,DPO: age-band use where sufficient.
+Q07,"Marketing consent requires purpose, time and source",DPO: separate unchecked marketing control.
+Q08,Product SKU maps to one approved product,Procurement: controlled crosswalk change request.
+Q09,Unit and pack quantity explicitly specified,Procurement: receiving checklist and supplier confirmation.
+Q10,Nonzero quantity; negative allowed for return,COO: return reason and original-sale link where available.
+Q11,Currency explicit; price nonnegative numeric,"CFO: source-specific parser, no guessed FX rate."
+Q12,Settled electronic payments require provider reference,CFO: reconcile provider feed and settlement status.
+Q13,Order and product FK lookups resolve,IT: quarantine and replay after master approval.
+Q14,SCD2 periods cannot overlap,"IT: transaction, per-key lock and restricted SCD2 procedure."
+Q15,File manifest checksum and control totals match,IT: no silent truncation or half-file loads.

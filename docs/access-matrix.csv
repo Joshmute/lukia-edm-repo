@@ -1,0 +1,7 @@
+Role,Object and permitted operation,Explicit restriction
+Analyst,SELECT certified aggregate analytics view,"No core contacts, HR, raw facts or writes"
+Customer steward,SELECT customer/crosswalk/product; UPDATE contact columns,Cannot invent marketing consent or read payroll
+ETL service,SELECT operational retail; INSERT/UPDATE facts; EXECUTE controlled dimension procedures,"No HR, role administration or destructive DDL"
+HR officer,SELECT/INSERT/UPDATE HR employee table,No retail customer grants
+Store cashier,Store-scoped application create/read,No direct SQL or bulk export privileges
+IT administrator,Controlled maintenance account,"Separate normal account; logged, reviewed elevated access"

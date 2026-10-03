@@ -1,0 +1,11 @@
+ID / choice,Alternatives and criteria,Evidence / reversal trigger
+D01 Hub-and-spoke,"Central, decentralised, federated; offline continuity, skills, cost, consistency",Scenario outages and four IT staff. Reconsider central transactions after sustained reliable connectivity and a tested fallback.
+D02 Consolidation then coexistence MDM,"Registry, fully centralised; safe adoption and source autonomy",Wrong loyalty attribution and local signups. Change if source applications cannot accept mappings or review capacity fails.
+D03 No score-only auto-merge,Aggressive fuzzy merge; false-merge harm vs recall,Shared phones and missing verified labels. Revisit only after reviewed labels demonstrate high precision across difficult groups.
+D04 Batch before selective streaming,Full CDC everywhere; business latency and support cost,Reporting cycle is 11 days; daily outages. Expand only after pilot benefit exceeds support cost.
+D05 MySQL core + separate star,"Operational-only reporting, full lakehouse; SQL skills and grain clarity",Two SQL-capable staff; small sample volumes. Revisit after measured concurrency/scale limits.
+D06 SCD2 for product/store,Overwrite current values; historical comparability vs complexity,Categories and store attributes can change. Simplify only if history is demonstrably irrelevant to agreed reporting.
+D07 Dictionary now; Purview pilot later,"Atlas now, commercial rollout now; ownership, support, capped cost","Metadata capabilities documented [S11,S12]; SRG has no data engineering experience. Reconsider when manual upkeep exceeds capacity and quotes fit."
+D08 Managed export restriction,Training-only policy; feasibility and theft exposure,Jinja unencrypted export. Revise approved workflow if it blocks essential work; do not remove the control without a replacement.
+D09 Pseudonymised internal BI; aggregate public release,Public row-level data; privacy and academic publication,Required live dashboard and sensitive customer data. Use private BI where approved aggregates cannot preserve utility safely.
+D10 468M programme cap,Spend 720M over 18 months under annual interpretation; affordability and ambiguity,Brief says both annual budget and fixed envelope. Rebaseline only after explicit Board/instructor clarification.

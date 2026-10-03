@@ -1,0 +1,14 @@
+Obligation,Current evidence / gap,"Action, owner and priority"
+Uganda DPPA s6; s29; Regulations r15,DPO appointment and registration unknown,"CEO appoints DPO; DPO verifies registration, renewal and annual reporting. P1 [S1,S2,S3]"
+"DPPA ss7,12-14","Lawful basis, notices and minimisation unproven",DPO maps purposes and collection notices; separate optional marketing. P1 [S1]
+DPPA ss15-16,Duplicate identities; correction route unknown,Customer owner approves quality rules and correction queue. P1 [S1]
+DPPA s18,Export deletion/retention unproven,DPO approves schedule and holds; IT tests deletion. P1 [S1]
+DPPA s19,Cloud locations and safeguards unknown,DPO inventories transfers and records protection assessment. P1 [S1]
+DPPA ss20-22,Unencrypted laptop export,"IT enforces managed encryption, least privilege and processor controls. P0 [S1]"
+DPPA s23; r33,Eleven-day delay; no notification,"DPO opens incident, notifies immediately and follows PDPO subject-notification direction. P0 [S1,S2]"
+"DPPA ss24,26,28",Rights and marketing objection procedures unknown,Customer service operates logged requests and downstream correction. P1 [S1]
+"GDPR arts3,6,7,13",EU partnership alone does not prove direct scope,"DPO distinguishes contractual expectations from EU-targeted processing; document purpose/basis. P1 [S4,S6]"
+"GDPR arts12,15-22",Rights workflow unproven,"DPO tests access, correction, erasure, portability and objections with statutory exceptions. P1 [S6]"
+GDPR arts32-35,"Security, incident handling and EU loyalty DPIA missing",IT tests controls; DPO completes DPIA before launch. P0/P1 [S5]
+GDPR arts44-49,Transfer mechanism not established,DPO assesses each transfer; select suitable safeguards and supplementary controls. P1 [S7]
+CCPA comparison,California business/scope not established,"Use access, correction, deletion and sale/sharing opt-out as comparison; do not assert present applicability. P2 [S10]"

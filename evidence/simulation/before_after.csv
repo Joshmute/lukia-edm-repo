@@ -1,0 +1,31 @@
+domain,metric,before,after
+customers,rows,5000,4060
+customers,accuracy_pct,92.75,100.0
+customers,accuracy_note,Agreement with generator truth on all specified values; not independently verified real-world accuracy.,Agreement with generator truth on all specified values; not independently verified real-world accuracy.
+customers,timeliness_note,Freshness uses updated_at <=90 days; missing/invalid timestamps are unassessable.,Freshness uses updated_at <=90 days; missing/invalid timestamps are unassessable.
+customers,timeliness_assessable_rows,5000,4060
+customers,timeliness_pct,83.32,83.33
+customers,candidate_duplicate_excess_rows,791,0
+customers,candidate_duplicate_pct,15.82,0.0
+customers,uniqueness_pct,84.18,100.0
+customers,identity_assessable_rows,4212,4060
+customers,missing_contact_pct,7.7,0.0
+customers,completeness_pct,90.18,100.0
+customers,validity_pct,84.52,100.0
+customers,invalid_district_rows,256,0
+customers,consistency_pct,17.84,100.0
+customers,accuracy_checked_values,20000,16240
+customers,accuracy_correct_values,18549,16240
+products,rows,1200,1080
+products,accuracy_pct,94.44,100.0
+products,accuracy_note,Agreement with generator truth on all specified values; not independently verified real-world accuracy.,Agreement with generator truth on all specified values; not independently verified real-world accuracy.
+products,timeliness_note,Freshness uses updated_at <=90 days; missing/invalid timestamps are unassessable.,Freshness uses updated_at <=90 days; missing/invalid timestamps are unassessable.
+products,timeliness_assessable_rows,1200,1080
+products,timeliness_pct,90.0,90.0
+products,duplicate_sku_excess_rows,120,0
+products,uniqueness_pct,90.0,100.0
+products,completeness_pct,100.0,100.0
+products,consistency_pct,25.0,100.0
+products,validity_pct,12.5,100.0
+products,accuracy_checked_values,3600,3240
+products,accuracy_correct_values,3400,3240
