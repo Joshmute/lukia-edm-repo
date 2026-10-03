@@ -8,7 +8,7 @@ Prepared for the Enterprise Data Management individual capstone.
 
 3 October 2026 | MySQL implementation
 
-Repository: [GitHub repository link to be added]
+Repository: https://github.com/Joshmute/lukia-edm-repo
 
 **AI assistance declaration:** OpenAI Codex and Anthropic Claude (Claude Code and Claude for Chrome) assisted with research, drafting, code, simulation data, diagrams, dashboard construction and test execution. All outputs were executed and checked.
 
@@ -594,7 +594,7 @@ Sources checked 3 October 2026. Legal controls require review for the actual dep
 
 [S14] Microsoft Learn. Modern data warehouses for small/medium businesses. https://learn.microsoft.com/en-us/azure/architecture/example-scenario/data/small-medium-data-warehouse
 
-Primary assignment source: ENTERPRISE DATA MANAGEMENT.pdf, supplied twelve-page brief. No instructor datasets or interview transcripts were available when this edition was produced. Supporting registers (assumptions, RACI, risk, decision log, data dictionary, compliance, validation and access) are in the repository docs/ folder.
+Primary assignment source: ENTERPRISE DATA MANAGEMENT.pdf, supplied twelve-page brief. No instructor datasets or interview transcripts were available when this edition was produced. Supporting registers (assumptions, RACI, risk, decision log, data dictionary, compliance, validation and access) are in the repository docs/ folder: https://github.com/Joshmute/lukia-edm-repo
 
 **AI assistance declaration:** OpenAI Codex and Anthropic Claude (Claude Code and Claude for Chrome) assisted with research, drafting, code, simulation data, diagrams, dashboard construction and test execution. All outputs were executed and checked.
 
